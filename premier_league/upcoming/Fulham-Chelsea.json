@@ -1,0 +1,110 @@
+{
+    "tournament": {
+        "name": "Premier League 23/24",
+        "slug": "premier-league-23/24",
+        "category": {
+            "name": "England",
+            "slug": "england",
+            "sport": {
+                "name": "Football",
+                "slug": "football",
+                "_id": {
+                    "$oid": "64fa9de872175c9663ba1f3a"
+                }
+            },
+            "_id": {
+                "$oid": "64fa9e3972175c9663ba1f3c"
+            }
+        },
+        "uniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "_id": {
+                        "$oid": "64fa9de872175c9663ba1f3a"
+                    }
+                },
+                "_id": {
+                    "$oid": "64fa9e3972175c9663ba1f3c"
+                }
+            },
+            "userCount": 1293862,
+            "image": "",
+            "_id": {
+                "$oid": "64fe7c4e4083769fbfe885f7"
+            }
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64fad93972175c9663ba1f7e"
+        }
+    },
+    "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+    },
+    "homeTeam": {
+        "name": "Fulham",
+        "slug": "fulham",
+        "shortName": "Fulham",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "_id": {
+                "$oid": "64fa9de872175c9663ba1f3a"
+            }
+        },
+        "userCount": 116961,
+        "nameCode": "FUL",
+        "country": {
+            "_id": {
+                "$oid": "64faa02272175c9663ba1f48"
+            },
+            "name": "England",
+            "slug": "england",
+            "alpha2": "EN"
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64face4672175c9663ba1f69"
+        }
+    },
+    "awayTeam": {
+        "name": "Chelsea",
+        "slug": "chelsea",
+        "shortName": "Chelsea",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "_id": {
+                "$oid": "64fa9de872175c9663ba1f3a"
+            }
+        },
+        "userCount": 913365,
+        "nameCode": "CHE",
+        "country": {
+            "_id": {
+                "$oid": "64faa02272175c9663ba1f48"
+            },
+            "name": "England",
+            "slug": "england",
+            "alpha2": "EN"
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64face4272175c9663ba1f68"
+        }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "startTimestamp": 1696273200,
+    "slug": "fulham-chelsea",
+    "round": 7
+}

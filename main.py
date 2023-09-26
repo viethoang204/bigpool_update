@@ -158,12 +158,13 @@ def get_dict(json_file):
 
     return team_dict
 
+from selenium import webdriver
+
 def fetch_content_from_txt_file(txt_filename, lst_folder):
     file_name = txt_filename.split('.')[0]
 
-    # Create a service object
-    s = Service("./chromedriver")
-    browser = webdriver.Chrome(service=s)
+    # Create a Chrome WebDriver instance
+    browser = webdriver.Chrome(executable_path="./chromedriver")
 
     with open(txt_filename, 'r') as file:
         lines = file.readlines()
@@ -198,6 +199,7 @@ def fetch_content_from_txt_file(txt_filename, lst_folder):
                 print(f"Dòng không hợp lệ: {line.strip()}")
 
     browser.quit()
+
 
 def process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team):
     for folder in lst_folder:
@@ -507,23 +509,22 @@ if __name__ == "__main__":
     print(year_trm)
 
     # DELETE ALL FILE JSON
-    # delete_json_files(lst_folder)
+    delete_json_files(lst_folder)
 
     # CRAWL DATA
-    # fetch_content_from_txt_file("past.txt", lst_folder)
-    # fetch_content_from_txt_file("upcoming.txt", lst_folder)
-    # fetch_content_from_txt_file("standing.txt", lst_folder)
+    fetch_content_from_txt_file("past.txt", lst_folder)
+    fetch_content_from_txt_file("upcoming.txt", lst_folder)
+    fetch_content_from_txt_file("standing.txt", lst_folder)
 
     # GET WEEK
-    # week = get_week(lst_folder)
-    # print(week)
+    week = get_week(lst_folder)
 
     # # CLEAN
-    # process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
-    # process_past_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
-    # process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    process_past_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
 
     # PUSH
-    # push_data(lst_folder, 'standing')
-    # push_data(lst_folder, 'past')
-    # push_data(lst_folder, 'upcoming')
+    push_data(lst_folder, 'standing')
+    push_data(lst_folder, 'past')
+    push_data(lst_folder, 'upcoming')

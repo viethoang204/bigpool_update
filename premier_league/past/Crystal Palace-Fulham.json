@@ -1,0 +1,127 @@
+{
+    "tournament": {
+        "name": "Premier League 23/24",
+        "slug": "premier-league-23/24",
+        "category": {
+            "name": "England",
+            "slug": "england",
+            "sport": {
+                "name": "Football",
+                "slug": "football",
+                "_id": {
+                    "$oid": "64fa9de872175c9663ba1f3a"
+                }
+            },
+            "_id": {
+                "$oid": "64fa9e3972175c9663ba1f3c"
+            }
+        },
+        "uniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "_id": {
+                        "$oid": "64fa9de872175c9663ba1f3a"
+                    }
+                },
+                "_id": {
+                    "$oid": "64fa9e3972175c9663ba1f3c"
+                }
+            },
+            "userCount": 1293862,
+            "image": "",
+            "_id": {
+                "$oid": "64fe7c4e4083769fbfe885f7"
+            }
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64fad93972175c9663ba1f7e"
+        }
+    },
+    "status": {
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
+    },
+    "winnerCode": 3,
+    "homeTeam": {
+        "name": "Crystal Palace",
+        "slug": "crystal-palace",
+        "shortName": "Crystal Palace",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "_id": {
+                "$oid": "64fa9de872175c9663ba1f3a"
+            }
+        },
+        "userCount": 106547,
+        "nameCode": "CRY",
+        "country": {
+            "_id": {
+                "$oid": "64faa02272175c9663ba1f48"
+            },
+            "name": "England",
+            "slug": "england",
+            "alpha2": "EN"
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64face3072175c9663ba1f63"
+        }
+    },
+    "awayTeam": {
+        "name": "Fulham",
+        "slug": "fulham",
+        "shortName": "Fulham",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "_id": {
+                "$oid": "64fa9de872175c9663ba1f3a"
+            }
+        },
+        "userCount": 116961,
+        "nameCode": "FUL",
+        "country": {
+            "_id": {
+                "$oid": "64faa02272175c9663ba1f48"
+            },
+            "name": "England",
+            "slug": "england",
+            "alpha2": "EN"
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64face4672175c9663ba1f69"
+        }
+    },
+    "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0,
+        "normaltime": 0
+    },
+    "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0,
+        "normaltime": 0
+    },
+    "time": {
+        "injuryTime1": 4,
+        "injuryTime2": 4,
+        "currentPeriodStartTimestamp": 1695481566
+    },
+    "startTimestamp": 1695477600,
+    "slug": "crystal-palace-fulham",
+    "round": 6
+}
