@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64faa02272175c9663ba1f48"
+  },
+  "name": "England",
+  "slug": "england",
+  "alpha2": "EN"
+},
+{
+  "_id": {
+    "$oid": "6501737bac6bf018d763de74"
+  },
+  "name": "Spain",
+  "slug": "spain",
+  "alpha2": "ES"
+},
+{
+  "_id": {
+    "$oid": "650174c4ac6bf018d763de75"
+  },
+  "name": "Italy",
+  "slug": "italy",
+  "alpha2": "IT"
+},
+{
+  "_id": {
+    "$oid": "6501753bac6bf018d763de76"
+  },
+  "name": "Germany",
+  "slug": "germany",
+  "alpha2": "DE"
+},
+{
+  "_id": {
+    "$oid": "650175cbac6bf018d763de78"
+  },
+  "name": "France",
+  "slug": "france",
+  "alpha2": "FR"
+}]

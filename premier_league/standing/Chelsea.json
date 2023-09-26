@@ -1,0 +1,84 @@
+{
+    "tournament": {
+        "name": "Premier League 23/24",
+        "slug": "premier-league-23/24",
+        "category": {
+            "name": "England",
+            "slug": "england",
+            "sport": {
+                "name": "Football",
+                "slug": "football",
+                "_id": {
+                    "$oid": "64fa9de872175c9663ba1f3a"
+                }
+            },
+            "_id": {
+                "$oid": "64fa9e3972175c9663ba1f3c"
+            }
+        },
+        "uniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "_id": {
+                        "$oid": "64fa9de872175c9663ba1f3a"
+                    }
+                },
+                "_id": {
+                    "$oid": "64fa9e3972175c9663ba1f3c"
+                }
+            },
+            "userCount": 1293862,
+            "image": "",
+            "_id": {
+                "$oid": "64fe7c4e4083769fbfe885f7"
+            }
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64fad93972175c9663ba1f7e"
+        }
+    },
+    "team": {
+        "name": "Chelsea",
+        "slug": "chelsea",
+        "shortName": "Chelsea",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "_id": {
+                "$oid": "64fa9de872175c9663ba1f3a"
+            }
+        },
+        "userCount": 913365,
+        "nameCode": "CHE",
+        "country": {
+            "_id": {
+                "$oid": "64faa02272175c9663ba1f48"
+            },
+            "name": "England",
+            "slug": "england",
+            "alpha2": "EN"
+        },
+        "image": "",
+        "_id": {
+            "$oid": "64face4272175c9663ba1f68"
+        }
+    },
+    "descriptions": "",
+    "position": 14,
+    "matches": 6,
+    "wins": 1,
+    "scoresFor": 5,
+    "scoresAgainst": 6,
+    "losses": 3,
+    "draws": 2,
+    "points": 5,
+    "power": 7,
+    "round": 6
+}

@@ -1,0 +1,5 @@
+EN: https://api.sofascore.com/api/v1/unique-tournament/17/season/52186/events/last/0
+ES: https://api.sofascore.com/api/v1/unique-tournament/8/season/52376/events/last/0
+IT: https://api.sofascore.com/api/v1/unique-tournament/23/season/52760/events/last/0
+DE: https://api.sofascore.com/api/v1/unique-tournament/35/season/52608/events/last/0
+FR: https://api.sofascore.com/api/v1/unique-tournament/34/season/52571/events/last/0

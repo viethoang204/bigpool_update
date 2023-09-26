@@ -1,0 +1,5 @@
+EN: https://api.sofascore.com/api/v1/unique-tournament/17/season/52186/standings/total
+ES: https://api.sofascore.com/api/v1/unique-tournament/8/season/52376/standings/total
+IT: https://api.sofascore.com/api/v1/unique-tournament/23/season/52760/standings/total
+DE: https://api.sofascore.com/api/v1/unique-tournament/35/season/52608/standings/total
+FR: https://api.sofascore.com/api/v1/unique-tournament/34/season/52571/standings/total
