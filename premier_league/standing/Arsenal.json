@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 913037,
+        "userCount": 913617,
         "nameCode": "ARS",
         "country": {
             "_id": {
@@ -71,14 +71,14 @@
         }
     },
     "descriptions": "",
-    "position": 5,
-    "matches": 6,
-    "wins": 4,
-    "scoresFor": 11,
+    "position": 3,
+    "matches": 7,
+    "wins": 5,
+    "scoresFor": 15,
     "scoresAgainst": 6,
     "losses": 0,
     "draws": 2,
-    "points": 14,
-    "power": 16,
-    "round": 6
+    "points": 17,
+    "power": 18,
+    "round": 7
 }

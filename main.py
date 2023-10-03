@@ -158,8 +158,6 @@ def get_dict(json_file):
 
     return team_dict
 
-from selenium import webdriver
-
 def fetch_content_from_txt_file(txt_filename, lst_folder):
     file_name = txt_filename.split('.')[0]
 
@@ -199,7 +197,6 @@ def fetch_content_from_txt_file(txt_filename, lst_folder):
                 print(f"Dòng không hợp lệ: {line.strip()}")
 
     browser.quit()
-
 
 def process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team):
     for folder in lst_folder:
@@ -432,13 +429,14 @@ def push_data(lst_folder, file_name):
                     # Convert all nested "$oid" to ObjectId
                     json_data = convert_to_objectid(json_data)
 
-                    json_data['updatedAtTimeStamp'] = get_current_date_timestamp()
+                    json_data['updatedAtTimestamp'] = get_current_date_timestamp()
                     # Chèn dữ liệu vào collection
                     collection.insert_one(json_data)
+        print('standing was updated succesfully')
 
     elif file_name == 'past':
         collection = db['events']
-        cursor = collection.find()
+        collection_ = db['rounds']
         for folder in lst_folder:
             subfolder_path = os.path.join(folder, 'past')
             json_files = [f for f in os.listdir(subfolder_path) if f.endswith(".json")]
@@ -448,25 +446,43 @@ def push_data(lst_folder, file_name):
                 file_path = os.path.join(subfolder_path, file_name)
                 with open(file_path, 'r') as file:
                     json_data = json.load(file)
-
                     json_data = convert_to_objectid(json_data)
-
                     filter_criteria = {
                         'slug': json_data['slug'],
                         'round': json_data['round']
                     }
-
                     update_data = {
                         '$set': {
                             'status': json_data['status'],
                             'awayScore': json_data['awayScore'],
                             'homeScore': json_data['homeScore'],
-                            'updatedAtTimeStamp': get_current_date_timestamp()
+                            'winnerCode': json_data['winnerCode'],
+                            'updatedAtTimestamp': get_current_date_timestamp()
+                        }
+                    }
+
+                    filter_criteria_ = {
+                        'events.slug': json_data['slug'],
+                        'events.round': json_data['round'],
+                        'round': json_data['round']
+                    }
+
+                    update_data_ = {
+                        '$set': {
+                            'status.code': '100',
+                            'status.description': 'Kết thúc',
+                            'events.$.status': json_data['status'],
+                            'events.$.awayScore': json_data['awayScore'],
+                            'events.$.homeScore': json_data['homeScore'],
+                            'events.$.winnerCode': json_data['winnerCode'],
+                            'events.$.updatedAtTimestamp': get_current_date_timestamp()
                         }
                     }
 
                     # Update the document in the MongoDB collection
-                    collection.update_one(filter_criteria, update_data)
+                    # collection.update_one(filter_criteria, update_data)
+                    collection_.update_one(filter_criteria_, update_data_)
+        print('past was updated succesfully')
 
 
     elif file_name == 'upcoming':
@@ -481,9 +497,10 @@ def push_data(lst_folder, file_name):
                 with open(file_path, 'r') as file:
                     json_data = json.load(file)
                     json_data = convert_to_objectid(json_data)
-                    json_data['updatedAtTimeStamp'] = get_current_date_timestamp()
+                    json_data['updatedAtTimestamp'] = get_current_date_timestamp()
                     # Chèn dữ liệu vào collection
                     collection.insert_one(json_data)
+        print('upcomming was updated succesfully')
 
     # Close the connection
     client.close()
@@ -506,25 +523,25 @@ dict_team_country = extract_name_country('src/pool_football.team.json')
 
 if __name__ == "__main__":
     year_trm = '23/24'
-    print(year_trm)
 
     # DELETE ALL FILE JSON
-    delete_json_files(lst_folder)
+    # delete_json_files(lst_folder)
 
     # CRAWL DATA
-    fetch_content_from_txt_file("past.txt", lst_folder)
-    fetch_content_from_txt_file("upcoming.txt", lst_folder)
-    fetch_content_from_txt_file("standing.txt", lst_folder)
+    # fetch_content_from_txt_file("standing.txt", lst_folder)
+    # fetch_content_from_txt_file("past.txt", lst_folder)
+    # fetch_content_from_txt_file("upcoming.txt", lst_folder)
 
     # GET WEEK
-    week = get_week(lst_folder)
+    # week = get_week(lst_folder)
+    # week = {'premier_league': {'past_week': 7, 'upcoming_week': 8}}
 
     # # CLEAN
-    process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
-    process_past_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
-    process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    # process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    # process_past_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    # process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
 
     # PUSH
     push_data(lst_folder, 'standing')
-    push_data(lst_folder, 'past')
-    push_data(lst_folder, 'upcoming')
+    # push_data(lst_folder, 'past')
+    # push_data(lst_folder, 'upcoming')

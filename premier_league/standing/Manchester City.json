@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 1241737,
+        "userCount": 1243291,
         "nameCode": "MCI",
         "country": {
             "_id": {
@@ -72,13 +72,13 @@
     },
     "descriptions": "",
     "position": 1,
-    "matches": 6,
+    "matches": 7,
     "wins": 6,
-    "scoresFor": 16,
-    "scoresAgainst": 3,
-    "losses": 0,
+    "scoresFor": 17,
+    "scoresAgainst": 5,
+    "losses": 1,
     "draws": 0,
     "points": 18,
     "power": 20,
-    "round": 6
+    "round": 7
 }

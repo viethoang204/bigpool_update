@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 1242901,
+        "userCount": 1236055,
         "nameCode": "MUN",
         "country": {
             "_id": {
@@ -71,14 +71,14 @@
         }
     },
     "descriptions": "",
-    "position": 9,
-    "matches": 6,
+    "position": 10,
+    "matches": 7,
     "wins": 3,
     "scoresFor": 7,
-    "scoresAgainst": 10,
-    "losses": 3,
+    "scoresAgainst": 11,
+    "losses": 4,
     "draws": 0,
     "points": 9,
-    "power": 12,
-    "round": 6
+    "power": 11,
+    "round": 7
 }

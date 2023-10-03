@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 288563,
+        "userCount": 294917,
         "nameCode": "NEW",
         "country": {
             "_id": {
@@ -72,13 +72,13 @@
     },
     "descriptions": "",
     "position": 8,
-    "matches": 6,
-    "wins": 3,
-    "scoresFor": 16,
+    "matches": 7,
+    "wins": 4,
+    "scoresFor": 18,
     "scoresAgainst": 7,
     "losses": 3,
     "draws": 0,
-    "points": 9,
+    "points": 12,
     "power": 13,
-    "round": 6
+    "round": 7
 }

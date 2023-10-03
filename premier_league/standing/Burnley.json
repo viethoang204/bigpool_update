@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 84346,
+        "userCount": 84648,
         "nameCode": "BUR",
         "country": {
             "_id": {
@@ -72,13 +72,13 @@
     },
     "descriptions": "",
     "position": 19,
-    "matches": 5,
+    "matches": 6,
     "wins": 0,
     "scoresFor": 4,
-    "scoresAgainst": 13,
-    "losses": 4,
+    "scoresAgainst": 15,
+    "losses": 5,
     "draws": 1,
     "points": 1,
     "power": 2,
-    "round": 6
+    "round": 7
 }

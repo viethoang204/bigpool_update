@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 106547,
+        "userCount": 112766,
         "nameCode": "CRY",
         "country": {
             "_id": {
@@ -71,14 +71,14 @@
         }
     },
     "descriptions": "",
-    "position": 10,
-    "matches": 6,
-    "wins": 2,
-    "scoresFor": 6,
+    "position": 9,
+    "matches": 7,
+    "wins": 3,
+    "scoresFor": 7,
     "scoresAgainst": 7,
     "losses": 2,
     "draws": 2,
-    "points": 8,
-    "power": 11,
-    "round": 6
+    "points": 11,
+    "power": 12,
+    "round": 7
 }

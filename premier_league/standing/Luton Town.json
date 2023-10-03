@@ -33,7 +33,7 @@
                     "$oid": "64fa9e3972175c9663ba1f3c"
                 }
             },
-            "userCount": 1293862,
+            "userCount": 1287344,
             "image": "",
             "_id": {
                 "$oid": "64fe7c4e4083769fbfe885f7"
@@ -55,7 +55,7 @@
                 "$oid": "64fa9de872175c9663ba1f3a"
             }
         },
-        "userCount": 35802,
+        "userCount": 37166,
         "nameCode": "LUT",
         "country": {
             "_id": {
@@ -71,14 +71,14 @@
         }
     },
     "descriptions": "",
-    "position": 18,
-    "matches": 5,
-    "wins": 0,
-    "scoresFor": 3,
-    "scoresAgainst": 11,
+    "position": 17,
+    "matches": 6,
+    "wins": 1,
+    "scoresFor": 5,
+    "scoresAgainst": 12,
     "losses": 4,
     "draws": 1,
-    "points": 1,
-    "power": 3,
-    "round": 6
+    "points": 4,
+    "power": 4,
+    "round": 7
 }
