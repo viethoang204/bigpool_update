@@ -33,7 +33,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287344,
+                    "userCount": 1287493,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
                     "displayInverseHomeAwayTeams": false
@@ -60,7 +60,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 1243291,
+                        "userCount": 1242280,
                         "nameCode": "MCI",
                         "disabled": false,
                         "national": false,
@@ -98,7 +98,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 557564,
+                        "userCount": 557305,
                         "nameCode": "TOT",
                         "disabled": false,
                         "national": false,
@@ -136,7 +136,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 913617,
+                        "userCount": 920884,
                         "nameCode": "ARS",
                         "disabled": false,
                         "national": false,
@@ -174,7 +174,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 1118510,
+                        "userCount": 1118049,
                         "nameCode": "LIV",
                         "disabled": false,
                         "national": false,
@@ -212,7 +212,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 187978,
+                        "userCount": 187919,
                         "nameCode": "AVL",
                         "disabled": false,
                         "national": false,
@@ -250,7 +250,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 195813,
+                        "userCount": 196003,
                         "nameCode": "BHA",
                         "disabled": false,
                         "national": false,
@@ -284,7 +284,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 221224,
+                        "userCount": 221200,
                         "nameCode": "WHU",
                         "disabled": false,
                         "national": false,
@@ -318,7 +318,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 294917,
+                        "userCount": 295427,
                         "nameCode": "NEW",
                         "disabled": false,
                         "national": false,
@@ -352,7 +352,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 112766,
+                        "userCount": 112637,
                         "nameCode": "CRY",
                         "disabled": false,
                         "national": false,
@@ -386,7 +386,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 1236055,
+                        "userCount": 1240183,
                         "nameCode": "MUN",
                         "disabled": false,
                         "national": false,
@@ -420,7 +420,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 908737,
+                        "userCount": 908044,
                         "nameCode": "CHE",
                         "disabled": false,
                         "national": false,
@@ -454,7 +454,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 99996,
+                        "userCount": 99837,
                         "nameCode": "NFO",
                         "disabled": false,
                         "national": false,
@@ -488,7 +488,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 118334,
+                        "userCount": 118059,
                         "nameCode": "FUL",
                         "disabled": false,
                         "national": false,
@@ -522,7 +522,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 103876,
+                        "userCount": 103714,
                         "nameCode": "BRE",
                         "disabled": false,
                         "national": false,
@@ -556,7 +556,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 130160,
+                        "userCount": 130007,
                         "nameCode": "WOL",
                         "disabled": false,
                         "national": false,
@@ -590,7 +590,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 161972,
+                        "userCount": 161669,
                         "nameCode": "EVE",
                         "disabled": false,
                         "national": false,
@@ -624,7 +624,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 37166,
+                        "userCount": 38062,
                         "nameCode": "LUT",
                         "disabled": false,
                         "national": false,
@@ -638,52 +638,14 @@
                     },
                     "descriptions": [],
                     "position": 17,
-                    "matches": 6,
+                    "matches": 7,
                     "wins": 1,
-                    "scoresFor": 5,
-                    "scoresAgainst": 12,
+                    "scoresFor": 6,
+                    "scoresAgainst": 14,
                     "id": 866357,
-                    "losses": 4,
+                    "losses": 5,
                     "draws": 1,
                     "points": 4
-                },
-                {
-                    "team": {
-                        "name": "Bournemouth",
-                        "slug": "bournemouth",
-                        "shortName": "Bournemouth",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 73551,
-                        "nameCode": "BOU",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 60,
-                        "teamColors": {
-                            "primary": "#000000",
-                            "secondary": "#cc0000",
-                            "text": "#cc0000"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "Relegation",
-                        "id": 3
-                    },
-                    "position": 18,
-                    "matches": 7,
-                    "wins": 0,
-                    "scoresFor": 5,
-                    "scoresAgainst": 15,
-                    "id": 866346,
-                    "losses": 4,
-                    "draws": 3,
-                    "points": 3
                 },
                 {
                     "team": {
@@ -696,7 +658,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 84648,
+                        "userCount": 85714,
                         "nameCode": "BUR",
                         "disabled": false,
                         "national": false,
@@ -713,15 +675,53 @@
                         "text": "Relegation",
                         "id": 3
                     },
-                    "position": 19,
-                    "matches": 6,
-                    "wins": 0,
-                    "scoresFor": 4,
-                    "scoresAgainst": 15,
+                    "position": 18,
+                    "matches": 7,
+                    "wins": 1,
+                    "scoresFor": 6,
+                    "scoresAgainst": 16,
                     "id": 866351,
                     "losses": 5,
                     "draws": 1,
-                    "points": 1
+                    "points": 4
+                },
+                {
+                    "team": {
+                        "name": "Bournemouth",
+                        "slug": "bournemouth",
+                        "shortName": "Bournemouth",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 73418,
+                        "nameCode": "BOU",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 60,
+                        "teamColors": {
+                            "primary": "#000000",
+                            "secondary": "#cc0000",
+                            "text": "#cc0000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Relegation",
+                        "id": 3
+                    },
+                    "position": 19,
+                    "matches": 7,
+                    "wins": 0,
+                    "scoresFor": 5,
+                    "scoresAgainst": 15,
+                    "id": 866346,
+                    "losses": 4,
+                    "draws": 3,
+                    "points": 3
                 },
                 {
                     "team": {
@@ -734,7 +734,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 57776,
+                        "userCount": 57725,
                         "nameCode": "SHU",
                         "disabled": false,
                         "national": false,
