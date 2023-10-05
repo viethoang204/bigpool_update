@@ -57,7 +57,6 @@ def get_week(lst_folder):
             folder_data['past_week'] = round
             folder_data['upcoming_week'] = round + 1
             dict_week[dict_name] = folder_data
-        break
     return dict_week
 
 def delete_json_files(folder_list):
@@ -502,7 +501,6 @@ def process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_catego
         else:
             print(f"File upcoming.json in the directory {folder} does not exist.")
 
-
 def check_player(week):
     print("=====================================CHECK_PLAYER=============================================")
     collection_events = db['events']
@@ -579,11 +577,11 @@ dict_image_uniquetournaments = get_dict_image("uniquetournaments")
 
 # LIST TOUR INFOMATION
 lst_folder = {
-    "premier_league": "EN"
-    # "laliga":"ES",
-    # "serie_a":"IT",
-    # "bundesliga":"DE",
-    # "ligue_1":"FR"
+    "premier_league": "EN",
+    "laliga":"ES",
+    "serie_a":"IT",
+    "bundesliga":"DE",
+    "ligue_1":"FR"
 }
 
 if __name__ == "__main__":
@@ -602,10 +600,10 @@ if __name__ == "__main__":
     # week = {'premier_league': {'past_week': 6, 'upcoming_week': 7}}
 
     # CLEAN AND UPLOAD
-    # process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
+    process_standing_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
     # process_past_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
     # process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
 
     # CHECK PLAYER
-    check_player(week)
+    # check_player(week)
 
