@@ -33,12 +33,12 @@
                         "flag": "france",
                         "alpha2": "FR"
                     },
-                    "userCount": 507996,
+                    "userCount": 509307,
                     "hasPerformanceGraphFeature": true,
                     "id": 34,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 577,
+                "priority": 585,
                 "id": 4
             },
             "type": "total",
@@ -60,7 +60,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 171926,
+                        "userCount": 174100,
                         "nameCode": "ASM",
                         "disabled": false,
                         "national": false,
@@ -78,90 +78,14 @@
                         "id": 804
                     },
                     "position": 1,
-                    "matches": 7,
-                    "wins": 4,
-                    "scoresFor": 18,
-                    "scoresAgainst": 10,
+                    "matches": 9,
+                    "wins": 6,
+                    "scoresFor": 23,
+                    "scoresAgainst": 12,
                     "id": 872168,
                     "losses": 1,
                     "draws": 2,
-                    "points": 14
-                },
-                {
-                    "team": {
-                        "name": "Stade Brestois",
-                        "slug": "stade-brestois",
-                        "shortName": "Brest",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 28309,
-                        "nameCode": "STB",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1715,
-                        "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#d20000",
-                            "text": "#d20000"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "Champions League",
-                        "id": 804
-                    },
-                    "position": 2,
-                    "matches": 7,
-                    "wins": 4,
-                    "scoresFor": 8,
-                    "scoresAgainst": 6,
-                    "id": 872181,
-                    "losses": 1,
-                    "draws": 2,
-                    "points": 14
-                },
-                {
-                    "team": {
-                        "name": "Stade de Reims",
-                        "slug": "stade-de-reims",
-                        "shortName": "Reims",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 34828,
-                        "nameCode": "SDR",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1682,
-                        "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#ff0000",
-                            "text": "#ff0000"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "Champions League",
-                        "id": 804
-                    },
-                    "position": 3,
-                    "matches": 7,
-                    "wins": 4,
-                    "scoresFor": 13,
-                    "scoresAgainst": 8,
-                    "id": 872182,
-                    "losses": 2,
-                    "draws": 1,
-                    "points": 13
+                    "points": 20
                 },
                 {
                     "team": {
@@ -174,7 +98,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 70309,
+                        "userCount": 71681,
                         "nameCode": "NIC",
                         "disabled": false,
                         "national": false,
@@ -188,18 +112,18 @@
                     },
                     "descriptions": [],
                     "promotion": {
-                        "text": "Champions League Qualification",
-                        "id": 24
+                        "text": "Champions League",
+                        "id": 804
                     },
-                    "position": 4,
-                    "matches": 7,
-                    "wins": 3,
-                    "scoresFor": 8,
+                    "position": 2,
+                    "matches": 9,
+                    "wins": 5,
+                    "scoresFor": 10,
                     "scoresAgainst": 4,
                     "id": 872176,
                     "losses": 0,
                     "draws": 4,
-                    "points": 13
+                    "points": 19
                 },
                 {
                     "team": {
@@ -212,7 +136,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 1018151,
+                        "userCount": 1007947,
                         "nameCode": "PSG",
                         "disabled": false,
                         "national": false,
@@ -226,16 +150,198 @@
                     },
                     "descriptions": [],
                     "promotion": {
+                        "text": "Champions League",
+                        "id": 804
+                    },
+                    "position": 3,
+                    "matches": 9,
+                    "wins": 5,
+                    "scoresFor": 20,
+                    "scoresAgainst": 7,
+                    "id": 872179,
+                    "losses": 1,
+                    "draws": 3,
+                    "points": 18
+                },
+                {
+                    "team": {
+                        "name": "Lille",
+                        "slug": "lille",
+                        "shortName": "Lille",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 103896,
+                        "nameCode": "LOSC",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1643,
+                        "teamColors": {
+                            "primary": "#df0000",
+                            "secondary": "#24216a",
+                            "text": "#24216a"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Champions League Qualification",
+                        "id": 24
+                    },
+                    "position": 4,
+                    "matches": 9,
+                    "wins": 4,
+                    "scoresFor": 12,
+                    "scoresAgainst": 10,
+                    "id": 872174,
+                    "losses": 2,
+                    "draws": 3,
+                    "points": 15
+                },
+                {
+                    "team": {
+                        "name": "Stade Brestois",
+                        "slug": "stade-brestois",
+                        "shortName": "Brest",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 28790,
+                        "nameCode": "STB",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1715,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#d20000",
+                            "text": "#d20000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
                         "text": "UEFA Europa League",
                         "id": 808
                     },
                     "position": 5,
-                    "matches": 7,
+                    "matches": 9,
+                    "wins": 4,
+                    "scoresFor": 9,
+                    "scoresAgainst": 8,
+                    "id": 872181,
+                    "losses": 2,
+                    "draws": 3,
+                    "points": 15
+                },
+                {
+                    "team": {
+                        "name": "Stade de Reims",
+                        "slug": "stade-de-reims",
+                        "shortName": "Reims",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 35547,
+                        "nameCode": "SDR",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1682,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#ff0000",
+                            "text": "#ff0000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "UEFA Conference League Qualification",
+                        "id": 1349
+                    },
+                    "position": 6,
+                    "matches": 9,
+                    "wins": 4,
+                    "scoresFor": 15,
+                    "scoresAgainst": 12,
+                    "id": 872182,
+                    "losses": 3,
+                    "draws": 2,
+                    "points": 14
+                },
+                {
+                    "team": {
+                        "name": "Nantes",
+                        "slug": "nantes",
+                        "shortName": "Nantes",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 47022,
+                        "nameCode": "FCN",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1647,
+                        "teamColors": {
+                            "primary": "#ffdc12",
+                            "secondary": "#00a94e",
+                            "text": "#00a94e"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 7,
+                    "matches": 9,
+                    "wins": 4,
+                    "scoresFor": 16,
+                    "scoresAgainst": 15,
+                    "id": 872172,
+                    "losses": 3,
+                    "draws": 2,
+                    "points": 14
+                },
+                {
+                    "team": {
+                        "name": "Olympique de Marseille",
+                        "slug": "olympique-de-marseille",
+                        "shortName": "Marseille",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 245048,
+                        "nameCode": "OM",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1641,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#66b3ff",
+                            "text": "#66b3ff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 8,
+                    "matches": 9,
                     "wins": 3,
-                    "scoresFor": 14,
-                    "scoresAgainst": 6,
-                    "id": 872179,
-                    "losses": 1,
+                    "scoresFor": 12,
+                    "scoresAgainst": 12,
+                    "id": 872178,
+                    "losses": 3,
                     "draws": 3,
                     "points": 12
                 },
@@ -250,7 +356,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 73447,
+                        "userCount": 76211,
                         "nameCode": "REN",
                         "disabled": false,
                         "national": false,
@@ -263,53 +369,117 @@
                         }
                     },
                     "descriptions": [],
-                    "promotion": {
-                        "text": "UEFA Conference League Qualification",
-                        "id": 1349
-                    },
-                    "position": 6,
-                    "matches": 7,
+                    "position": 9,
+                    "matches": 9,
                     "wins": 2,
-                    "scoresFor": 13,
-                    "scoresAgainst": 7,
+                    "scoresFor": 15,
+                    "scoresAgainst": 12,
                     "id": 872183,
-                    "losses": 0,
+                    "losses": 2,
                     "draws": 5,
                     "points": 11
                 },
                 {
                     "team": {
-                        "name": "Lille",
-                        "slug": "lille",
-                        "shortName": "Lille",
+                        "name": "Toulouse",
+                        "slug": "toulouse",
+                        "shortName": "Toulouse",
                         "gender": "M",
                         "sport": {
                             "name": "Football",
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 104013,
-                        "nameCode": "LOSC",
+                        "userCount": 42858,
+                        "nameCode": "TFC",
                         "disabled": false,
                         "national": false,
                         "type": 0,
-                        "id": 1643,
+                        "id": 1681,
                         "teamColors": {
-                            "primary": "#df0000",
-                            "secondary": "#24216a",
-                            "text": "#24216a"
+                            "primary": "#660099",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
                         }
                     },
                     "descriptions": [],
-                    "position": 7,
-                    "matches": 7,
-                    "wins": 3,
-                    "scoresFor": 10,
-                    "scoresAgainst": 9,
-                    "id": 872174,
+                    "position": 10,
+                    "matches": 9,
+                    "wins": 2,
+                    "scoresFor": 11,
+                    "scoresAgainst": 10,
+                    "id": 872185,
                     "losses": 2,
-                    "draws": 2,
+                    "draws": 5,
                     "points": 11
+                },
+                {
+                    "team": {
+                        "name": "Le Havre",
+                        "slug": "le-havre",
+                        "shortName": "Le Havre",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 22672,
+                        "nameCode": "HAC",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1662,
+                        "teamColors": {
+                            "primary": "#3399ff",
+                            "secondary": "#3399ff",
+                            "text": "#3399ff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 11,
+                    "matches": 9,
+                    "wins": 2,
+                    "scoresFor": 10,
+                    "scoresAgainst": 12,
+                    "id": 872173,
+                    "losses": 3,
+                    "draws": 4,
+                    "points": 10
+                },
+                {
+                    "team": {
+                        "name": "Lorient",
+                        "slug": "lorient",
+                        "shortName": "Lorient",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 36598,
+                        "nameCode": "FCL",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 1656,
+                        "teamColors": {
+                            "primary": "#ff6600",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 12,
+                    "matches": 9,
+                    "wins": 2,
+                    "scoresFor": 15,
+                    "scoresAgainst": 19,
+                    "id": 872170,
+                    "losses": 3,
+                    "draws": 4,
+                    "points": 10
                 },
                 {
                     "team": {
@@ -322,7 +492,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 38981,
+                        "userCount": 41290,
                         "nameCode": "RCS",
                         "disabled": false,
                         "national": false,
@@ -335,13 +505,13 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 8,
-                    "matches": 7,
+                    "position": 13,
+                    "matches": 9,
                     "wins": 3,
-                    "scoresFor": 7,
-                    "scoresAgainst": 9,
+                    "scoresFor": 8,
+                    "scoresAgainst": 14,
                     "id": 872184,
-                    "losses": 3,
+                    "losses": 5,
                     "draws": 1,
                     "points": 10
                 },
@@ -356,7 +526,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 33308,
+                        "userCount": 33566,
                         "nameCode": "MHS",
                         "disabled": false,
                         "national": false,
@@ -369,185 +539,15 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 9,
-                    "matches": 7,
-                    "wins": 2,
-                    "scoresFor": 12,
-                    "scoresAgainst": 9,
-                    "id": 872175,
-                    "losses": 2,
-                    "draws": 3,
-                    "points": 9
-                },
-                {
-                    "team": {
-                        "name": "Le Havre",
-                        "slug": "le-havre",
-                        "shortName": "Le Havre",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 20201,
-                        "nameCode": "HAC",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1662,
-                        "teamColors": {
-                            "primary": "#3399ff",
-                            "secondary": "#3399ff",
-                            "text": "#3399ff"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 10,
-                    "matches": 7,
-                    "wins": 2,
-                    "scoresFor": 10,
-                    "scoresAgainst": 9,
-                    "id": 872173,
-                    "losses": 2,
-                    "draws": 3,
-                    "points": 9
-                },
-                {
-                    "team": {
-                        "name": "Toulouse",
-                        "slug": "toulouse",
-                        "shortName": "Toulouse",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 42058,
-                        "nameCode": "TFC",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1681,
-                        "teamColors": {
-                            "primary": "#660099",
-                            "secondary": "#ffffff",
-                            "text": "#ffffff"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 11,
-                    "matches": 7,
-                    "wins": 2,
-                    "scoresFor": 9,
-                    "scoresAgainst": 8,
-                    "id": 872185,
-                    "losses": 2,
-                    "draws": 3,
-                    "points": 9
-                },
-                {
-                    "team": {
-                        "name": "Olympique de Marseille",
-                        "slug": "olympique-de-marseille",
-                        "shortName": "Marseille",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 244863,
-                        "nameCode": "OM",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1641,
-                        "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#66b3ff",
-                            "text": "#66b3ff"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 12,
-                    "matches": 7,
-                    "wins": 2,
-                    "scoresFor": 9,
-                    "scoresAgainst": 11,
-                    "id": 872178,
-                    "losses": 2,
-                    "draws": 3,
-                    "points": 9
-                },
-                {
-                    "team": {
-                        "name": "Nantes",
-                        "slug": "nantes",
-                        "shortName": "Nantes",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 46509,
-                        "nameCode": "FCN",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1647,
-                        "teamColors": {
-                            "primary": "#ffdc12",
-                            "secondary": "#00a94e",
-                            "text": "#00a94e"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 13,
-                    "matches": 7,
-                    "wins": 2,
-                    "scoresFor": 12,
-                    "scoresAgainst": 14,
-                    "id": 872172,
-                    "losses": 3,
-                    "draws": 2,
-                    "points": 8
-                },
-                {
-                    "team": {
-                        "name": "Metz",
-                        "slug": "metz",
-                        "shortName": "Metz",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 24644,
-                        "nameCode": "FCM",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 1651,
-                        "teamColors": {
-                            "primary": "#a2052c",
-                            "secondary": "#ffffff",
-                            "text": "#ffffff"
-                        }
-                    },
-                    "descriptions": [],
                     "position": 14,
-                    "matches": 7,
+                    "matches": 8,
                     "wins": 2,
-                    "scoresFor": 7,
-                    "scoresAgainst": 13,
-                    "id": 872171,
+                    "scoresFor": 12,
+                    "scoresAgainst": 11,
+                    "id": 872175,
                     "losses": 3,
-                    "draws": 2,
-                    "points": 8
+                    "draws": 3,
+                    "points": 9
                 },
                 {
                     "team": {
@@ -560,7 +560,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 91566,
+                        "userCount": 93568,
                         "nameCode": "RCL",
                         "disabled": false,
                         "national": false,
@@ -574,36 +574,36 @@
                     },
                     "descriptions": [],
                     "position": 15,
-                    "matches": 7,
+                    "matches": 9,
                     "wins": 2,
-                    "scoresFor": 7,
-                    "scoresAgainst": 12,
+                    "scoresFor": 8,
+                    "scoresAgainst": 13,
                     "id": 872180,
                     "losses": 4,
-                    "draws": 1,
-                    "points": 7
+                    "draws": 3,
+                    "points": 9
                 },
                 {
                     "team": {
-                        "name": "Lorient",
-                        "slug": "lorient",
-                        "shortName": "Lorient",
+                        "name": "Metz",
+                        "slug": "metz",
+                        "shortName": "Metz",
                         "gender": "M",
                         "sport": {
                             "name": "Football",
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 36712,
-                        "nameCode": "FCL",
+                        "userCount": 27053,
+                        "nameCode": "FCM",
                         "disabled": false,
                         "national": false,
                         "type": 0,
-                        "id": 1656,
+                        "id": 1651,
                         "teamColors": {
-                            "primary": "#ff6600",
-                            "secondary": "#000000",
-                            "text": "#000000"
+                            "primary": "#a2052c",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
                         }
                     },
                     "descriptions": [],
@@ -612,14 +612,14 @@
                         "id": 45
                     },
                     "position": 16,
-                    "matches": 7,
-                    "wins": 1,
-                    "scoresFor": 10,
-                    "scoresAgainst": 15,
-                    "id": 872170,
-                    "losses": 3,
-                    "draws": 3,
-                    "points": 6
+                    "matches": 9,
+                    "wins": 2,
+                    "scoresFor": 8,
+                    "scoresAgainst": 16,
+                    "id": 872171,
+                    "losses": 5,
+                    "draws": 2,
+                    "points": 8
                 },
                 {
                     "team": {
@@ -632,7 +632,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 25671,
+                        "userCount": 26838,
                         "nameCode": "CFA",
                         "disabled": false,
                         "national": false,
@@ -650,14 +650,14 @@
                         "id": 3
                     },
                     "position": 17,
-                    "matches": 7,
-                    "wins": 0,
-                    "scoresFor": 5,
-                    "scoresAgainst": 12,
+                    "matches": 8,
+                    "wins": 1,
+                    "scoresFor": 7,
+                    "scoresAgainst": 13,
                     "id": 872169,
                     "losses": 5,
                     "draws": 2,
-                    "points": 2
+                    "points": 5
                 },
                 {
                     "team": {
@@ -670,7 +670,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 166721,
+                        "userCount": 164267,
                         "nameCode": "OL",
                         "disabled": false,
                         "national": false,
@@ -688,14 +688,14 @@
                         "id": 3
                     },
                     "position": 18,
-                    "matches": 7,
+                    "matches": 9,
                     "wins": 0,
-                    "scoresFor": 3,
-                    "scoresAgainst": 13,
+                    "scoresFor": 7,
+                    "scoresAgainst": 18,
                     "id": 872177,
-                    "losses": 5,
-                    "draws": 2,
-                    "points": 2
+                    "losses": 6,
+                    "draws": 3,
+                    "points": 3
                 }
             ],
             "id": 105643,

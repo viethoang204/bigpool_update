@@ -1,0 +1,2496 @@
+[{
+  "_id": {
+    "$oid": "64faa1c172175c9663ba1f51"
+  },
+  "name": "Manchester City",
+  "slug": "manchester-city",
+  "shortName": "Man City",
+  "image": "http://10.254.59.57:3000/images/ManCity.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 1209997,
+  "nameCode": "MCI",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face1e72175c9663ba1f5e"
+  },
+  "name": "Tottenham Hotspur",
+  "slug": "tottenham-hotspur",
+  "shortName": "Tottenham",
+  "image": "http://10.254.59.57:3000/images/Tottenham.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 546323,
+  "nameCode": "TOT",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face2272175c9663ba1f5f"
+  },
+  "name": "Liverpool",
+  "slug": "liverpool",
+  "shortName": "Liverpool",
+  "image": "http://10.254.59.57:3000/images/Liverpool.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 1089557,
+  "nameCode": "LIV",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face2572175c9663ba1f60"
+  },
+  "name": "West Ham United",
+  "slug": "west-ham-united",
+  "shortName": "West Ham",
+  "image": "http://10.254.59.57:3000/images/WestHam.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 208161,
+  "nameCode": "WHU",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face2972175c9663ba1f61"
+  },
+  "name": "Arsenal",
+  "slug": "arsenal",
+  "shortName": "Arsenal",
+  "image": "http://10.254.59.57:3000/images/Arsenal.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 882846,
+  "nameCode": "ARS",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face2c72175c9663ba1f62"
+  },
+  "name": "Brighton & Hove Albion",
+  "slug": "brighton-and-hove-albion",
+  "shortName": "Brighton",
+  "image": "http://10.254.59.57:3000/images/Brighton.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 166237,
+  "nameCode": "BRI",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face3072175c9663ba1f63"
+  },
+  "name": "Crystal Palace",
+  "slug": "crystal-palace",
+  "shortName": "Crystal Palace",
+  "image": "http://10.254.59.57:3000/images/CrystalPalace.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 105143,
+  "nameCode": "CRY",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face3372175c9663ba1f64"
+  },
+  "name": "Brentford",
+  "slug": "brentford",
+  "shortName": "Brentford",
+  "image": "http://10.254.59.57:3000/images/Brentford.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 98916,
+  "nameCode": "BRE",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face3772175c9663ba1f65"
+  },
+  "name": "Nottingham Forest",
+  "slug": "nottingham-forest",
+  "shortName": "Forest",
+  "image": "http://10.254.59.57:3000/images/Forest.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 93595,
+  "nameCode": "NFO",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face3c72175c9663ba1f66"
+  },
+  "name": "Aston Villa",
+  "slug": "aston-villa",
+  "shortName": "Aston Villa",
+  "image": "http://10.254.59.57:3000/images/AstonVilla.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 177434,
+  "nameCode": "AVL",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face3f72175c9663ba1f67"
+  },
+  "name": "Manchester United",
+  "slug": "manchester-united",
+  "shortName": "Man Utd",
+  "image": "http://10.254.59.57:3000/images/ManUtd.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 1215644,
+  "nameCode": "MUN",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face4272175c9663ba1f68"
+  },
+  "name": "Chelsea",
+  "slug": "chelsea",
+  "shortName": "Chelsea",
+  "image": "http://10.254.59.57:3000/images/Chelsea.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 903693,
+  "nameCode": "CHE",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face4672175c9663ba1f69"
+  },
+  "name": "Fulham",
+  "slug": "fulham",
+  "shortName": "Fulham",
+  "image": "http://10.254.59.57:3000/images/Fulham.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 115154,
+  "nameCode": "FUL",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face4a72175c9663ba1f6a"
+  },
+  "name": "Newcastle United",
+  "slug": "newcastle-united",
+  "shortName": "Newcastle",
+  "image": "http://10.254.59.57:3000/images/Newcastle.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 267425,
+  "nameCode": "NEW",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face4e72175c9663ba1f6b"
+  },
+  "name": "Wolverhampton",
+  "slug": "wolverhampton",
+  "shortName": "Wolves",
+  "image": "http://10.254.59.57:3000/images/Wolves.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 122639,
+  "nameCode": "WOL",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face5272175c9663ba1f6c"
+  },
+  "name": "Bournemouth",
+  "slug": "bournemouth",
+  "shortName": "Bournemouth",
+  "image": "http://10.254.59.57:3000/images/Bournemouth.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 67969,
+  "nameCode": "BOU",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face5572175c9663ba1f6d"
+  },
+  "name": "Sheffield United",
+  "slug": "sheffield-united",
+  "shortName": "Sheffield Utd",
+  "image": "http://10.254.59.57:3000/images/SheffieldUtd.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 55229,
+  "nameCode": "SHU",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face5a72175c9663ba1f6e"
+  },
+  "name": "Everton",
+  "slug": "everton",
+  "shortName": "Everton",
+  "image": "http://10.254.59.57:3000/images/Everton.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 160138,
+  "nameCode": "EVE",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face5d72175c9663ba1f6f"
+  },
+  "name": "Luton Town",
+  "slug": "luton-town",
+  "shortName": "Luton",
+  "image": "http://10.254.59.57:3000/images/Luton.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 33906,
+  "nameCode": "LUT",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "64face6072175c9663ba1f70"
+  },
+  "name": "Burnley",
+  "slug": "burnley",
+  "shortName": "Burnley",
+  "image": "http://10.254.59.57:3000/images/Burnley.png",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "userCount": 79262,
+  "nameCode": "BUR",
+  "country": {
+    "_id": {
+      "$oid": "64faa02272175c9663ba1f48"
+    },
+    "name": "England",
+    "slug": "england",
+    "alpha2": "EN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a0"
+  },
+  "name": "Real Madrid",
+  "slug": "real-madrid",
+  "shortName": "Real Madrid",
+  "image": "http://10.254.59.57:3000/images/RealMadrid.png",
+  "userCount": 1539551,
+  "nameCode": "RMA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a1"
+  },
+  "name": "Girona",
+  "slug": "girona",
+  "shortName": "Girona",
+  "image": "http://10.254.59.57:3000/images/Girona.png",
+  "userCount": 52705,
+  "nameCode": "GIR",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a2"
+  },
+  "name": "Barcelona",
+  "slug": "barcelona",
+  "shortName": "Barcelona",
+  "image": "http://10.254.59.57:3000/images/Barcelona.png",
+  "userCount": 1437444,
+  "nameCode": "FCB",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a3"
+  },
+  "name": "Atlético Madrid",
+  "slug": "atletico-madrid",
+  "shortName": "Atl. Madrid",
+  "image": "http://10.254.59.57:3000/images/Atl.Madrid.png",
+  "userCount": 499147,
+  "nameCode": "ATM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a4"
+  },
+  "name": "Athletic Club",
+  "slug": "athletic-club",
+  "shortName": "Athletic Club",
+  "image": "http://10.254.59.57:3000/images/AthleticClub.png",
+  "userCount": 104376,
+  "nameCode": "ATH",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a5"
+  },
+  "name": "Cádiz",
+  "slug": "cadiz",
+  "shortName": "Cádiz",
+  "image": "http://10.254.59.57:3000/images/Cádiz.png",
+  "userCount": 49600,
+  "nameCode": "CAD",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a6"
+  },
+  "name": "Real Betis",
+  "slug": "real-betis",
+  "shortName": "Betis",
+  "image": "http://10.254.59.57:3000/images/Betis.png",
+  "userCount": 127826,
+  "nameCode": "RBB",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a7"
+  },
+  "name": "Real Sociedad",
+  "slug": "real-sociedad",
+  "shortName": "Real Sociedad",
+  "image": "http://10.254.59.57:3000/images/RealSociedad.png",
+  "userCount": 132047,
+  "nameCode": "RSO",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a8"
+  },
+  "name": "Osasuna",
+  "slug": "osasuna",
+  "shortName": "Osasuna",
+  "image": "http://10.254.59.57:3000/images/Osasuna.png",
+  "userCount": 67044,
+  "nameCode": "OSA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439a9"
+  },
+  "name": "Deportivo Alavés",
+  "slug": "deportivo-alaves",
+  "shortName": "Alavés",
+  "image": "http://10.254.59.57:3000/images/Alavés.png",
+  "userCount": 32848,
+  "nameCode": "ALA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439aa"
+  },
+  "name": "Valencia",
+  "slug": "valencia",
+  "shortName": "Valencia",
+  "image": "http://10.254.59.57:3000/images/Valencia.png",
+  "userCount": 117293,
+  "nameCode": "VCF",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439ab"
+  },
+  "name": "Rayo Vallecano",
+  "slug": "rayo-vallecano",
+  "shortName": "Rayo Vallecano",
+  "image": "http://10.254.59.57:3000/images/RayoVallecano.png",
+  "userCount": 56124,
+  "nameCode": "RVC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439ac"
+  },
+  "name": "Celta Vigo",
+  "slug": "celta-vigo",
+  "shortName": "Celta",
+  "image": "http://10.254.59.57:3000/images/Celta.png",
+  "userCount": 64610,
+  "nameCode": "RCC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439ad"
+  },
+  "name": "Getafe",
+  "slug": "getafe",
+  "shortName": "Getafe",
+  "image": "http://10.254.59.57:3000/images/Getafe.png",
+  "userCount": 61930,
+  "nameCode": "GET",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439ae"
+  },
+  "name": "Villarreal",
+  "slug": "villarreal",
+  "shortName": "Villarreal",
+  "image": "http://10.254.59.57:3000/images/Villarreal.png",
+  "userCount": 180010,
+  "nameCode": "VIL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439af"
+  },
+  "name": "Granada",
+  "slug": "granada",
+  "shortName": "Granada",
+  "image": "http://10.254.59.57:3000/images/Granada.png",
+  "userCount": 35500,
+  "nameCode": "GCF",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439b0"
+  },
+  "name": "Mallorca",
+  "slug": "mallorca",
+  "shortName": "Mallorca",
+  "image": "http://10.254.59.57:3000/images/Mallorca.png",
+  "userCount": 48121,
+  "nameCode": "MAL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439b1"
+  },
+  "name": "Las Palmas",
+  "slug": "las-palmas",
+  "shortName": "Las Palmas",
+  "image": "http://10.254.59.57:3000/images/LasPalmas.png",
+  "userCount": 27971,
+  "nameCode": "LPA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439b2"
+  },
+  "name": "Almería",
+  "slug": "almeria",
+  "shortName": "Almería",
+  "image": "http://10.254.59.57:3000/images/Almería.png",
+  "userCount": 43905,
+  "nameCode": "ALM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502c4615feae189366439b3"
+  },
+  "name": "Sevilla",
+  "slug": "sevilla",
+  "shortName": "Sevilla",
+  "image": "http://10.254.59.57:3000/images/Sevilla.png",
+  "userCount": 270807,
+  "nameCode": "SEV",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501737bac6bf018d763de74"
+    },
+    "name": "Spain",
+    "slug": "spain",
+    "alpha2": "ES"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439b9"
+  },
+  "name": "Inter",
+  "slug": "inter",
+  "shortName": "Inter",
+  "image": "http://10.254.59.57:3000/images/Inter.png",
+  "userCount": 607197,
+  "nameCode": "INT",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439ba"
+  },
+  "name": "Milan",
+  "slug": "milan",
+  "shortName": "Milan",
+  "image": "http://10.254.59.57:3000/images/Milan.png",
+  "userCount": 651250,
+  "nameCode": "ACM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439bb"
+  },
+  "name": "Juventus",
+  "slug": "juventus",
+  "shortName": "Juventus",
+  "image": "http://10.254.59.57:3000/images/Juventus.png",
+  "userCount": 687247,
+  "nameCode": "JUV",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439bc"
+  },
+  "name": "Lecce",
+  "slug": "lecce",
+  "shortName": "Lecce",
+  "image": "http://10.254.59.57:3000/images/Lecce.png",
+  "userCount": 44153,
+  "nameCode": "LEC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439bd"
+  },
+  "name": "Atalanta",
+  "slug": "atalanta",
+  "shortName": "Atalanta",
+  "image": "http://10.254.59.57:3000/images/Atalanta.png",
+  "userCount": 197523,
+  "nameCode": "ATA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439be"
+  },
+  "name": "Napoli",
+  "slug": "napoli",
+  "shortName": "Napoli",
+  "image": "http://10.254.59.57:3000/images/Napoli.png",
+  "userCount": 494800,
+  "nameCode": "NAP",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439bf"
+  },
+  "name": "Hellas Verona",
+  "slug": "hellas-verona",
+  "shortName": "Verona",
+  "image": "http://10.254.59.57:3000/images/Verona.png",
+  "userCount": 44750,
+  "nameCode": "VER",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c0"
+  },
+  "name": "Fiorentina",
+  "slug": "fiorentina",
+  "shortName": "Fiorentina",
+  "image": "http://10.254.59.57:3000/images/Fiorentina.png",
+  "userCount": 119147,
+  "nameCode": "FIO",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c1"
+  },
+  "name": "Bologna",
+  "slug": "bologna",
+  "shortName": "Bologna",
+  "image": "http://10.254.59.57:3000/images/Bologna.png",
+  "userCount": 53625,
+  "nameCode": "BFC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c2"
+  },
+  "name": "Frosinone",
+  "slug": "frosinone",
+  "shortName": "Frosinone",
+  "image": "http://10.254.59.57:3000/images/Frosinone.png",
+  "userCount": 21402,
+  "nameCode": "FRO",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c3"
+  },
+  "name": "Torino",
+  "slug": "torino",
+  "shortName": "Torino",
+  "image": "http://10.254.59.57:3000/images/Torino.png",
+  "userCount": 62501,
+  "nameCode": "TOR",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c4"
+  },
+  "name": "Lazio",
+  "slug": "lazio",
+  "shortName": "Lazio",
+  "image": "http://10.254.59.57:3000/images/Lazio.png",
+  "userCount": 202024,
+  "nameCode": "LAZ",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c5"
+  },
+  "name": "Sassuolo",
+  "slug": "sassuolo",
+  "shortName": "Sassuolo",
+  "image": "http://10.254.59.57:3000/images/Sassuolo.png",
+  "userCount": 57519,
+  "nameCode": "SAS",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c6"
+  },
+  "name": "Genoa",
+  "slug": "genoa",
+  "shortName": "Genoa",
+  "image": "http://10.254.59.57:3000/images/Genoa.png",
+  "userCount": 34364,
+  "nameCode": "GEN",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c7"
+  },
+  "name": "Monza",
+  "slug": "monza",
+  "shortName": "Monza",
+  "image": "http://10.254.59.57:3000/images/Monza.png",
+  "userCount": 39706,
+  "nameCode": "MON",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c8"
+  },
+  "name": "Salernitana",
+  "slug": "salernitana",
+  "shortName": "Salernitana",
+  "image": "http://10.254.59.57:3000/images/Salernitana.png",
+  "userCount": 42228,
+  "nameCode": "SAL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439c9"
+  },
+  "name": "Udinese",
+  "slug": "udinese",
+  "shortName": "Udinese",
+  "image": "http://10.254.59.57:3000/images/Udinese.png",
+  "userCount": 53426,
+  "nameCode": "UDI",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439ca"
+  },
+  "name": "Roma",
+  "slug": "roma",
+  "shortName": "Roma",
+  "image": "http://10.254.59.57:3000/images/Roma.png",
+  "userCount": 388946,
+  "nameCode": "ROM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439cb"
+  },
+  "name": "Cagliari",
+  "slug": "cagliari",
+  "shortName": "Cagliari",
+  "image": "http://10.254.59.57:3000/images/Cagliari.png",
+  "userCount": 32705,
+  "nameCode": "CAG",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502ce165feae189366439cc"
+  },
+  "name": "Empoli",
+  "slug": "empoli",
+  "shortName": "Empoli",
+  "image": "http://10.254.59.57:3000/images/Empoli.png",
+  "userCount": 45707,
+  "nameCode": "EMP",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650174c4ac6bf018d763de75"
+    },
+    "name": "Italy",
+    "slug": "italy",
+    "alpha2": "IT"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439cf"
+  },
+  "name": "Bayer 04 Leverkusen",
+  "slug": "bayer-04-leverkusen",
+  "shortName": "Leverkusen",
+  "image": "http://10.254.59.57:3000/images/Leverkusen.png",
+  "userCount": 149787,
+  "nameCode": "LEV",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d0"
+  },
+  "name": "FC Bayern München",
+  "slug": "fc-bayern-munchen",
+  "shortName": "Bayern",
+  "image": "http://10.254.59.57:3000/images/Bayern.png",
+  "userCount": 801875,
+  "nameCode": "BMU",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d1"
+  },
+  "name": "VfB Stuttgart",
+  "slug": "vfb-stuttgart",
+  "shortName": "Stuttgart",
+  "image": "http://10.254.59.57:3000/images/Stuttgart.png",
+  "userCount": 46798,
+  "nameCode": "VFB",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d2"
+  },
+  "name": "RB Leipzig",
+  "slug": "rb-leipzig",
+  "shortName": "Leipzig",
+  "image": "http://10.254.59.57:3000/images/Leipzig.png",
+  "userCount": 249296,
+  "nameCode": "RBL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d3"
+  },
+  "name": "1. FC Union Berlin",
+  "slug": "1-fc-union-berlin",
+  "shortName": "Union Berlin",
+  "image": "http://10.254.59.57:3000/images/UnionBerlin.png",
+  "userCount": 95498,
+  "nameCode": "UNI",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d4"
+  },
+  "name": "TSG Hoffenheim",
+  "slug": "tsg-hoffenheim",
+  "shortName": "Hoffenheim",
+  "image": "http://10.254.59.57:3000/images/Hoffenheim.png",
+  "userCount": 41668,
+  "nameCode": "TSG",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d5"
+  },
+  "name": "VfL Wolfsburg",
+  "slug": "vfl-wolfsburg",
+  "shortName": "Wolfsburg",
+  "image": "http://10.254.59.57:3000/images/Wolfsburg.png",
+  "userCount": 50748,
+  "nameCode": "WOB",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d6"
+  },
+  "name": "SC Freiburg",
+  "slug": "sc-freiburg",
+  "shortName": "Freiburg",
+  "image": "http://10.254.59.57:3000/images/Freiburg.png",
+  "userCount": 65379,
+  "nameCode": "SCF",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d7"
+  },
+  "name": "Borussia Dortmund",
+  "slug": "borussia-dortmund",
+  "shortName": "Dortmund",
+  "image": "http://10.254.59.57:3000/images/Dortmund.png",
+  "userCount": 529299,
+  "nameCode": "BVB",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d8"
+  },
+  "name": "Eintracht Frankfurt",
+  "slug": "eintracht-frankfurt",
+  "shortName": "Frankfurt",
+  "image": "http://10.254.59.57:3000/images/Frankfurt.png",
+  "userCount": 116899,
+  "nameCode": "SGE",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439d9"
+  },
+  "name": "SV Werder Bremen",
+  "slug": "sv-werder-bremen",
+  "shortName": "Bremen",
+  "image": "http://10.254.59.57:3000/images/Bremen.png",
+  "userCount": 38724,
+  "nameCode": "SVW",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439da"
+  },
+  "name": "FC Augsburg",
+  "slug": "fc-augsburg",
+  "shortName": "Augsburg",
+  "image": "http://10.254.59.57:3000/images/Augsburg.png",
+  "userCount": 31147,
+  "nameCode": "FCA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439db"
+  },
+  "name": "VfL Bochum 1848",
+  "slug": "vfl-bochum-1848",
+  "shortName": "Bochum",
+  "image": "http://10.254.59.57:3000/images/Bochum.png",
+  "userCount": 28516,
+  "nameCode": "BOC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439dc"
+  },
+  "name": "1. FC Köln",
+  "slug": "1-fc-koln",
+  "shortName": "Köln",
+  "image": "http://10.254.59.57:3000/images/Köln.png",
+  "userCount": 45603,
+  "nameCode": "KOE",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439dd"
+  },
+  "name": "1. FC Heidenheim",
+  "slug": "1-fc-heidenheim",
+  "shortName": "Heidenheim",
+  "image": "http://10.254.59.57:3000/images/Heidenheim.png",
+  "userCount": 18089,
+  "nameCode": "FCH",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439de"
+  },
+  "name": "Borussia M'gladbach",
+  "slug": "borussia-mgladbach",
+  "shortName": "M'gladbach",
+  "image": "http://10.254.59.57:3000/images/M'gladbach.png",
+  "userCount": 69301,
+  "nameCode": "BMG",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439df"
+  },
+  "name": "1. FSV Mainz 05",
+  "slug": "1-fsv-mainz-05",
+  "shortName": "Mainz 05",
+  "image": "http://10.254.59.57:3000/images/Mainz05.png",
+  "userCount": 36439,
+  "nameCode": "M05",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d3245feae189366439e0"
+  },
+  "name": "Darmstadt 98",
+  "slug": "darmstadt-98",
+  "shortName": "Darmstadt",
+  "image": "http://10.254.59.57:3000/images/Darmstadt.png",
+  "userCount": 25679,
+  "nameCode": "D98",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "6501753bac6bf018d763de76"
+    },
+    "name": "Germany",
+    "slug": "germany",
+    "alpha2": "DE"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e3"
+  },
+  "name": "AS Monaco",
+  "slug": "as-monaco",
+  "shortName": "AS Monaco",
+  "image": "http://10.254.59.57:3000/images/ASMonaco.png",
+  "userCount": 166371,
+  "nameCode": "ASM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e4"
+  },
+  "name": "Paris Saint-Germain",
+  "slug": "paris-saint-germain",
+  "shortName": "PSG",
+  "image": "http://10.254.59.57:3000/images/PSG.png",
+  "userCount": 1003009,
+  "nameCode": "PSG",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e5"
+  },
+  "name": "Olympique de Marseille",
+  "slug": "olympique-de-marseille",
+  "shortName": "Marseille",
+  "image": "http://10.254.59.57:3000/images/Marseille.png",
+  "userCount": 238303,
+  "nameCode": "OM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e6"
+  },
+  "name": "Stade de Reims",
+  "slug": "stade-de-reims",
+  "shortName": "Reims",
+  "image": "http://10.254.59.57:3000/images/Reims.png",
+  "userCount": 32413,
+  "nameCode": "SDR",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e7"
+  },
+  "name": "Lille",
+  "slug": "lille",
+  "shortName": "Lille",
+  "image": "http://10.254.59.57:3000/images/Lille.png",
+  "userCount": 101672,
+  "nameCode": "LIL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e8"
+  },
+  "name": "Stade Brestois",
+  "slug": "stade-brestois",
+  "shortName": "Brest",
+  "image": "http://10.254.59.57:3000/images/Brest.png",
+  "userCount": 26311,
+  "nameCode": "STB",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439e9"
+  },
+  "name": "Stade Rennais",
+  "slug": "stade-rennais",
+  "shortName": "Rennes",
+  "image": "http://10.254.59.57:3000/images/Rennes.png",
+  "userCount": 70978,
+  "nameCode": "REN",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439ea"
+  },
+  "name": "Nice",
+  "slug": "nice",
+  "shortName": "Nice",
+  "image": "http://10.254.59.57:3000/images/Nice.png",
+  "userCount": 62642,
+  "nameCode": "NIC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439eb"
+  },
+  "name": "Strasbourg",
+  "slug": "strasbourg",
+  "shortName": "Strasbourg",
+  "image": "http://10.254.59.57:3000/images/Strasbourg.png",
+  "userCount": 37375,
+  "nameCode": "RCS",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439ec"
+  },
+  "name": "Le Havre",
+  "slug": "le-havre",
+  "shortName": "Le Havre",
+  "image": "http://10.254.59.57:3000/images/LeHavre.png",
+  "userCount": 18966,
+  "nameCode": "HAC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439ed"
+  },
+  "name": "Lorient",
+  "slug": "lorient",
+  "shortName": "Lorient",
+  "image": "http://10.254.59.57:3000/images/Lorient.png",
+  "userCount": 36018,
+  "nameCode": "FCL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439ee"
+  },
+  "name": "Toulouse",
+  "slug": "toulouse",
+  "shortName": "Toulouse",
+  "image": "http://10.254.59.57:3000/images/Toulouse.png",
+  "userCount": 40018,
+  "nameCode": "TFC",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439ef"
+  },
+  "name": "Metz",
+  "slug": "metz",
+  "shortName": "Metz",
+  "image": "http://10.254.59.57:3000/images/Metz.png",
+  "userCount": 23434,
+  "nameCode": "FCM",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439f0"
+  },
+  "name": "Montpellier",
+  "slug": "montpellier",
+  "shortName": "Montpellier",
+  "image": "http://10.254.59.57:3000/images/Montpellier.png",
+  "userCount": 32839,
+  "nameCode": "MHS",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439f1"
+  },
+  "name": "Nantes",
+  "slug": "nantes",
+  "shortName": "Nantes",
+  "image": "http://10.254.59.57:3000/images/Nantes.png",
+  "userCount": 46044,
+  "nameCode": "FCN",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439f2"
+  },
+  "name": "Clermont Foot",
+  "slug": "clermont-foot",
+  "shortName": "Clermont",
+  "image": "http://10.254.59.57:3000/images/Clermont.png",
+  "userCount": 23458,
+  "nameCode": "CFA",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439f3"
+  },
+  "name": "Lens",
+  "slug": "lens",
+  "shortName": "Lens",
+  "image": "http://10.254.59.57:3000/images/Lens.png",
+  "userCount": 82696,
+  "nameCode": "RCL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+},
+{
+  "_id": {
+    "$oid": "6502d6455feae189366439f4"
+  },
+  "name": "Olympique Lyonnais",
+  "slug": "olympique-lyonnais",
+  "shortName": "Lyon",
+  "image": "http://10.254.59.57:3000/images/Lyon.png",
+  "userCount": 168729,
+  "nameCode": "OL",
+  "sport": {
+    "_id": {
+      "$oid": "64fa9de872175c9663ba1f3a"
+    },
+    "name": "Football",
+    "slug": "football"
+  },
+  "country": {
+    "_id": {
+      "$oid": "650175cbac6bf018d763de78"
+    },
+    "name": "France",
+    "slug": "france",
+    "alpha2": "FR"
+  }
+}]

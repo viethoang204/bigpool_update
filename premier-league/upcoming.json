@@ -33,7 +33,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -41,2427 +41,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Isxb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Luton Town",
-                "slug": "luton-town",
-                "shortName": "Luton",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 38010,
-                "nameCode": "LUT",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 72,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff3300",
-                    "secondary": "#000033",
-                    "text": "#000033"
-                }
-            },
-            "awayTeam": {
-                "name": "Tottenham Hotspur",
-                "slug": "tottenham-hotspur",
-                "shortName": "Tottenham ",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 557138,
-                "nameCode": "TOT",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 33,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000066",
-                    "text": "#000066"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352653,
-            "startTimestamp": 1696678200,
-            "slug": "luton-town-tottenham-hotspur",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Ksab",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Manchester United",
-                "slug": "manchester-united",
-                "shortName": "Man Utd",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1239471,
-                "nameCode": "MUN",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 35,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#373737",
-                    "text": "#373737"
-                }
-            },
-            "awayTeam": {
-                "name": "Brentford",
-                "slug": "brentford",
-                "shortName": "Brentford",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 103584,
-                "nameCode": "BRE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 50,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352654,
-            "startTimestamp": 1696687200,
-            "slug": "brentford-manchester-united",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "gsN",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Burnley",
-                "slug": "burnley",
-                "shortName": "Burnley",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 85576,
-                "nameCode": "BUR",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 6,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#81204c",
-                    "secondary": "#8fd2f4",
-                    "text": "#8fd2f4"
-                }
-            },
-            "awayTeam": {
-                "name": "Chelsea",
-                "slug": "chelsea",
-                "shortName": "Chelsea",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 907367,
-                "nameCode": "CHE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 38,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0310a7",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352649,
-            "startTimestamp": 1696687200,
-            "slug": "chelsea-burnley",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Yskb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Everton",
-                "slug": "everton",
-                "shortName": "Everton",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 161418,
-                "nameCode": "EVE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 48,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#274488",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Bournemouth",
-                "slug": "bournemouth",
-                "shortName": "Bournemouth",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 73195,
-                "nameCode": "BOU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 60,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352651,
-            "startTimestamp": 1696687200,
-            "slug": "bournemouth-everton",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "psT",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Fulham",
-                "slug": "fulham",
-                "shortName": "Fulham",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 117721,
-                "nameCode": "FUL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 43,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Sheffield United",
-                "slug": "sheffield-united",
-                "shortName": "Sheffield Utd",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 57647,
-                "nameCode": "SHU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 15,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352652,
-            "startTimestamp": 1696687200,
-            "slug": "fulham-sheffield-united",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "hso",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Crystal Palace",
-                "slug": "crystal-palace",
-                "shortName": "Crystal Palace",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 112589,
-                "nameCode": "CRY",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 7,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0033ff",
-                    "secondary": "#b90d2b",
-                    "text": "#b90d2b"
-                }
-            },
-            "awayTeam": {
-                "name": "Nottingham Forest",
-                "slug": "nottingham-forest",
-                "shortName": "Forest",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 99631,
-                "nameCode": "NFO",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 14,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352650,
-            "startTimestamp": 1696696200,
-            "slug": "nottingham-forest-crystal-palace",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "FsU",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Brighton & Hove Albion",
-                "slug": "brighton-and-hove-albion",
-                "shortName": "Brighton",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 196460,
-                "nameCode": "BHA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 30,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0054a6",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Liverpool",
-                "slug": "liverpool",
-                "shortName": "Liverpool",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1117755,
-                "nameCode": "LIV",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 44,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352648,
-            "startTimestamp": 1696770000,
-            "slug": "liverpool-brighton-and-hove-albion",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "MO",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "West Ham United",
-                "slug": "west-ham-united",
-                "shortName": "West Ham",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 221449,
-                "nameCode": "WHU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 37,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#66192c",
-                    "secondary": "#59b3e4",
-                    "text": "#59b3e4"
-                }
-            },
-            "awayTeam": {
-                "name": "Newcastle United",
-                "slug": "newcastle-united",
-                "shortName": "Newcastle",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 303183,
-                "nameCode": "NEW",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 39,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352655,
-            "startTimestamp": 1696770000,
-            "slug": "newcastle-united-west-ham-united",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "dsP",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Wolverhampton",
-                "slug": "wolverhampton",
-                "shortName": "Wolves",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 129858,
-                "nameCode": "WOL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 3,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff9900",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Aston Villa",
-                "slug": "aston-villa",
-                "shortName": "Aston Villa",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 188058,
-                "nameCode": "AVL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 40,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#670e36",
-                    "secondary": "#94bee5",
-                    "text": "#94bee5"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352656,
-            "startTimestamp": 1696770000,
-            "slug": "aston-villa-wolverhampton",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "rsR",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Arsenal",
-                "slug": "arsenal",
-                "shortName": "Arsenal",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 920615,
-                "nameCode": "ARS",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 42,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Manchester City",
-                "slug": "manchester-city",
-                "shortName": "Man City",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1250608,
-                "nameCode": "MCI",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 17,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#66ccff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352647,
-            "startTimestamp": 1696779000,
-            "slug": "arsenal-manchester-city",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "UsY",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Liverpool",
-                "slug": "liverpool",
-                "shortName": "Liverpool",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1117755,
-                "nameCode": "LIV",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 44,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Everton",
-                "slug": "everton",
-                "shortName": "Everton",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 161418,
-                "nameCode": "EVE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 48,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#274488",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352662,
-            "startTimestamp": 1697887800,
-            "slug": "everton-liverpool",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "rsF",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Manchester City",
-                "slug": "manchester-city",
-                "shortName": "Man City",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1250608,
-                "nameCode": "MCI",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 17,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#66ccff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Brighton & Hove Albion",
-                "slug": "brighton-and-hove-albion",
-                "shortName": "Brighton",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 196460,
-                "nameCode": "BHA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 30,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0054a6",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352663,
-            "startTimestamp": 1697896800,
-            "slug": "brighton-and-hove-albion-manchester-city",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "hO",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Newcastle United",
-                "slug": "newcastle-united",
-                "shortName": "Newcastle",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 303183,
-                "nameCode": "NEW",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 39,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Crystal Palace",
-                "slug": "crystal-palace",
-                "shortName": "Crystal Palace",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 112589,
-                "nameCode": "CRY",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 7,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0033ff",
-                    "secondary": "#b90d2b",
-                    "text": "#b90d2b"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352664,
-            "startTimestamp": 1697896800,
-            "slug": "newcastle-united-crystal-palace",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "dskb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Bournemouth",
-                "slug": "bournemouth",
-                "shortName": "Bournemouth",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 73195,
-                "nameCode": "BOU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 60,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Wolverhampton",
-                "slug": "wolverhampton",
-                "shortName": "Wolves",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 129858,
-                "nameCode": "WOL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 3,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff9900",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352657,
-            "startTimestamp": 1697896800,
-            "slug": "bournemouth-wolverhampton",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "gsab",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Brentford",
-                "slug": "brentford",
-                "shortName": "Brentford",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 103584,
-                "nameCode": "BRE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 50,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Burnley",
-                "slug": "burnley",
-                "shortName": "Burnley",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 85576,
-                "nameCode": "BUR",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 6,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#81204c",
-                    "secondary": "#8fd2f4",
-                    "text": "#8fd2f4"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352660,
-            "startTimestamp": 1697896800,
-            "slug": "brentford-burnley",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "osxb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Nottingham Forest",
-                "slug": "nottingham-forest",
-                "shortName": "Forest",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 99631,
-                "nameCode": "NFO",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 14,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Luton Town",
-                "slug": "luton-town",
-                "shortName": "Luton",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 38010,
-                "nameCode": "LUT",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 72,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff3300",
-                    "secondary": "#000033",
-                    "text": "#000033"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352665,
-            "startTimestamp": 1697896800,
-            "slug": "luton-town-nottingham-forest",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "NR",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Chelsea",
-                "slug": "chelsea",
-                "shortName": "Chelsea",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 907367,
-                "nameCode": "CHE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 38,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0310a7",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Arsenal",
-                "slug": "arsenal",
-                "shortName": "Arsenal",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 920615,
-                "nameCode": "ARS",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 42,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352661,
-            "startTimestamp": 1697905800,
-            "slug": "arsenal-chelsea",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "psK",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Sheffield United",
-                "slug": "sheffield-united",
-                "shortName": "Sheffield Utd",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 57647,
-                "nameCode": "SHU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 15,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Manchester United",
-                "slug": "manchester-united",
-                "shortName": "Man Utd",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1239471,
-                "nameCode": "MUN",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 35,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#373737",
-                    "text": "#373737"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352666,
-            "startTimestamp": 1697914800,
-            "slug": "manchester-united-sheffield-united",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "MP",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Aston Villa",
-                "slug": "aston-villa",
-                "shortName": "Aston Villa",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 188058,
-                "nameCode": "AVL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 40,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#670e36",
-                    "secondary": "#94bee5",
-                    "text": "#94bee5"
-                }
-            },
-            "awayTeam": {
-                "name": "West Ham United",
-                "slug": "west-ham-united",
-                "shortName": "West Ham",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 221449,
-                "nameCode": "WHU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 37,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#66192c",
-                    "secondary": "#59b3e4",
-                    "text": "#59b3e4"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352658,
-            "startTimestamp": 1697988600,
-            "slug": "aston-villa-west-ham-united",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
-                "id": 1
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "IsT",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Tottenham Hotspur",
-                "slug": "tottenham-hotspur",
-                "shortName": "Tottenham ",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 557138,
-                "nameCode": "TOT",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 33,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000066",
-                    "text": "#000066"
-                }
-            },
-            "awayTeam": {
-                "name": "Fulham",
-                "slug": "fulham",
-                "shortName": "Fulham",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 117721,
-                "nameCode": "FUL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 43,
-                "country": {
-                    "alpha2": "EN",
-                    "name": "England"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11352667,
-            "startTimestamp": 1698087600,
-            "slug": "fulham-tottenham-hotspur",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Premier League",
-                "slug": "premier-league",
-                "category": {
-                    "name": "England",
-                    "slug": "england",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1,
-                    "flag": "england",
-                    "alpha2": "EN"
-                },
-                "uniqueTournament": {
-                    "name": "Premier League",
-                    "slug": "premier-league",
-                    "primaryColorHex": "#3c1c5a",
-                    "secondaryColorHex": "#f80158",
-                    "category": {
-                        "name": "England",
-                        "slug": "england",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 1,
-                        "flag": "england",
-                        "alpha2": "EN"
-                    },
-                    "userCount": 1287461,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 17,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -2483,7 +63,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 112589,
+                "userCount": 113855,
                 "nameCode": "CRY",
                 "disabled": false,
                 "national": false,
@@ -2510,7 +90,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 557138,
+                "userCount": 573406,
                 "nameCode": "TOT",
                 "disabled": false,
                 "national": false,
@@ -2534,6 +114,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352673,
             "startTimestamp": 1698433200,
@@ -2573,7 +154,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -2581,7 +162,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -2603,7 +184,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 907367,
+                "userCount": 910432,
                 "nameCode": "CHE",
                 "disabled": false,
                 "national": false,
@@ -2630,7 +211,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 103584,
+                "userCount": 108925,
                 "nameCode": "BRE",
                 "disabled": false,
                 "national": false,
@@ -2654,6 +235,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352672,
             "startTimestamp": 1698492600,
@@ -2693,7 +275,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -2701,7 +283,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -2723,7 +305,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 920615,
+                "userCount": 943972,
                 "nameCode": "ARS",
                 "disabled": false,
                 "national": false,
@@ -2750,7 +332,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 57647,
+                "userCount": 61356,
                 "nameCode": "SHU",
                 "disabled": false,
                 "national": false,
@@ -2774,6 +356,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352669,
             "startTimestamp": 1698501600,
@@ -2813,7 +396,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -2821,7 +404,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -2843,7 +426,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 73195,
+                "userCount": 73104,
                 "nameCode": "BOU",
                 "disabled": false,
                 "national": false,
@@ -2870,7 +453,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 85576,
+                "userCount": 87262,
                 "nameCode": "BUR",
                 "disabled": false,
                 "national": false,
@@ -2894,6 +477,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352668,
             "startTimestamp": 1698501600,
@@ -2933,7 +517,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -2941,7 +525,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -2963,7 +547,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 129858,
+                "userCount": 131382,
                 "nameCode": "WOL",
                 "disabled": false,
                 "national": false,
@@ -2990,7 +574,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 303183,
+                "userCount": 319345,
                 "nameCode": "NEW",
                 "disabled": false,
                 "national": false,
@@ -3014,6 +598,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352677,
             "startTimestamp": 1698510600,
@@ -3053,7 +638,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -3061,7 +646,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -3083,7 +668,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 221449,
+                "userCount": 230184,
                 "nameCode": "WHU",
                 "disabled": false,
                 "national": false,
@@ -3110,7 +695,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 161418,
+                "userCount": 166349,
                 "nameCode": "EVE",
                 "disabled": false,
                 "national": false,
@@ -3134,6 +719,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352676,
             "startTimestamp": 1698584400,
@@ -3173,7 +759,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -3181,7 +767,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -3203,7 +789,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1117755,
+                "userCount": 1135181,
                 "nameCode": "LIV",
                 "disabled": false,
                 "national": false,
@@ -3230,7 +816,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 99631,
+                "userCount": 100153,
                 "nameCode": "NFO",
                 "disabled": false,
                 "national": false,
@@ -3254,6 +840,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352674,
             "startTimestamp": 1698588000,
@@ -3293,7 +880,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -3301,7 +888,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -3323,7 +910,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 196460,
+                "userCount": 212554,
                 "nameCode": "BHA",
                 "disabled": false,
                 "national": false,
@@ -3350,7 +937,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 117721,
+                "userCount": 120372,
                 "nameCode": "FUL",
                 "disabled": false,
                 "national": false,
@@ -3374,6 +961,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352671,
             "startTimestamp": 1698588000,
@@ -3413,7 +1001,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -3421,7 +1009,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -3443,7 +1031,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 188058,
+                "userCount": 198023,
                 "nameCode": "AVL",
                 "disabled": false,
                 "national": false,
@@ -3470,7 +1058,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 38010,
+                "userCount": 42098,
                 "nameCode": "LUT",
                 "disabled": false,
                 "national": false,
@@ -3494,6 +1082,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352670,
             "startTimestamp": 1698588000,
@@ -3533,7 +1122,7 @@
                         "flag": "england",
                         "alpha2": "EN"
                     },
-                    "userCount": 1287461,
+                    "userCount": 1311660,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 17,
@@ -3541,7 +1130,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 581,
+                "priority": 589,
                 "id": 1
             },
             "roundInfo": {
@@ -3563,7 +1152,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1239471,
+                "userCount": 1242708,
                 "nameCode": "MUN",
                 "disabled": false,
                 "national": false,
@@ -3590,7 +1179,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1250608,
+                "userCount": 1265224,
                 "nameCode": "MCI",
                 "disabled": false,
                 "national": false,
@@ -3614,10 +1203,2431 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11352675,
             "startTimestamp": 1698593400,
             "slug": "manchester-united-manchester-city",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "KsT",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Fulham",
+                "slug": "fulham",
+                "shortName": "Fulham",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 120372,
+                "nameCode": "FUL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 43,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Manchester United",
+                "slug": "manchester-united",
+                "shortName": "Man Utd",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1242708,
+                "nameCode": "MUN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 35,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#373737",
+                    "text": "#373737"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352307,
+            "startTimestamp": 1699101000,
+            "slug": "fulham-manchester-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "rkb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Manchester City",
+                "slug": "manchester-city",
+                "shortName": "Man City",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1265224,
+                "nameCode": "MCI",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 17,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#66ccff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Bournemouth",
+                "slug": "bournemouth",
+                "shortName": "Bournemouth",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 73104,
+                "nameCode": "BOU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 60,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352312,
+            "startTimestamp": 1699110000,
+            "slug": "bournemouth-manchester-city",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "FsY",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Everton",
+                "slug": "everton",
+                "shortName": "Everton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 166349,
+                "nameCode": "EVE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 48,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#274488",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Brighton & Hove Albion",
+                "slug": "brighton-and-hove-albion",
+                "shortName": "Brighton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 212554,
+                "nameCode": "BHA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 30,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0054a6",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352306,
+            "startTimestamp": 1699110000,
+            "slug": "everton-brighton-and-hove-albion",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "Msab",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Brentford",
+                "slug": "brentford",
+                "shortName": "Brentford",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 108925,
+                "nameCode": "BRE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 50,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "West Ham United",
+                "slug": "west-ham-united",
+                "shortName": "West Ham",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 230184,
+                "nameCode": "WHU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 37,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#66192c",
+                    "secondary": "#59b3e4",
+                    "text": "#59b3e4"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352304,
+            "startTimestamp": 1699110000,
+            "slug": "brentford-west-ham-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "dsp",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Sheffield United",
+                "slug": "sheffield-united",
+                "shortName": "Sheffield Utd",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 61356,
+                "nameCode": "SHU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 15,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Wolverhampton",
+                "slug": "wolverhampton",
+                "shortName": "Wolves",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 131382,
+                "nameCode": "WOL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff9900",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352320,
+            "startTimestamp": 1699110000,
+            "slug": "sheffield-united-wolverhampton",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "gsh",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Burnley",
+                "slug": "burnley",
+                "shortName": "Burnley",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 87262,
+                "nameCode": "BUR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 6,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#81204c",
+                    "secondary": "#8fd2f4",
+                    "text": "#8fd2f4"
+                }
+            },
+            "awayTeam": {
+                "name": "Crystal Palace",
+                "slug": "crystal-palace",
+                "shortName": "Crystal Palace",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 113855,
+                "nameCode": "CRY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 7,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0033ff",
+                    "secondary": "#b90d2b",
+                    "text": "#b90d2b"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352305,
+            "startTimestamp": 1699110000,
+            "slug": "crystal-palace-burnley",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "Ardc",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Newcastle United",
+                "slug": "newcastle-united",
+                "shortName": "Newcastle",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 319345,
+                "nameCode": "NEW",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 39,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Arsenal",
+                "slug": "arsenal",
+                "shortName": "Arsenal",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 943972,
+                "nameCode": "ARS",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 42,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352314,
+            "startTimestamp": 1699119000,
+            "slug": "arsenal-newcastle-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "osP",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Nottingham Forest",
+                "slug": "nottingham-forest",
+                "shortName": "Forest",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 100153,
+                "nameCode": "NFO",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 14,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Aston Villa",
+                "slug": "aston-villa",
+                "shortName": "Aston Villa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 198023,
+                "nameCode": "AVL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 40,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#670e36",
+                    "secondary": "#94bee5",
+                    "text": "#94bee5"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352317,
+            "startTimestamp": 1699192800,
+            "slug": "aston-villa-nottingham-forest",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "Usxb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Luton Town",
+                "slug": "luton-town",
+                "shortName": "Luton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 42098,
+                "nameCode": "LUT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 72,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff3300",
+                    "secondary": "#000033",
+                    "text": "#000033"
+                }
+            },
+            "awayTeam": {
+                "name": "Liverpool",
+                "slug": "liverpool",
+                "shortName": "Liverpool",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1135181,
+                "nameCode": "LIV",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 44,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352310,
+            "startTimestamp": 1699201800,
+            "slug": "luton-town-liverpool",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "IN",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Tottenham Hotspur",
+                "slug": "tottenham-hotspur",
+                "shortName": "Tottenham ",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 573406,
+                "nameCode": "TOT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 33,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000066",
+                    "text": "#000066"
+                }
+            },
+            "awayTeam": {
+                "name": "Chelsea",
+                "slug": "chelsea",
+                "shortName": "Chelsea",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 910432,
+                "nameCode": "CHE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 38,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0310a7",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352323,
+            "startTimestamp": 1699300800,
+            "slug": "chelsea-tottenham-hotspur",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "dsI",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Wolverhampton",
+                "slug": "wolverhampton",
+                "shortName": "Wolves",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 131382,
+                "nameCode": "WOL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff9900",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Tottenham Hotspur",
+                "slug": "tottenham-hotspur",
+                "shortName": "Tottenham ",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 573406,
+                "nameCode": "TOT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 33,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000066",
+                    "text": "#000066"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352349,
+            "startTimestamp": 1699705800,
+            "slug": "tottenham-hotspur-wolverhampton",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Ksxb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Manchester United",
+                "slug": "manchester-united",
+                "shortName": "Man Utd",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1242708,
+                "nameCode": "MUN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 35,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#373737",
+                    "text": "#373737"
+                }
+            },
+            "awayTeam": {
+                "name": "Luton Town",
+                "slug": "luton-town",
+                "shortName": "Luton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 42098,
+                "nameCode": "LUT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 72,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff3300",
+                    "secondary": "#000033",
+                    "text": "#000033"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352341,
+            "startTimestamp": 1699714800,
+            "slug": "luton-town-manchester-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "gsR",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Arsenal",
+                "slug": "arsenal",
+                "shortName": "Arsenal",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 943972,
+                "nameCode": "ARS",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 42,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Burnley",
+                "slug": "burnley",
+                "shortName": "Burnley",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 87262,
+                "nameCode": "BUR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 6,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#81204c",
+                    "secondary": "#8fd2f4",
+                    "text": "#8fd2f4"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352353,
+            "startTimestamp": 1699714800,
+            "slug": "arsenal-burnley",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "hY",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Crystal Palace",
+                "slug": "crystal-palace",
+                "shortName": "Crystal Palace",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 113855,
+                "nameCode": "CRY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 7,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0033ff",
+                    "secondary": "#b90d2b",
+                    "text": "#b90d2b"
+                }
+            },
+            "awayTeam": {
+                "name": "Everton",
+                "slug": "everton",
+                "shortName": "Everton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 166349,
+                "nameCode": "EVE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 48,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#274488",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352335,
+            "startTimestamp": 1699714800,
+            "slug": "everton-crystal-palace",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Okb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Bournemouth",
+                "slug": "bournemouth",
+                "shortName": "Bournemouth",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 73104,
+                "nameCode": "BOU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 60,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Newcastle United",
+                "slug": "newcastle-united",
+                "shortName": "Newcastle",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 319345,
+                "nameCode": "NEW",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 39,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352350,
+            "startTimestamp": 1699723800,
+            "slug": "bournemouth-newcastle-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Usab",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Liverpool",
+                "slug": "liverpool",
+                "shortName": "Liverpool",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1135181,
+                "nameCode": "LIV",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 44,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Brentford",
+                "slug": "brentford",
+                "shortName": "Brentford",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 108925,
+                "nameCode": "BRE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 50,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352339,
+            "startTimestamp": 1699797600,
+            "slug": "brentford-liverpool",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "osM",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "West Ham United",
+                "slug": "west-ham-united",
+                "shortName": "West Ham",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 230184,
+                "nameCode": "WHU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 37,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#66192c",
+                    "secondary": "#59b3e4",
+                    "text": "#59b3e4"
+                }
+            },
+            "awayTeam": {
+                "name": "Nottingham Forest",
+                "slug": "nottingham-forest",
+                "shortName": "Forest",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 100153,
+                "nameCode": "NFO",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 14,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352345,
+            "startTimestamp": 1699797600,
+            "slug": "west-ham-united-nottingham-forest",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "PsT",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Aston Villa",
+                "slug": "aston-villa",
+                "shortName": "Aston Villa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 198023,
+                "nameCode": "AVL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 40,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#670e36",
+                    "secondary": "#94bee5",
+                    "text": "#94bee5"
+                }
+            },
+            "awayTeam": {
+                "name": "Fulham",
+                "slug": "fulham",
+                "shortName": "Fulham",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 120372,
+                "nameCode": "FUL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 43,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352326,
+            "startTimestamp": 1699797600,
+            "slug": "fulham-aston-villa",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "psF",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Brighton & Hove Albion",
+                "slug": "brighton-and-hove-albion",
+                "shortName": "Brighton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 212554,
+                "nameCode": "BHA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 30,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0054a6",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Sheffield United",
+                "slug": "sheffield-united",
+                "shortName": "Sheffield Utd",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 61356,
+                "nameCode": "SHU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 15,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352329,
+            "startTimestamp": 1699797600,
+            "slug": "brighton-and-hove-albion-sheffield-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "primaryColorHex": "#3c1c5a",
+                    "secondaryColorHex": "#f80158",
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "userCount": 1311660,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 17,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 589,
+                "id": 1
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "rN",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Chelsea",
+                "slug": "chelsea",
+                "shortName": "Chelsea",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 910432,
+                "nameCode": "CHE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 38,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0310a7",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Manchester City",
+                "slug": "manchester-city",
+                "shortName": "Man City",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1265224,
+                "nameCode": "MCI",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 17,
+                "country": {
+                    "alpha2": "EN",
+                    "name": "England"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#66ccff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11352332,
+            "startTimestamp": 1699806600,
+            "slug": "chelsea-manchester-city",
             "finalResultOnly": false
         }
     ],

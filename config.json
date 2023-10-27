@@ -1,0 +1,12 @@
+{
+    "lst_folder": {
+        "premier-league": "EN",
+        "laliga": "ES",
+        "serie-a": "IT",
+        "bundesliga": "DE",
+        "ligue-1": "FR"
+    },
+    "year_trm": "23/24",
+    "MONGO_URI": "mongodb://10.254.59.57:27017/",
+    "db_name": "pool_football"
+}

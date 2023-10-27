@@ -33,7 +33,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -41,2427 +41,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Vdbsfeb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Empoli",
-                "slug": "empoli",
-                "shortName": "Empoli",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 49829,
-                "nameCode": "EMP",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2705,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0d5696",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Udinese",
-                "slug": "udinese",
-                "shortName": "Udinese",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 55018,
-                "nameCode": "UDI",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2695,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407406,
-            "startTimestamp": 1696609800,
-            "slug": "empoli-udinese",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "OdbsTfb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Lecce",
-                "slug": "lecce",
-                "shortName": "Lecce",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 51685,
-                "nameCode": "LEC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2689,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#f6ea00",
-                    "secondary": "#db2d1f",
-                    "text": "#db2d1f"
-                }
-            },
-            "awayTeam": {
-                "name": "Sassuolo",
-                "slug": "sassuolo",
-                "shortName": "Sassuolo",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 65475,
-                "nameCode": "SAS",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2793,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#006600",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407412,
-            "startTimestamp": 1696617900,
-            "slug": "sassuolo-lecce",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "KdbsXdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Inter",
-                "slug": "inter",
-                "shortName": "Inter",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 640976,
-                "nameCode": "INT",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2697,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#1a57cc",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Bologna",
-                "slug": "bologna",
-                "shortName": "Bologna",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 57232,
-                "nameCode": "BFC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2685,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#003366",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407409,
-            "startTimestamp": 1696683600,
-            "slug": "inter-bologna",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "MdbsWdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Juventus",
-                "slug": "juventus",
-                "shortName": "Juventus",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 699854,
-                "nameCode": "JUV",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2687,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Torino",
-                "slug": "torino",
-                "shortName": "Torino",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 66132,
-                "nameCode": "TOR",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2696,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#6d1b1d",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407410,
-            "startTimestamp": 1696694400,
-            "slug": "torino-juventus",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Rdbsneb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Genoa",
-                "slug": "genoa",
-                "shortName": "Genoa",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 39601,
-                "nameCode": "GEN",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2713,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000033",
-                    "secondary": "#660000",
-                    "text": "#660000"
-                }
-            },
-            "awayTeam": {
-                "name": "Milan",
-                "slug": "milan",
-                "shortName": "Milan",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 687213,
-                "nameCode": "ACM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2692,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407408,
-            "startTimestamp": 1696704300,
-            "slug": "genoa-milan",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "kebsEeb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Monza",
-                "slug": "monza",
-                "shortName": "Monza",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 44541,
-                "nameCode": "MON",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2729,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#d71742",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Salernitana",
-                "slug": "salernitana",
-                "shortName": "Salernitana",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45739,
-                "nameCode": "SAL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2710,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#660000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407413,
-            "startTimestamp": 1696761000,
-            "slug": "monza-salernitana",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "LdbsZdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Lazio",
-                "slug": "lazio",
-                "shortName": "Lazio",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 215457,
-                "nameCode": "LAZ",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2699,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#64b6e1",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Atalanta",
-                "slug": "atalanta",
-                "shortName": "Atalanta",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 200664,
-                "nameCode": "ATA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2686,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0000cc",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407411,
-            "startTimestamp": 1696770000,
-            "slug": "lazio-atalanta",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "bebsbgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Frosinone",
-                "slug": "frosinone",
-                "shortName": "Frosinone",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 27094,
-                "nameCode": "FRO",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2801,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#0033cc",
-                    "text": "#0033cc"
-                }
-            },
-            "awayTeam": {
-                "name": "Hellas Verona",
-                "slug": "hellas-verona",
-                "shortName": "Verona",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 49424,
-                "nameCode": "VER",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2701,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#071d7e",
-                    "secondary": "#ffcc00",
-                    "text": "#ffcc00"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407407,
-            "startTimestamp": 1696770000,
-            "slug": "frosinone-hellas-verona",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "cebsueb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Cagliari",
-                "slug": "cagliari",
-                "shortName": "Cagliari",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 37618,
-                "nameCode": "CAG",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2719,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#990000",
-                    "secondary": "#242766",
-                    "text": "#242766"
-                }
-            },
-            "awayTeam": {
-                "name": "Roma",
-                "slug": "roma",
-                "shortName": "Roma",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 404496,
-                "nameCode": "ROM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2702,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#990000",
-                    "secondary": "#eaca15",
-                    "text": "#eaca15"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407405,
-            "startTimestamp": 1696780800,
-            "slug": "cagliari-roma",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Tdbsoeb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Napoli",
-                "slug": "napoli",
-                "shortName": "Napoli",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 522664,
-                "nameCode": "NAP",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2714,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#008cea",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Fiorentina",
-                "slug": "fiorentina",
-                "shortName": "Fiorentina",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 124809,
-                "nameCode": "ACF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2693,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#542baa",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407414,
-            "startTimestamp": 1696790700,
-            "slug": "napoli-fiorentina",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "bebsoeb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Hellas Verona",
-                "slug": "hellas-verona",
-                "shortName": "Verona",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 49424,
-                "nameCode": "VER",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2701,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#071d7e",
-                    "secondary": "#ffcc00",
-                    "text": "#ffcc00"
-                }
-            },
-            "awayTeam": {
-                "name": "Napoli",
-                "slug": "napoli",
-                "shortName": "Napoli",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 522664,
-                "nameCode": "NAP",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2714,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#008cea",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407418,
-            "startTimestamp": 1697893200,
-            "slug": "napoli-hellas-verona",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "WdbsXdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Torino",
-                "slug": "torino",
-                "shortName": "Torino",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 66132,
-                "nameCode": "TOR",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2696,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#6d1b1d",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Inter",
-                "slug": "inter",
-                "shortName": "Inter",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 640976,
-                "nameCode": "INT",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2697,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#1a57cc",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407423,
-            "startTimestamp": 1697904000,
-            "slug": "inter-torino",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "ZdbsTfb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Sassuolo",
-                "slug": "sassuolo",
-                "shortName": "Sassuolo",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 65475,
-                "nameCode": "SAS",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2793,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#006600",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Lazio",
-                "slug": "lazio",
-                "shortName": "Lazio",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 215457,
-                "nameCode": "LAZ",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2699,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#64b6e1",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407422,
-            "startTimestamp": 1697913900,
-            "slug": "sassuolo-lazio",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "cebsEeb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Roma",
-                "slug": "roma",
-                "shortName": "Roma",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 404496,
-                "nameCode": "ROM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2702,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#990000",
-                    "secondary": "#eaca15",
-                    "text": "#eaca15"
-                }
-            },
-            "awayTeam": {
-                "name": "Monza",
-                "slug": "monza",
-                "shortName": "Monza",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 44541,
-                "nameCode": "MON",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2729,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#d71742",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407420,
-            "startTimestamp": 1697970600,
-            "slug": "monza-roma",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "Kdbsbgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Bologna",
-                "slug": "bologna",
-                "shortName": "Bologna",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 57232,
-                "nameCode": "BFC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2685,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#003366",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Frosinone",
-                "slug": "frosinone",
-                "shortName": "Frosinone",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 27094,
-                "nameCode": "FRO",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2801,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#0033cc",
-                    "text": "#0033cc"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407416,
-            "startTimestamp": 1697979600,
-            "slug": "frosinone-bologna",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "kebsueb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Salernitana",
-                "slug": "salernitana",
-                "shortName": "Salernitana",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45739,
-                "nameCode": "SAL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2710,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#660000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Cagliari",
-                "slug": "cagliari",
-                "shortName": "Cagliari",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 37618,
-                "nameCode": "CAG",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2719,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#990000",
-                    "secondary": "#242766",
-                    "text": "#242766"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407421,
-            "startTimestamp": 1697979600,
-            "slug": "cagliari-salernitana",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "Ldbsneb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Atalanta",
-                "slug": "atalanta",
-                "shortName": "Atalanta",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 200664,
-                "nameCode": "ATA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2686,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0000cc",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Genoa",
-                "slug": "genoa",
-                "shortName": "Genoa",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 39601,
-                "nameCode": "GEN",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2713,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000033",
-                    "secondary": "#660000",
-                    "text": "#660000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407415,
-            "startTimestamp": 1697990400,
-            "slug": "genoa-atalanta",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "MdbsRdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Milan",
-                "slug": "milan",
-                "shortName": "Milan",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 687213,
-                "nameCode": "ACM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2692,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#cc0000",
-                    "text": "#cc0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Juventus",
-                "slug": "juventus",
-                "shortName": "Juventus",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 699854,
-                "nameCode": "JUV",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2687,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407419,
-            "startTimestamp": 1698000300,
-            "slug": "milan-juventus",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "OdbsVdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Udinese",
-                "slug": "udinese",
-                "shortName": "Udinese",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 55018,
-                "nameCode": "UDI",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2695,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Lecce",
-                "slug": "lecce",
-                "shortName": "Lecce",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 51685,
-                "nameCode": "LEC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2689,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#f6ea00",
-                    "secondary": "#db2d1f",
-                    "text": "#db2d1f"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407424,
-            "startTimestamp": 1698078600,
-            "slug": "udinese-lecce",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
-                "id": 33
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "Tdbsfeb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Fiorentina",
-                "slug": "fiorentina",
-                "shortName": "Fiorentina",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 124809,
-                "nameCode": "ACF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2693,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#542baa",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Empoli",
-                "slug": "empoli",
-                "shortName": "Empoli",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 49829,
-                "nameCode": "EMP",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2705,
-                "country": {
-                    "alpha2": "IT",
-                    "name": "Italy"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0d5696",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11407417,
-            "startTimestamp": 1698086700,
-            "slug": "empoli-fiorentina",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Serie A",
-                "slug": "serie-a",
-                "category": {
-                    "name": "Italy",
-                    "slug": "italy",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 31,
-                    "flag": "italy",
-                    "alpha2": "IT"
-                },
-                "uniqueTournament": {
-                    "name": "Serie A",
-                    "slug": "serie-a",
-                    "primaryColorHex": "#09519e",
-                    "secondaryColorHex": "#008fd7",
-                    "category": {
-                        "name": "Italy",
-                        "slug": "italy",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 31,
-                        "flag": "italy",
-                        "alpha2": "IT"
-                    },
-                    "userCount": 704157,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 23,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -2483,7 +63,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 39601,
+                "userCount": 43947,
                 "nameCode": "GEN",
                 "disabled": false,
                 "national": false,
@@ -2510,7 +90,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 45739,
+                "userCount": 45616,
                 "nameCode": "SAL",
                 "disabled": false,
                 "national": false,
@@ -2534,6 +114,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407427,
             "startTimestamp": 1698432300,
@@ -2573,7 +154,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -2581,7 +162,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -2603,7 +184,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 65475,
+                "userCount": 65230,
                 "nameCode": "SAS",
                 "disabled": false,
                 "national": false,
@@ -2630,7 +211,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 57232,
+                "userCount": 59830,
                 "nameCode": "BFC",
                 "disabled": false,
                 "national": false,
@@ -2654,6 +235,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407434,
             "startTimestamp": 1698498000,
@@ -2693,7 +275,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -2701,7 +283,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -2723,7 +305,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 51685,
+                "userCount": 53292,
                 "nameCode": "LEC",
                 "disabled": false,
                 "national": false,
@@ -2750,7 +332,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 66132,
+                "userCount": 68651,
                 "nameCode": "TOR",
                 "disabled": false,
                 "national": false,
@@ -2774,6 +356,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407431,
             "startTimestamp": 1698508800,
@@ -2813,7 +396,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -2821,7 +404,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -2843,7 +426,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 699854,
+                "userCount": 702276,
                 "nameCode": "JUV",
                 "disabled": false,
                 "national": false,
@@ -2870,7 +453,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 49424,
+                "userCount": 49602,
                 "nameCode": "VER",
                 "disabled": false,
                 "national": false,
@@ -2894,6 +477,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407429,
             "startTimestamp": 1698518700,
@@ -2933,7 +517,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -2941,7 +525,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -2963,7 +547,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 37618,
+                "userCount": 38099,
                 "nameCode": "CAG",
                 "disabled": false,
                 "national": false,
@@ -2990,7 +574,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 27094,
+                "userCount": 27466,
                 "nameCode": "FRO",
                 "disabled": false,
                 "national": false,
@@ -3014,6 +598,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407425,
             "startTimestamp": 1698579000,
@@ -3053,7 +638,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -3061,7 +646,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -3083,7 +668,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 44541,
+                "userCount": 47871,
                 "nameCode": "MON",
                 "disabled": false,
                 "national": false,
@@ -3110,7 +695,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 55018,
+                "userCount": 56601,
                 "nameCode": "UDI",
                 "disabled": false,
                 "national": false,
@@ -3134,6 +719,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407432,
             "startTimestamp": 1698588000,
@@ -3173,7 +759,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -3181,7 +767,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -3203,7 +789,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 640976,
+                "userCount": 648001,
                 "nameCode": "INT",
                 "disabled": false,
                 "national": false,
@@ -3230,7 +816,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 404496,
+                "userCount": 411842,
                 "nameCode": "ROM",
                 "disabled": false,
                 "national": false,
@@ -3254,6 +840,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407428,
             "startTimestamp": 1698598800,
@@ -3293,7 +880,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -3301,7 +888,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -3323,7 +910,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 522664,
+                "userCount": 528702,
                 "nameCode": "NAP",
                 "disabled": false,
                 "national": false,
@@ -3350,7 +937,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 687213,
+                "userCount": 697346,
                 "nameCode": "ACM",
                 "disabled": false,
                 "national": false,
@@ -3374,6 +961,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407433,
             "startTimestamp": 1698608700,
@@ -3413,7 +1001,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -3421,7 +1009,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -3443,7 +1031,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 49829,
+                "userCount": 53007,
                 "nameCode": "EMP",
                 "disabled": false,
                 "national": false,
@@ -3470,7 +1058,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 200664,
+                "userCount": 202422,
                 "nameCode": "ATA",
                 "disabled": false,
                 "national": false,
@@ -3494,6 +1082,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407426,
             "startTimestamp": 1698687000,
@@ -3533,7 +1122,7 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 704157,
+                    "userCount": 714862,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
@@ -3541,7 +1130,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "roundInfo": {
@@ -3563,7 +1152,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 215457,
+                "userCount": 213218,
                 "nameCode": "LAZ",
                 "disabled": false,
                 "national": false,
@@ -3590,7 +1179,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 124809,
+                "userCount": 132401,
                 "nameCode": "ACF",
                 "disabled": false,
                 "national": false,
@@ -3614,10 +1203,2431 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11407430,
             "startTimestamp": 1698695100,
             "slug": "lazio-fiorentina",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "KdbsZdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Bologna",
+                "slug": "bologna",
+                "shortName": "Bologna",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 59830,
+                "nameCode": "BFC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2685,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#003366",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Lazio",
+                "slug": "lazio",
+                "shortName": "Lazio",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 213218,
+                "nameCode": "LAZ",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2699,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#64b6e1",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407441,
+            "startTimestamp": 1699040700,
+            "slug": "lazio-bologna",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "kebsoeb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Salernitana",
+                "slug": "salernitana",
+                "shortName": "Salernitana",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 45616,
+                "nameCode": "SAL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2710,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#660000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Napoli",
+                "slug": "napoli",
+                "shortName": "Napoli",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 528702,
+                "nameCode": "NAP",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2714,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#008cea",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407438,
+            "startTimestamp": 1699106400,
+            "slug": "napoli-salernitana",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "LdbsXdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 202422,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Inter",
+                "slug": "inter",
+                "shortName": "Inter",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 648001,
+                "nameCode": "INT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2697,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#1a57cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407440,
+            "startTimestamp": 1699117200,
+            "slug": "inter-atalanta",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "RdbsVdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Milan",
+                "slug": "milan",
+                "shortName": "Milan",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 697346,
+                "nameCode": "ACM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2692,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Udinese",
+                "slug": "udinese",
+                "shortName": "Udinese",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 56601,
+                "nameCode": "UDI",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2695,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407436,
+            "startTimestamp": 1699127100,
+            "slug": "udinese-milan",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "bebsEeb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Hellas Verona",
+                "slug": "hellas-verona",
+                "shortName": "Verona",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 49602,
+                "nameCode": "VER",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2701,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#071d7e",
+                    "secondary": "#ffcc00",
+                    "text": "#ffcc00"
+                }
+            },
+            "awayTeam": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 47871,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407435,
+            "startTimestamp": 1699183800,
+            "slug": "monza-hellas-verona",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "nebsueb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Cagliari",
+                "slug": "cagliari",
+                "shortName": "Cagliari",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 38099,
+                "nameCode": "CAG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2719,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#242766",
+                    "text": "#242766"
+                }
+            },
+            "awayTeam": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 43947,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407442,
+            "startTimestamp": 1699192800,
+            "slug": "cagliari-genoa",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "Odbsceb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 411842,
+                "nameCode": "ROM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                }
+            },
+            "awayTeam": {
+                "name": "Lecce",
+                "slug": "lecce",
+                "shortName": "Lecce",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 53292,
+                "nameCode": "LEC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2689,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#f6ea00",
+                    "secondary": "#db2d1f",
+                    "text": "#db2d1f"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407437,
+            "startTimestamp": 1699203600,
+            "slug": "roma-lecce",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "MdbsTdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Fiorentina",
+                "slug": "fiorentina",
+                "shortName": "Fiorentina",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 132401,
+                "nameCode": "ACF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2693,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#542baa",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Juventus",
+                "slug": "juventus",
+                "shortName": "Juventus",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 702276,
+                "nameCode": "JUV",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2687,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407443,
+            "startTimestamp": 1699213500,
+            "slug": "fiorentina-juventus",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "febsbgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Frosinone",
+                "slug": "frosinone",
+                "shortName": "Frosinone",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 27466,
+                "nameCode": "FRO",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2801,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#0033cc",
+                    "text": "#0033cc"
+                }
+            },
+            "awayTeam": {
+                "name": "Empoli",
+                "slug": "empoli",
+                "shortName": "Empoli",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 53007,
+                "nameCode": "EMP",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2705,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0d5696",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407444,
+            "startTimestamp": 1699291800,
+            "slug": "frosinone-empoli",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "WdbsTfb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Torino",
+                "slug": "torino",
+                "shortName": "Torino",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 68651,
+                "nameCode": "TOR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2696,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#6d1b1d",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Sassuolo",
+                "slug": "sassuolo",
+                "shortName": "Sassuolo",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 65230,
+                "nameCode": "SAS",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2793,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#006600",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407439,
+            "startTimestamp": 1699299900,
+            "slug": "sassuolo-torino",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "kebsTfb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Sassuolo",
+                "slug": "sassuolo",
+                "shortName": "Sassuolo",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 65230,
+                "nameCode": "SAS",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2793,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#006600",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Salernitana",
+                "slug": "salernitana",
+                "shortName": "Salernitana",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 45616,
+                "nameCode": "SAL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2710,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#660000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407453,
+            "startTimestamp": 1699637400,
+            "slug": "sassuolo-salernitana",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "bebsneb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 43947,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                }
+            },
+            "awayTeam": {
+                "name": "Hellas Verona",
+                "slug": "hellas-verona",
+                "shortName": "Verona",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 49602,
+                "nameCode": "VER",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2701,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#071d7e",
+                    "secondary": "#ffcc00",
+                    "text": "#ffcc00"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407446,
+            "startTimestamp": 1699645500,
+            "slug": "genoa-hellas-verona",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "OdbsRdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Lecce",
+                "slug": "lecce",
+                "shortName": "Lecce",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 53292,
+                "nameCode": "LEC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2689,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#f6ea00",
+                    "secondary": "#db2d1f",
+                    "text": "#db2d1f"
+                }
+            },
+            "awayTeam": {
+                "name": "Milan",
+                "slug": "milan",
+                "shortName": "Milan",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 697346,
+                "nameCode": "ACM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2692,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407450,
+            "startTimestamp": 1699711200,
+            "slug": "milan-lecce",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Mdbsueb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Juventus",
+                "slug": "juventus",
+                "shortName": "Juventus",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 702276,
+                "nameCode": "JUV",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2687,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Cagliari",
+                "slug": "cagliari",
+                "shortName": "Cagliari",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 38099,
+                "nameCode": "CAG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2719,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#242766",
+                    "text": "#242766"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407448,
+            "startTimestamp": 1699722000,
+            "slug": "cagliari-juventus",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "WdbsEeb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 47871,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Torino",
+                "slug": "torino",
+                "shortName": "Torino",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 68651,
+                "nameCode": "TOR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2696,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#6d1b1d",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407451,
+            "startTimestamp": 1699731900,
+            "slug": "monza-torino",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "febsoeb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Napoli",
+                "slug": "napoli",
+                "shortName": "Napoli",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 528702,
+                "nameCode": "NAP",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2714,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#008cea",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Empoli",
+                "slug": "empoli",
+                "shortName": "Empoli",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 53007,
+                "nameCode": "EMP",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2705,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0d5696",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407452,
+            "startTimestamp": 1699788600,
+            "slug": "napoli-empoli",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "LdbsVdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Udinese",
+                "slug": "udinese",
+                "shortName": "Udinese",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 56601,
+                "nameCode": "UDI",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2695,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 202422,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407454,
+            "startTimestamp": 1699797600,
+            "slug": "udinese-atalanta",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "KdbsTdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Fiorentina",
+                "slug": "fiorentina",
+                "shortName": "Fiorentina",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 132401,
+                "nameCode": "ACF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2693,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#542baa",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Bologna",
+                "slug": "bologna",
+                "shortName": "Bologna",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 59830,
+                "nameCode": "BFC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2685,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#003366",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407445,
+            "startTimestamp": 1699797600,
+            "slug": "fiorentina-bologna",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Zdbsceb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Lazio",
+                "slug": "lazio",
+                "shortName": "Lazio",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 213218,
+                "nameCode": "LAZ",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2699,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#64b6e1",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 411842,
+                "nameCode": "ROM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407449,
+            "startTimestamp": 1699808400,
+            "slug": "roma-lazio",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "uniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 714862,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 23,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 587,
+                "id": 33
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Xdbsbgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Inter",
+                "slug": "inter",
+                "shortName": "Inter",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 648001,
+                "nameCode": "INT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2697,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#1a57cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Frosinone",
+                "slug": "frosinone",
+                "shortName": "Frosinone",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 27466,
+                "nameCode": "FRO",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2801,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#0033cc",
+                    "text": "#0033cc"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11407447,
+            "startTimestamp": 1699818300,
+            "slug": "frosinone-inter",
             "finalResultOnly": false
         }
     ],

@@ -33,7 +33,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -41,43 +41,43 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
-                "round": 7
+                "round": 9
             },
-            "customId": "Cabsgbb",
+            "customId": "Rabsgbb",
             "status": {
                 "code": 0,
                 "description": "Not started",
                 "type": "notstarted"
             },
             "homeTeam": {
-                "name": "Borussia M'gladbach",
-                "slug": "borussia-mgladbach",
-                "shortName": "M'gladbach",
+                "name": "VfL Bochum 1848",
+                "slug": "vfl-bochum-1848",
+                "shortName": "Bochum",
                 "gender": "M",
                 "sport": {
                     "name": "Football",
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 69901,
-                "nameCode": "BMG",
+                "userCount": 32176,
+                "nameCode": "BOC",
                 "disabled": false,
                 "national": false,
                 "type": 0,
-                "id": 2527,
+                "id": 2542,
                 "country": {
                     "alpha2": "DE",
                     "name": "Germany"
                 },
                 "subTeams": [],
                 "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
+                    "primary": "#6666ff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
                 }
             },
             "awayTeam": {
@@ -90,7 +90,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 37261,
+                "userCount": 39674,
                 "nameCode": "M05",
                 "disabled": false,
                 "national": false,
@@ -116,9 +116,9 @@
             "hasGlobalHighlights": false,
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396420,
-            "startTimestamp": 1696617000,
-            "slug": "1-fsv-mainz-05-borussia-mgladbach",
+            "id": 11396401,
+            "startTimestamp": 1698431400,
+            "slug": "1-fsv-mainz-05-vfl-bochum-1848",
             "finalResultOnly": false
         },
         {
@@ -154,7 +154,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -162,2064 +162,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "Xabsydb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Borussia Dortmund",
-                "slug": "borussia-dortmund",
-                "shortName": "Dortmund",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 550418,
-                "nameCode": "BVB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2673,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffe600",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "1. FC Union Berlin",
-                "slug": "1-fc-union-berlin",
-                "shortName": "Union Berlin",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 116033,
-                "nameCode": "FCU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2547,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396424,
-            "startTimestamp": 1696685400,
-            "slug": "borussia-dortmund-1-fc-union-berlin",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "RabskCo",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "RB Leipzig",
-                "slug": "rb-leipzig",
-                "shortName": "Leipzig",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 269739,
-                "nameCode": "RBL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 36360,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#dd0000",
-                    "text": "#dd0000"
-                }
-            },
-            "awayTeam": {
-                "name": "VfL Bochum 1848",
-                "slug": "vfl-bochum-1848",
-                "shortName": "Bochum",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 31021,
-                "nameCode": "BOC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2542,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#6666ff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396422,
-            "startTimestamp": 1696685400,
-            "slug": "rb-leipzig-vfl-bochum-1848",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "zabsCdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "VfB Stuttgart",
-                "slug": "vfb-stuttgart",
-                "shortName": "Stuttgart",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 52201,
-                "nameCode": "VFB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2677,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "awayTeam": {
-                "name": "VfL Wolfsburg",
-                "slug": "vfl-wolfsburg",
-                "shortName": "Wolfsburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 52215,
-                "nameCode": "WOB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2524,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#64b42d",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396417,
-            "startTimestamp": 1696685400,
-            "slug": "vfb-stuttgart-vfl-wolfsburg",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "Bbbsacb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "FC Augsburg",
-                "slug": "fc-augsburg",
-                "shortName": "Augsburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 31840,
-                "nameCode": "FCA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2600,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#cd1719",
-                    "text": "#cd1719"
-                }
-            },
-            "awayTeam": {
-                "name": "Darmstadt 98",
-                "slug": "darmstadt-98",
-                "shortName": "Darmstadt",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 27205,
-                "nameCode": "D98",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2576,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#4577fc",
-                    "secondary": "#0612a8",
-                    "text": "#0612a8"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396418,
-            "startTimestamp": 1696685400,
-            "slug": "fc-augsburg-darmstadt-98",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "Jabsubb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "SV Werder Bremen",
-                "slug": "sv-werder-bremen",
-                "shortName": "Bremen",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 39948,
-                "nameCode": "SVW",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2534,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#009966",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "TSG Hoffenheim",
-                "slug": "tsg-hoffenheim",
-                "shortName": "Hoffenheim",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45319,
-                "nameCode": "TSG",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2569,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#1f5da6",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396419,
-            "startTimestamp": 1696696200,
-            "slug": "tsg-hoffenheim-sv-werder-bremen",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "wdbsGdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Bayer 04 Leverkusen",
-                "slug": "bayer-04-leverkusen",
-                "shortName": "Leverkusen",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 170523,
-                "nameCode": "B04",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2681,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ff2222",
-                    "text": "#ff2222"
-                }
-            },
-            "awayTeam": {
-                "name": "1. FC Köln",
-                "slug": "1-fc-koln",
-                "shortName": "Köln",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45719,
-                "nameCode": "KOE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2671,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#e30613",
-                    "text": "#e30613"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396423,
-            "startTimestamp": 1696771800,
-            "slug": "bayer-04-leverkusen-1-fc-koln",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "Nabsxdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "FC Bayern München",
-                "slug": "fc-bayern-munchen",
-                "shortName": "Bayern",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 838882,
-                "nameCode": "BAY",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2672,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cf142f",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "SC Freiburg",
-                "slug": "sc-freiburg",
-                "shortName": "Freiburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 68186,
-                "nameCode": "SCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2538,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc3333",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396425,
-            "startTimestamp": 1696779000,
-            "slug": "fc-bayern-munchen-sc-freiburg",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 7
-            },
-            "customId": "zdbsKrc",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Eintracht Frankfurt",
-                "slug": "eintracht-frankfurt",
-                "shortName": "Frankfurt",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 117380,
-                "nameCode": "SGE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2674,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ff1111",
-                    "text": "#ff1111"
-                }
-            },
-            "awayTeam": {
-                "name": "1. FC Heidenheim",
-                "slug": "1-fc-heidenheim",
-                "shortName": "Heidenheim",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 19737,
-                "nameCode": "FCH",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 5885,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#243475",
-                    "secondary": "#400040",
-                    "text": "#400040"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396421,
-            "startTimestamp": 1696786200,
-            "slug": "1-fc-heidenheim-eintracht-frankfurt",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Jabsydb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Borussia Dortmund",
-                "slug": "borussia-dortmund",
-                "shortName": "Dortmund",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 550418,
-                "nameCode": "BVB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2673,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffe600",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "SV Werder Bremen",
-                "slug": "sv-werder-bremen",
-                "shortName": "Bremen",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 39948,
-                "nameCode": "SVW",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2534,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#009966",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396416,
-            "startTimestamp": 1697826600,
-            "slug": "borussia-dortmund-sv-werder-bremen",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "BbbskCo",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Darmstadt 98",
-                "slug": "darmstadt-98",
-                "shortName": "Darmstadt",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 27205,
-                "nameCode": "D98",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2576,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#4577fc",
-                    "secondary": "#0612a8",
-                    "text": "#0612a8"
-                }
-            },
-            "awayTeam": {
-                "name": "RB Leipzig",
-                "slug": "rb-leipzig",
-                "shortName": "Leipzig",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 269739,
-                "nameCode": "RBL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 36360,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#dd0000",
-                    "text": "#dd0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396408,
-            "startTimestamp": 1697895000,
-            "slug": "rb-leipzig-darmstadt-98",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "zabsGdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "VfL Wolfsburg",
-                "slug": "vfl-wolfsburg",
-                "shortName": "Wolfsburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 52215,
-                "nameCode": "WOB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2524,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#64b42d",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Bayer 04 Leverkusen",
-                "slug": "bayer-04-leverkusen",
-                "shortName": "Leverkusen",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 170523,
-                "nameCode": "B04",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2681,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ff2222",
-                    "text": "#ff2222"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396414,
-            "startTimestamp": 1697895000,
-            "slug": "bayer-04-leverkusen-vfl-wolfsburg",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "XabsCdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "1. FC Union Berlin",
-                "slug": "1-fc-union-berlin",
-                "shortName": "Union Berlin",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 116033,
-                "nameCode": "FCU",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2547,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "VfB Stuttgart",
-                "slug": "vfb-stuttgart",
-                "shortName": "Stuttgart",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 52201,
-                "nameCode": "VFB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2677,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396415,
-            "startTimestamp": 1697895000,
-            "slug": "vfb-stuttgart-1-fc-union-berlin",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "ubbszdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "TSG Hoffenheim",
-                "slug": "tsg-hoffenheim",
-                "shortName": "Hoffenheim",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45319,
-                "nameCode": "TSG",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2569,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#1f5da6",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Eintracht Frankfurt",
-                "slug": "eintracht-frankfurt",
-                "shortName": "Frankfurt",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 117380,
-                "nameCode": "SGE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2674,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ff1111",
-                    "text": "#ff1111"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396410,
-            "startTimestamp": 1697895000,
-            "slug": "eintracht-frankfurt-tsg-hoffenheim",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "NabsRab",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "SC Freiburg",
-                "slug": "sc-freiburg",
-                "shortName": "Freiburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 68186,
-                "nameCode": "SCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2538,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc3333",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "VfL Bochum 1848",
-                "slug": "vfl-bochum-1848",
-                "shortName": "Bochum",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 31021,
-                "nameCode": "BOC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2542,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#6666ff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396413,
-            "startTimestamp": 1697895000,
-            "slug": "vfl-bochum-1848-sc-freiburg",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "gbbsxdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "1. FSV Mainz 05",
-                "slug": "1-fsv-mainz-05",
-                "shortName": "Mainz 05",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 37261,
-                "nameCode": "M05",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2556,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "FC Bayern München",
-                "slug": "fc-bayern-munchen",
-                "shortName": "Bayern",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 838882,
-                "nameCode": "BAY",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2672,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cf142f",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396411,
-            "startTimestamp": 1697905800,
-            "slug": "fc-bayern-munchen-1-fsv-mainz-05",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "Cabswdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "1. FC Köln",
-                "slug": "1-fc-koln",
-                "shortName": "Köln",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45719,
-                "nameCode": "KOE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2671,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#e30613",
-                    "text": "#e30613"
-                }
-            },
-            "awayTeam": {
-                "name": "Borussia M'gladbach",
-                "slug": "borussia-mgladbach",
-                "shortName": "M'gladbach",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 69901,
-                "nameCode": "BMG",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2527,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396412,
-            "startTimestamp": 1697981400,
-            "slug": "1-fc-koln-borussia-mgladbach",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 8
-            },
-            "customId": "acbsKrc",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "1. FC Heidenheim",
-                "slug": "1-fc-heidenheim",
-                "shortName": "Heidenheim",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 19737,
-                "nameCode": "FCH",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 5885,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#243475",
-                    "secondary": "#400040",
-                    "text": "#400040"
-                }
-            },
-            "awayTeam": {
-                "name": "FC Augsburg",
-                "slug": "fc-augsburg",
-                "shortName": "Augsburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 31840,
-                "nameCode": "FCA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2600,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#cd1719",
-                    "text": "#cd1719"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396409,
-            "startTimestamp": 1697988600,
-            "slug": "1-fc-heidenheim-fc-augsburg",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -2241,7 +184,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 838882,
+                "userCount": 842849,
                 "nameCode": "BAY",
                 "disabled": false,
                 "national": false,
@@ -2268,7 +211,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 27205,
+                "userCount": 28051,
                 "nameCode": "D98",
                 "disabled": false,
                 "national": false,
@@ -2292,6 +235,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396407,
             "startTimestamp": 1698499800,
@@ -2331,7 +275,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -2339,367 +283,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "ydbszdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Eintracht Frankfurt",
-                "slug": "eintracht-frankfurt",
-                "shortName": "Frankfurt",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 117380,
-                "nameCode": "SGE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2674,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ff1111",
-                    "text": "#ff1111"
-                }
-            },
-            "awayTeam": {
-                "name": "Borussia Dortmund",
-                "slug": "borussia-dortmund",
-                "shortName": "Dortmund",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 550418,
-                "nameCode": "BVB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2673,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffe600",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396405,
-            "startTimestamp": 1698499800,
-            "slug": "eintracht-frankfurt-borussia-dortmund",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "wdbskCo",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "RB Leipzig",
-                "slug": "rb-leipzig",
-                "shortName": "Leipzig",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 269739,
-                "nameCode": "RBL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 36360,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#dd0000",
-                    "text": "#dd0000"
-                }
-            },
-            "awayTeam": {
-                "name": "1. FC Köln",
-                "slug": "1-fc-koln",
-                "shortName": "Köln",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45719,
-                "nameCode": "KOE",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2671,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#e30613",
-                    "text": "#e30613"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396406,
-            "startTimestamp": 1698499800,
-            "slug": "rb-leipzig-1-fc-koln",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
-                "id": 42
-            },
-            "roundInfo": {
-                "round": 9
-            },
-            "customId": "NabsGdb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Bayer 04 Leverkusen",
-                "slug": "bayer-04-leverkusen",
-                "shortName": "Leverkusen",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 170523,
-                "nameCode": "B04",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2681,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#000000",
-                    "secondary": "#ff2222",
-                    "text": "#ff2222"
-                }
-            },
-            "awayTeam": {
-                "name": "SC Freiburg",
-                "slug": "sc-freiburg",
-                "shortName": "Freiburg",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 68186,
-                "nameCode": "SCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2538,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc3333",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396404,
-            "startTimestamp": 1698499800,
-            "slug": "bayer-04-leverkusen-sc-freiburg",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "Bundesliga",
-                "slug": "bundesliga",
-                "category": {
-                    "name": "Germany",
-                    "slug": "germany",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 30,
-                    "flag": "germany",
-                    "alpha2": "DE"
-                },
-                "uniqueTournament": {
-                    "name": "Bundesliga",
-                    "slug": "bundesliga",
-                    "primaryColorHex": "#e2080e",
-                    "secondaryColorHex": "#8e0902",
-                    "category": {
-                        "name": "Germany",
-                        "slug": "germany",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 30,
-                        "flag": "germany",
-                        "alpha2": "DE"
-                    },
-                    "userCount": 584044,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 35,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -2721,7 +305,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 39948,
+                "userCount": 43726,
                 "nameCode": "SVW",
                 "disabled": false,
                 "national": false,
@@ -2748,7 +332,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 116033,
+                "userCount": 116830,
                 "nameCode": "FCU",
                 "disabled": false,
                 "national": false,
@@ -2772,6 +356,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396402,
             "startTimestamp": 1698499800,
@@ -2811,7 +396,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -2819,7 +404,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -2841,7 +426,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 52201,
+                "userCount": 56734,
                 "nameCode": "VFB",
                 "disabled": false,
                 "national": false,
@@ -2868,7 +453,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 45319,
+                "userCount": 45495,
                 "nameCode": "TSG",
                 "disabled": false,
                 "national": false,
@@ -2892,6 +477,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396398,
             "startTimestamp": 1698499800,
@@ -2931,7 +517,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -2939,7 +525,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -2961,7 +547,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 69901,
+                "userCount": 70887,
                 "nameCode": "BMG",
                 "disabled": false,
                 "national": false,
@@ -2988,7 +574,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 19737,
+                "userCount": 20716,
                 "nameCode": "FCH",
                 "disabled": false,
                 "national": false,
@@ -3012,6 +598,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396403,
             "startTimestamp": 1698499800,
@@ -3051,7 +638,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -3059,7 +646,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -3081,7 +668,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 31840,
+                "userCount": 32314,
                 "nameCode": "FCA",
                 "disabled": false,
                 "national": false,
@@ -3108,7 +695,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 52215,
+                "userCount": 52562,
                 "nameCode": "WOB",
                 "disabled": false,
                 "national": false,
@@ -3132,6 +719,7 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396400,
             "startTimestamp": 1698499800,
@@ -3171,7 +759,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -3179,70 +767,70 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
                 "round": 9
             },
-            "customId": "Rabsgbb",
+            "customId": "wdbskCo",
             "status": {
                 "code": 0,
                 "description": "Not started",
                 "type": "notstarted"
             },
             "homeTeam": {
-                "name": "VfL Bochum 1848",
-                "slug": "vfl-bochum-1848",
-                "shortName": "Bochum",
+                "name": "RB Leipzig",
+                "slug": "rb-leipzig",
+                "shortName": "Leipzig",
                 "gender": "M",
                 "sport": {
                     "name": "Football",
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 31021,
-                "nameCode": "BOC",
+                "userCount": 270921,
+                "nameCode": "RBL",
                 "disabled": false,
                 "national": false,
                 "type": 0,
-                "id": 2542,
+                "id": 36360,
                 "country": {
                     "alpha2": "DE",
                     "name": "Germany"
                 },
                 "subTeams": [],
                 "teamColors": {
-                    "primary": "#6666ff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
+                    "primary": "#ffffff",
+                    "secondary": "#dd0000",
+                    "text": "#dd0000"
                 }
             },
             "awayTeam": {
-                "name": "1. FSV Mainz 05",
-                "slug": "1-fsv-mainz-05",
-                "shortName": "Mainz 05",
+                "name": "1. FC Köln",
+                "slug": "1-fc-koln",
+                "shortName": "Köln",
                 "gender": "M",
                 "sport": {
                     "name": "Football",
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 37261,
-                "nameCode": "M05",
+                "userCount": 46550,
+                "nameCode": "KOE",
                 "disabled": false,
                 "national": false,
                 "type": 0,
-                "id": 2556,
+                "id": 2671,
                 "country": {
                     "alpha2": "DE",
                     "name": "Germany"
                 },
                 "subTeams": [],
                 "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
+                    "primary": "#ffffff",
+                    "secondary": "#e30613",
+                    "text": "#e30613"
                 }
             },
             "homeScore": {},
@@ -3252,10 +840,11 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396401,
-            "startTimestamp": 1698499800,
-            "slug": "1-fsv-mainz-05-vfl-bochum-1848",
+            "id": 11396406,
+            "startTimestamp": 1698510600,
+            "slug": "rb-leipzig-1-fc-koln",
             "finalResultOnly": false
         },
         {
@@ -3291,7 +880,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -3299,19 +888,46 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
-                "round": 10
+                "round": 9
             },
-            "customId": "xdbsydb",
+            "customId": "ydbszdb",
             "status": {
                 "code": 0,
                 "description": "Not started",
                 "type": "notstarted"
             },
             "homeTeam": {
+                "name": "Eintracht Frankfurt",
+                "slug": "eintracht-frankfurt",
+                "shortName": "Frankfurt",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 115841,
+                "nameCode": "SGE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2674,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ff1111",
+                    "text": "#ff1111"
+                }
+            },
+            "awayTeam": {
                 "name": "Borussia Dortmund",
                 "slug": "borussia-dortmund",
                 "shortName": "Dortmund",
@@ -3321,7 +937,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 550418,
+                "userCount": 554465,
                 "nameCode": "BVB",
                 "disabled": false,
                 "national": false,
@@ -3338,33 +954,6 @@
                     "text": "#000000"
                 }
             },
-            "awayTeam": {
-                "name": "FC Bayern München",
-                "slug": "fc-bayern-munchen",
-                "shortName": "Bayern",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 838882,
-                "nameCode": "BAY",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2672,
-                "country": {
-                    "alpha2": "DE",
-                    "name": "Germany"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cf142f",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
             "homeScore": {},
             "awayScore": {},
             "time": {},
@@ -3372,10 +961,11 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
-            "id": 11396399,
-            "startTimestamp": 1699104600,
-            "slug": "borussia-dortmund-fc-bayern-munchen",
+            "id": 11396405,
+            "startTimestamp": 1698589800,
+            "slug": "eintracht-frankfurt-borussia-dortmund",
             "finalResultOnly": false
         },
         {
@@ -3411,7 +1001,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -3419,7 +1009,249 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 9
+            },
+            "customId": "NabsGdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Bayer 04 Leverkusen",
+                "slug": "bayer-04-leverkusen",
+                "shortName": "Leverkusen",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 182904,
+                "nameCode": "B04",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2681,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ff2222",
+                    "text": "#ff2222"
+                }
+            },
+            "awayTeam": {
+                "name": "SC Freiburg",
+                "slug": "sc-freiburg",
+                "shortName": "Freiburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 70307,
+                "nameCode": "SCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2538,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc3333",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396404,
+            "startTimestamp": 1698597000,
+            "slug": "bayer-04-leverkusen-sc-freiburg",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "RabsBbb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Darmstadt 98",
+                "slug": "darmstadt-98",
+                "shortName": "Darmstadt",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 28051,
+                "nameCode": "D98",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2576,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#4577fc",
+                    "secondary": "#0612a8",
+                    "text": "#0612a8"
+                }
+            },
+            "awayTeam": {
+                "name": "VfL Bochum 1848",
+                "slug": "vfl-bochum-1848",
+                "shortName": "Bochum",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 32176,
+                "nameCode": "BOC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2542,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#6666ff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396390,
+            "startTimestamp": 1699039800,
+            "slug": "darmstadt-98-vfl-bochum-1848",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -3441,7 +1273,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 37261,
+                "userCount": 39674,
                 "nameCode": "M05",
                 "disabled": false,
                 "national": false,
@@ -3468,7 +1300,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 269739,
+                "userCount": 270921,
                 "nameCode": "RBL",
                 "disabled": false,
                 "national": false,
@@ -3492,9 +1324,10 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396394,
-            "startTimestamp": 1699104600,
+            "startTimestamp": 1699108200,
             "slug": "rb-leipzig-1-fsv-mainz-05",
             "finalResultOnly": false
         },
@@ -3531,7 +1364,7 @@
                         "flag": "germany",
                         "alpha2": "DE"
                     },
-                    "userCount": 584044,
+                    "userCount": 593645,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 35,
@@ -3539,7 +1372,7 @@
                     "hasEventPlayerStatistics": true,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 578,
+                "priority": 586,
                 "id": 42
             },
             "roundInfo": {
@@ -3561,7 +1394,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 45319,
+                "userCount": 45495,
                 "nameCode": "TSG",
                 "disabled": false,
                 "national": false,
@@ -3588,7 +1421,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 170523,
+                "userCount": 182904,
                 "nameCode": "B04",
                 "disabled": false,
                 "national": false,
@@ -3612,10 +1445,2186 @@
                 "changeTimestamp": 0
             },
             "hasGlobalHighlights": false,
+            "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11396392,
-            "startTimestamp": 1699104600,
+            "startTimestamp": 1699108200,
             "slug": "bayer-04-leverkusen-tsg-hoffenheim",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "Xabszdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "1. FC Union Berlin",
+                "slug": "1-fc-union-berlin",
+                "shortName": "Union Berlin",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 116830,
+                "nameCode": "FCU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2547,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Eintracht Frankfurt",
+                "slug": "eintracht-frankfurt",
+                "shortName": "Frankfurt",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 115841,
+                "nameCode": "SGE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2674,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ff1111",
+                    "text": "#ff1111"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396397,
+            "startTimestamp": 1699108200,
+            "slug": "eintracht-frankfurt-1-fc-union-berlin",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "CabsNab",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "SC Freiburg",
+                "slug": "sc-freiburg",
+                "shortName": "Freiburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 70307,
+                "nameCode": "SCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2538,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc3333",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Borussia M'gladbach",
+                "slug": "borussia-mgladbach",
+                "shortName": "M'gladbach",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 70887,
+                "nameCode": "BMG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2527,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396396,
+            "startTimestamp": 1699108200,
+            "slug": "sc-freiburg-borussia-mgladbach",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "acbswdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "1. FC Köln",
+                "slug": "1-fc-koln",
+                "shortName": "Köln",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 46550,
+                "nameCode": "KOE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2671,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#e30613",
+                    "text": "#e30613"
+                }
+            },
+            "awayTeam": {
+                "name": "FC Augsburg",
+                "slug": "fc-augsburg",
+                "shortName": "Augsburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 32314,
+                "nameCode": "FCA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2600,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#cd1719",
+                    "text": "#cd1719"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396393,
+            "startTimestamp": 1699108200,
+            "slug": "1-fc-koln-fc-augsburg",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "xdbsydb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Borussia Dortmund",
+                "slug": "borussia-dortmund",
+                "shortName": "Dortmund",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 554465,
+                "nameCode": "BVB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2673,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffe600",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "FC Bayern München",
+                "slug": "fc-bayern-munchen",
+                "shortName": "Bayern",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 842849,
+                "nameCode": "BAY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2672,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cf142f",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396399,
+            "startTimestamp": 1699119000,
+            "slug": "borussia-dortmund-fc-bayern-munchen",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "zabsJab",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "VfL Wolfsburg",
+                "slug": "vfl-wolfsburg",
+                "shortName": "Wolfsburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 52562,
+                "nameCode": "WOB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2524,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#64b42d",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "SV Werder Bremen",
+                "slug": "sv-werder-bremen",
+                "shortName": "Bremen",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 43726,
+                "nameCode": "SVW",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2534,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#009966",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396395,
+            "startTimestamp": 1699194600,
+            "slug": "sv-werder-bremen-vfl-wolfsburg",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 10
+            },
+            "customId": "CdbsKrc",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "1. FC Heidenheim",
+                "slug": "1-fc-heidenheim",
+                "shortName": "Heidenheim",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 20716,
+                "nameCode": "FCH",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 5885,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#243475",
+                    "secondary": "#400040",
+                    "text": "#400040"
+                }
+            },
+            "awayTeam": {
+                "name": "VfB Stuttgart",
+                "slug": "vfb-stuttgart",
+                "shortName": "Stuttgart",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 56734,
+                "nameCode": "VFB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2677,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396391,
+            "startTimestamp": 1699201800,
+            "slug": "1-fc-heidenheim-vfb-stuttgart",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "zabsCab",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Borussia M'gladbach",
+                "slug": "borussia-mgladbach",
+                "shortName": "M'gladbach",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 70887,
+                "nameCode": "BMG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2527,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "VfL Wolfsburg",
+                "slug": "vfl-wolfsburg",
+                "shortName": "Wolfsburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 52562,
+                "nameCode": "WOB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2524,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#64b42d",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396381,
+            "startTimestamp": 1699644600,
+            "slug": "borussia-mgladbach-vfl-wolfsburg",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "xdbsKrc",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "FC Bayern München",
+                "slug": "fc-bayern-munchen",
+                "shortName": "Bayern",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 842849,
+                "nameCode": "BAY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2672,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cf142f",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "1. FC Heidenheim",
+                "slug": "1-fc-heidenheim",
+                "shortName": "Heidenheim",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 20716,
+                "nameCode": "FCH",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 5885,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#243475",
+                    "secondary": "#400040",
+                    "text": "#400040"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396386,
+            "startTimestamp": 1699713000,
+            "slug": "1-fc-heidenheim-fc-bayern-munchen",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "ydbsCdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "VfB Stuttgart",
+                "slug": "vfb-stuttgart",
+                "shortName": "Stuttgart",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 56734,
+                "nameCode": "VFB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2677,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Borussia Dortmund",
+                "slug": "borussia-dortmund",
+                "shortName": "Dortmund",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 554465,
+                "nameCode": "BVB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2673,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffe600",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396387,
+            "startTimestamp": 1699713000,
+            "slug": "vfb-stuttgart-borussia-dortmund",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "gbbsBbb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Darmstadt 98",
+                "slug": "darmstadt-98",
+                "shortName": "Darmstadt",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 28051,
+                "nameCode": "D98",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2576,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#4577fc",
+                    "secondary": "#0612a8",
+                    "text": "#0612a8"
+                }
+            },
+            "awayTeam": {
+                "name": "1. FSV Mainz 05",
+                "slug": "1-fsv-mainz-05",
+                "shortName": "Mainz 05",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 39674,
+                "nameCode": "M05",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2556,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396385,
+            "startTimestamp": 1699713000,
+            "slug": "darmstadt-98-1-fsv-mainz-05",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "ubbsacb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "FC Augsburg",
+                "slug": "fc-augsburg",
+                "shortName": "Augsburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 32314,
+                "nameCode": "FCA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2600,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#cd1719",
+                    "text": "#cd1719"
+                }
+            },
+            "awayTeam": {
+                "name": "TSG Hoffenheim",
+                "slug": "tsg-hoffenheim",
+                "shortName": "Hoffenheim",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 45495,
+                "nameCode": "TSG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2569,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#1f5da6",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396388,
+            "startTimestamp": 1699713000,
+            "slug": "fc-augsburg-tsg-hoffenheim",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "Rabswdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "VfL Bochum 1848",
+                "slug": "vfl-bochum-1848",
+                "shortName": "Bochum",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 32176,
+                "nameCode": "BOC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2542,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#6666ff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "1. FC Köln",
+                "slug": "1-fc-koln",
+                "shortName": "Köln",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 46550,
+                "nameCode": "KOE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2671,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#e30613",
+                    "text": "#e30613"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396389,
+            "startTimestamp": 1699723800,
+            "slug": "1-fc-koln-vfl-bochum-1848",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "XabsGdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Bayer 04 Leverkusen",
+                "slug": "bayer-04-leverkusen",
+                "shortName": "Leverkusen",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 182904,
+                "nameCode": "B04",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2681,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ff2222",
+                    "text": "#ff2222"
+                }
+            },
+            "awayTeam": {
+                "name": "1. FC Union Berlin",
+                "slug": "1-fc-union-berlin",
+                "shortName": "Union Berlin",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 116830,
+                "nameCode": "FCU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2547,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396383,
+            "startTimestamp": 1699799400,
+            "slug": "bayer-04-leverkusen-1-fc-union-berlin",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "Jabszdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "SV Werder Bremen",
+                "slug": "sv-werder-bremen",
+                "shortName": "Bremen",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 43726,
+                "nameCode": "SVW",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2534,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#009966",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Eintracht Frankfurt",
+                "slug": "eintracht-frankfurt",
+                "shortName": "Frankfurt",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 115841,
+                "nameCode": "SGE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2674,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ff1111",
+                    "text": "#ff1111"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396382,
+            "startTimestamp": 1699806600,
+            "slug": "eintracht-frankfurt-sv-werder-bremen",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 11
+            },
+            "customId": "NabskCo",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "RB Leipzig",
+                "slug": "rb-leipzig",
+                "shortName": "Leipzig",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 270921,
+                "nameCode": "RBL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 36360,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#dd0000",
+                    "text": "#dd0000"
+                }
+            },
+            "awayTeam": {
+                "name": "SC Freiburg",
+                "slug": "sc-freiburg",
+                "shortName": "Freiburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 70307,
+                "nameCode": "SCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2538,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc3333",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396384,
+            "startTimestamp": 1699813800,
+            "slug": "rb-leipzig-sc-freiburg",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "wdbsxdb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "1. FC Köln",
+                "slug": "1-fc-koln",
+                "shortName": "Köln",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 46550,
+                "nameCode": "KOE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2671,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#e30613",
+                    "text": "#e30613"
+                }
+            },
+            "awayTeam": {
+                "name": "FC Bayern München",
+                "slug": "fc-bayern-munchen",
+                "shortName": "Bayern",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 842849,
+                "nameCode": "BAY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2672,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cf142f",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396376,
+            "startTimestamp": 1700854200,
+            "slug": "fc-bayern-munchen-1-fc-koln",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Cabsydb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Borussia Dortmund",
+                "slug": "borussia-dortmund",
+                "shortName": "Dortmund",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 554465,
+                "nameCode": "BVB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2673,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffe600",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Borussia M'gladbach",
+                "slug": "borussia-mgladbach",
+                "shortName": "M'gladbach",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 70887,
+                "nameCode": "BMG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2527,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396380,
+            "startTimestamp": 1700922600,
+            "slug": "borussia-dortmund-borussia-mgladbach",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "uniqueTournament": {
+                    "name": "Bundesliga",
+                    "slug": "bundesliga",
+                    "primaryColorHex": "#e2080e",
+                    "secondaryColorHex": "#8e0902",
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "userCount": 593645,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 35,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 586,
+                "id": 42
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "zabskCo",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "VfL Wolfsburg",
+                "slug": "vfl-wolfsburg",
+                "shortName": "Wolfsburg",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 52562,
+                "nameCode": "WOB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2524,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#64b42d",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "RB Leipzig",
+                "slug": "rb-leipzig",
+                "shortName": "Leipzig",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 270921,
+                "nameCode": "RBL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 36360,
+                "country": {
+                    "alpha2": "DE",
+                    "name": "Germany"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#dd0000",
+                    "text": "#dd0000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11396375,
+            "startTimestamp": 1700922600,
+            "slug": "rb-leipzig-vfl-wolfsburg",
             "finalResultOnly": false
         }
     ],

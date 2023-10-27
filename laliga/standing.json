@@ -33,7 +33,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 846255,
+                    "userCount": 862312,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
                     "displayInverseHomeAwayTeams": false
@@ -60,7 +60,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 1607815,
+                        "userCount": 1632559,
                         "nameCode": "RMA",
                         "disabled": false,
                         "national": false,
@@ -78,52 +78,14 @@
                         "id": 804
                     },
                     "position": 1,
-                    "matches": 8,
-                    "wins": 7,
-                    "scoresFor": 16,
-                    "scoresAgainst": 6,
+                    "matches": 10,
+                    "wins": 8,
+                    "scoresFor": 21,
+                    "scoresAgainst": 7,
                     "id": 867889,
                     "losses": 1,
-                    "draws": 0,
-                    "points": 21
-                },
-                {
-                    "team": {
-                        "name": "Barcelona",
-                        "slug": "barcelona",
-                        "shortName": "Barcelona",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 1498757,
-                        "nameCode": "FCB",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2817,
-                        "teamColors": {
-                            "primary": "#154284",
-                            "secondary": "#9d1009",
-                            "text": "#9d1009"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "Champions League",
-                        "id": 804
-                    },
-                    "position": 2,
-                    "matches": 8,
-                    "wins": 6,
-                    "scoresFor": 19,
-                    "scoresAgainst": 8,
-                    "id": 867881,
-                    "losses": 0,
-                    "draws": 2,
-                    "points": 20
+                    "draws": 1,
+                    "points": 25
                 },
                 {
                     "team": {
@@ -136,7 +98,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 67833,
+                        "userCount": 76193,
                         "nameCode": "GIR",
                         "disabled": false,
                         "national": false,
@@ -153,15 +115,53 @@
                         "text": "Champions League",
                         "id": 804
                     },
-                    "position": 3,
-                    "matches": 8,
-                    "wins": 6,
-                    "scoresFor": 18,
-                    "scoresAgainst": 11,
+                    "position": 2,
+                    "matches": 10,
+                    "wins": 8,
+                    "scoresFor": 24,
+                    "scoresAgainst": 13,
                     "id": 867883,
                     "losses": 1,
                     "draws": 1,
-                    "points": 19
+                    "points": 25
+                },
+                {
+                    "team": {
+                        "name": "Barcelona",
+                        "slug": "barcelona",
+                        "shortName": "Barcelona",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 1517681,
+                        "nameCode": "FCB",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2817,
+                        "teamColors": {
+                            "primary": "#154284",
+                            "secondary": "#9d1009",
+                            "text": "#9d1009"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Champions League",
+                        "id": 804
+                    },
+                    "position": 3,
+                    "matches": 10,
+                    "wins": 7,
+                    "scoresFor": 22,
+                    "scoresAgainst": 10,
+                    "id": 867881,
+                    "losses": 0,
+                    "draws": 3,
+                    "points": 24
                 },
                 {
                     "team": {
@@ -174,7 +174,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 528831,
+                        "userCount": 533143,
                         "nameCode": "ATM",
                         "disabled": false,
                         "national": false,
@@ -192,14 +192,14 @@
                         "id": 804
                     },
                     "position": 4,
-                    "matches": 7,
-                    "wins": 5,
-                    "scoresFor": 18,
-                    "scoresAgainst": 7,
+                    "matches": 9,
+                    "wins": 7,
+                    "scoresFor": 23,
+                    "scoresAgainst": 8,
                     "id": 867877,
                     "losses": 1,
                     "draws": 1,
-                    "points": 16
+                    "points": 22
                 },
                 {
                     "team": {
@@ -212,7 +212,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 155402,
+                        "userCount": 159403,
                         "nameCode": "RSO",
                         "disabled": false,
                         "national": false,
@@ -230,14 +230,14 @@
                         "id": 808
                     },
                     "position": 5,
-                    "matches": 8,
-                    "wins": 4,
-                    "scoresFor": 16,
-                    "scoresAgainst": 10,
+                    "matches": 10,
+                    "wins": 5,
+                    "scoresFor": 18,
+                    "scoresAgainst": 12,
                     "id": 867890,
-                    "losses": 1,
+                    "losses": 2,
                     "draws": 3,
-                    "points": 15
+                    "points": 18
                 },
                 {
                     "team": {
@@ -250,7 +250,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 110480,
+                        "userCount": 118795,
                         "nameCode": "ATH",
                         "disabled": false,
                         "national": false,
@@ -268,12 +268,80 @@
                         "id": 1349
                     },
                     "position": 6,
-                    "matches": 8,
-                    "wins": 4,
-                    "scoresFor": 13,
-                    "scoresAgainst": 9,
+                    "matches": 10,
+                    "wins": 5,
+                    "scoresFor": 16,
+                    "scoresAgainst": 10,
                     "id": 867876,
+                    "losses": 3,
+                    "draws": 2,
+                    "points": 17
+                },
+                {
+                    "team": {
+                        "name": "Rayo Vallecano",
+                        "slug": "rayo-vallecano",
+                        "shortName": "Rayo Vallecano",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 58607,
+                        "nameCode": "RVC",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2818,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 7,
+                    "matches": 10,
+                    "wins": 4,
+                    "scoresFor": 12,
+                    "scoresAgainst": 13,
+                    "id": 867885,
                     "losses": 2,
+                    "draws": 4,
+                    "points": 16
+                },
+                {
+                    "team": {
+                        "name": "Valencia",
+                        "slug": "valencia",
+                        "shortName": "Valencia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 120683,
+                        "nameCode": "VCF",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2828,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 8,
+                    "matches": 10,
+                    "wins": 4,
+                    "scoresFor": 12,
+                    "scoresAgainst": 11,
+                    "id": 867894,
+                    "losses": 4,
                     "draws": 2,
                     "points": 14
                 },
@@ -288,7 +356,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 136620,
+                        "userCount": 135596,
                         "nameCode": "RBB",
                         "disabled": false,
                         "national": false,
@@ -301,49 +369,15 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 7,
-                    "matches": 8,
+                    "position": 9,
+                    "matches": 10,
                     "wins": 3,
-                    "scoresFor": 10,
-                    "scoresAgainst": 12,
+                    "scoresFor": 12,
+                    "scoresAgainst": 14,
                     "id": 867888,
                     "losses": 2,
-                    "draws": 3,
-                    "points": 12
-                },
-                {
-                    "team": {
-                        "name": "Rayo Vallecano",
-                        "slug": "rayo-vallecano",
-                        "shortName": "Rayo Vallecano",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 57563,
-                        "nameCode": "RVC",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2818,
-                        "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#ffffff",
-                            "text": "#ffffff"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 8,
-                    "matches": 8,
-                    "wins": 3,
-                    "scoresFor": 9,
-                    "scoresAgainst": 11,
-                    "id": 867885,
-                    "losses": 2,
-                    "draws": 3,
-                    "points": 12
+                    "draws": 5,
+                    "points": 14
                 },
                 {
                     "team": {
@@ -356,7 +390,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 69324,
+                        "userCount": 73593,
                         "nameCode": "OSA",
                         "disabled": false,
                         "national": false,
@@ -369,49 +403,15 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 9,
-                    "matches": 8,
-                    "wins": 3,
-                    "scoresFor": 9,
-                    "scoresAgainst": 10,
-                    "id": 867878,
-                    "losses": 4,
-                    "draws": 1,
-                    "points": 10
-                },
-                {
-                    "team": {
-                        "name": "Valencia",
-                        "slug": "valencia",
-                        "shortName": "Valencia",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 120597,
-                        "nameCode": "VCF",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2828,
-                        "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#000000",
-                            "text": "#000000"
-                        }
-                    },
-                    "descriptions": [],
                     "position": 10,
-                    "matches": 8,
-                    "wins": 3,
-                    "scoresFor": 9,
-                    "scoresAgainst": 10,
-                    "id": 867894,
-                    "losses": 4,
+                    "matches": 10,
+                    "wins": 4,
+                    "scoresFor": 11,
+                    "scoresAgainst": 14,
+                    "id": 867878,
+                    "losses": 5,
                     "draws": 1,
-                    "points": 10
+                    "points": 13
                 },
                 {
                     "team": {
@@ -424,7 +424,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 68539,
+                        "userCount": 68285,
                         "nameCode": "GET",
                         "disabled": false,
                         "national": false,
@@ -438,46 +438,80 @@
                     },
                     "descriptions": [],
                     "position": 11,
-                    "matches": 8,
+                    "matches": 10,
                     "wins": 2,
-                    "scoresFor": 10,
-                    "scoresAgainst": 13,
+                    "scoresFor": 13,
+                    "scoresAgainst": 16,
                     "id": 867882,
                     "losses": 3,
-                    "draws": 3,
-                    "points": 9
+                    "draws": 5,
+                    "points": 11
                 },
                 {
                     "team": {
-                        "name": "Cádiz",
-                        "slug": "cadiz",
-                        "shortName": "Cádiz",
+                        "name": "Las Palmas",
+                        "slug": "las-palmas",
+                        "shortName": "Las Palmas",
                         "gender": "M",
                         "sport": {
                             "name": "Football",
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 53120,
-                        "nameCode": "CAD",
+                        "userCount": 38878,
+                        "nameCode": "LPA",
                         "disabled": false,
                         "national": false,
                         "type": 0,
-                        "id": 4488,
+                        "id": 6577,
                         "teamColors": {
-                            "primary": "#ffff00",
-                            "secondary": "#001d43",
-                            "text": "#001d43"
+                            "primary": "#e8f541",
+                            "secondary": "#f3f845",
+                            "text": "#f3f845"
                         }
                     },
                     "descriptions": [],
                     "position": 12,
-                    "matches": 8,
+                    "matches": 10,
+                    "wins": 3,
+                    "scoresFor": 6,
+                    "scoresAgainst": 9,
+                    "id": 867893,
+                    "losses": 5,
+                    "draws": 2,
+                    "points": 11
+                },
+                {
+                    "team": {
+                        "name": "Sevilla",
+                        "slug": "sevilla",
+                        "shortName": "Sevilla",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 290735,
+                        "nameCode": "SEV",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2833,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#cc1020",
+                            "text": "#cc1020"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 13,
+                    "matches": 9,
                     "wins": 2,
-                    "scoresFor": 8,
-                    "scoresAgainst": 11,
-                    "id": 867879,
-                    "losses": 3,
+                    "scoresFor": 14,
+                    "scoresAgainst": 13,
+                    "id": 867891,
+                    "losses": 4,
                     "draws": 3,
                     "points": 9
                 },
@@ -492,7 +526,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 180862,
+                        "userCount": 179819,
                         "nameCode": "VIL",
                         "disabled": false,
                         "national": false,
@@ -505,117 +539,49 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 13,
-                    "matches": 8,
-                    "wins": 2,
-                    "scoresFor": 10,
-                    "scoresAgainst": 13,
-                    "id": 867895,
-                    "losses": 4,
-                    "draws": 2,
-                    "points": 8
-                },
-                {
-                    "team": {
-                        "name": "Las Palmas",
-                        "slug": "las-palmas",
-                        "shortName": "Las Palmas",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 37612,
-                        "nameCode": "LPA",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 6577,
-                        "teamColors": {
-                            "primary": "#e8f541",
-                            "secondary": "#f3f845",
-                            "text": "#f3f845"
-                        }
-                    },
-                    "descriptions": [],
                     "position": 14,
-                    "matches": 8,
+                    "matches": 10,
                     "wins": 2,
-                    "scoresFor": 4,
-                    "scoresAgainst": 7,
-                    "id": 867893,
-                    "losses": 4,
-                    "draws": 2,
-                    "points": 8
+                    "scoresFor": 12,
+                    "scoresAgainst": 16,
+                    "id": 867895,
+                    "losses": 5,
+                    "draws": 3,
+                    "points": 9
                 },
                 {
                     "team": {
-                        "name": "Sevilla",
-                        "slug": "sevilla",
-                        "shortName": "Sevilla",
+                        "name": "Cádiz",
+                        "slug": "cadiz",
+                        "shortName": "Cádiz",
                         "gender": "M",
                         "sport": {
                             "name": "Football",
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 288502,
-                        "nameCode": "SEV",
+                        "userCount": 54164,
+                        "nameCode": "CAD",
                         "disabled": false,
                         "national": false,
                         "type": 0,
-                        "id": 2833,
+                        "id": 4488,
                         "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#cc1020",
-                            "text": "#cc1020"
+                            "primary": "#ffff00",
+                            "secondary": "#001d43",
+                            "text": "#001d43"
                         }
                     },
                     "descriptions": [],
                     "position": 15,
-                    "matches": 7,
+                    "matches": 10,
                     "wins": 2,
-                    "scoresFor": 11,
-                    "scoresAgainst": 10,
-                    "id": 867891,
-                    "losses": 4,
-                    "draws": 1,
-                    "points": 7
-                },
-                {
-                    "team": {
-                        "name": "Mallorca",
-                        "slug": "mallorca",
-                        "shortName": "Mallorca",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 55174,
-                        "nameCode": "MLL",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2826,
-                        "teamColors": {
-                            "primary": "#cc0000",
-                            "secondary": "#000000",
-                            "text": "#000000"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 16,
-                    "matches": 8,
-                    "wins": 1,
-                    "scoresFor": 11,
+                    "scoresFor": 8,
                     "scoresAgainst": 14,
-                    "id": 867887,
-                    "losses": 3,
-                    "draws": 4,
-                    "points": 7
+                    "id": 867879,
+                    "losses": 5,
+                    "draws": 3,
+                    "points": 9
                 },
                 {
                     "team": {
@@ -628,7 +594,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 36038,
+                        "userCount": 37935,
                         "nameCode": "ALA",
                         "disabled": false,
                         "national": false,
@@ -641,15 +607,49 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 17,
-                    "matches": 8,
+                    "position": 16,
+                    "matches": 10,
                     "wins": 2,
-                    "scoresFor": 6,
-                    "scoresAgainst": 12,
+                    "scoresFor": 8,
+                    "scoresAgainst": 14,
                     "id": 867880,
                     "losses": 5,
-                    "draws": 1,
-                    "points": 7
+                    "draws": 3,
+                    "points": 9
+                },
+                {
+                    "team": {
+                        "name": "Mallorca",
+                        "slug": "mallorca",
+                        "shortName": "Mallorca",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 56140,
+                        "nameCode": "MLL",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2826,
+                        "teamColors": {
+                            "primary": "#cc0000",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 17,
+                    "matches": 10,
+                    "wins": 1,
+                    "scoresFor": 12,
+                    "scoresAgainst": 16,
+                    "id": 867887,
+                    "losses": 4,
+                    "draws": 5,
+                    "points": 8
                 },
                 {
                     "team": {
@@ -662,7 +662,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 74400,
+                        "userCount": 74771,
                         "nameCode": "RCC",
                         "disabled": false,
                         "national": false,
@@ -680,14 +680,14 @@
                         "id": 3
                     },
                     "position": 18,
-                    "matches": 8,
+                    "matches": 10,
                     "wins": 1,
-                    "scoresFor": 8,
-                    "scoresAgainst": 13,
+                    "scoresFor": 10,
+                    "scoresAgainst": 18,
                     "id": 867886,
-                    "losses": 5,
-                    "draws": 2,
-                    "points": 5
+                    "losses": 6,
+                    "draws": 3,
+                    "points": 6
                 },
                 {
                     "team": {
@@ -700,7 +700,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 38459,
+                        "userCount": 45462,
                         "nameCode": "GCF",
                         "disabled": false,
                         "national": false,
@@ -718,14 +718,14 @@
                         "id": 3
                     },
                     "position": 19,
-                    "matches": 8,
+                    "matches": 10,
                     "wins": 1,
-                    "scoresFor": 13,
-                    "scoresAgainst": 21,
+                    "scoresFor": 15,
+                    "scoresAgainst": 25,
                     "id": 867884,
-                    "losses": 5,
-                    "draws": 2,
-                    "points": 5
+                    "losses": 6,
+                    "draws": 3,
+                    "points": 6
                 },
                 {
                     "team": {
@@ -738,7 +738,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 48192,
+                        "userCount": 50443,
                         "nameCode": "ALM",
                         "disabled": false,
                         "national": false,
@@ -756,12 +756,12 @@
                         "id": 3
                     },
                     "position": 20,
-                    "matches": 8,
+                    "matches": 10,
                     "wins": 0,
-                    "scoresFor": 11,
-                    "scoresAgainst": 21,
+                    "scoresFor": 13,
+                    "scoresAgainst": 29,
                     "id": 867892,
-                    "losses": 5,
+                    "losses": 7,
                     "draws": 3,
                     "points": 3
                 }
