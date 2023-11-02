@@ -1,7 +1,7 @@
-from main import check_player
-from main import check_postpone_match
-from main import check_postpone_dict
-from main import get_week
+from utilities import check_player
+from utilities import check_postpone_match
+from utilities import check_postpone_dict
+from utilities import get_week
 
 # GET WEEK
 week = get_week()

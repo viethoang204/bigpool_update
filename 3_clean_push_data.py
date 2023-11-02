@@ -1,11 +1,11 @@
-from main import get_dict_id
-from main import extract_name_country
-from main import get_dict_image
-from main import process_past_json
-from main import process_standing_json
-from main import process_upcoming_json
-from main import update_current_round
-from main import get_week
+from utilities import get_dict_id
+from utilities import extract_name_country
+from utilities import get_dict_image
+from utilities import process_past_json
+from utilities import process_standing_json
+from utilities import process_upcoming_json
+from utilities import update_current_round
+from utilities import get_week
 
 # DICTIONARYS INFOMATION
 dict_spt = get_dict_id('sports')

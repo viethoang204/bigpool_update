@@ -1,4 +1,4 @@
-from main import fetch_content_from_txt_file
+from utilities import fetch_content_from_txt_file
 
 # CRAWL DATA
 fetch_content_from_txt_file("standing.txt")

@@ -47,12 +47,16 @@ def get_week():
             'upcoming_week': None,
             'postpone_match': {}
         }
-        with open(f'{folder}/standing.json', 'r', encoding='utf-8') as json_file:
-            data = json.load(json_file)
-            data = data['standings'][0]
-            round_num = []
-            for item in data['rows']:
-                round_num.append(item['matches'])
+        file_path = f'{folder}/standing.json'
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as json_file:
+                data = json.load(json_file)
+                data = data['standings'][0]
+                round_num = []
+                for item in data['rows']:
+                    round_num.append(item['matches'])
+        else:
+            pass
 
             counter = Counter(round_num)
             round = counter.most_common(1)[0][0]
@@ -449,12 +453,14 @@ def process_past_json(dict_spt, dict_utrm, dict_trm, dict_category, week, dict_t
                         if has_match_postponed:
                             update_data_rounds['$set'].update({
                                 'status.code': 60,
-                                'status.description': 'Tạm hoãn'
+                                'status.description': 'Tạm hoãn',
+                                'color': '#17A2B8'
                             })
                         else:
                             update_data_rounds['$set'].update({
                                 'status.code': 100,
-                                'status.description': 'Kết thúc'
+                                'status.description': 'Kết thúc',
+                                'color': '#6610F2'
                             })
 
                         # Update the document in the MongoDB collections1
@@ -768,7 +774,7 @@ def update_status_round(week_match_postpone):
                 num_winnercode += 1
 
         if num_match == num_winnercode:
-            collection_rounds.update_one({'_id': document['_id']}, {'$set': {'status.code': 100, 'status.description': "Kết thúc"}})
+            collection_rounds.update_one({'_id': document['_id']}, {'$set': {'status.code': 100, 'status.description': "Kết thúc", 'status.color': '#6610F2'}})
 
     for document in collection_eventplayers.find({'round.round': week_match_postpone}):
         num_match = 0
@@ -779,7 +785,7 @@ def update_status_round(week_match_postpone):
                 num_winnercode += 1
 
         if num_match == num_winnercode:
-            collection_eventplayers.update_one({'_id': document['_id']}, {'$set': {'round.status.code': 100, 'round.status.description': "Kết thúc"}})
+            collection_eventplayers.update_one({'_id': document['_id']}, {'$set': {'round.status.code': 100, 'round.status.description': "Kết thúc", 'round.status.color': '#6610F2'}})
 
 def update_current_round(week):
     print("=====================================UPDATE_ROUND=============================================")
@@ -811,7 +817,7 @@ dict_image_team = get_dict_image("teams")
 dict_image_tournaments = get_dict_image("tournaments")
 dict_image_uniquetournaments = get_dict_image("uniquetournaments")
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
     # DELETE ALL FILE JSON
     # delete_json_files()
@@ -822,9 +828,9 @@ if __name__ == "__main__":
     # fetch_content_from_txt_file("upcoming.txt", lst_folder)
 
     # GET WEEK
-    week = get_week()
-    week = {'premier-league-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}, 'laliga-23/24': {'past_week': 21, 'upcoming_week': 11, 'postpone_match': {}}, 'serie-a-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}, 'bundesliga-23/24': {'past_week': 19, 'upcoming_week': 9, 'postpone_match': {}}, 'ligue-1-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}}
-    print(week)
+    # week = get_week()
+    # week = {'premier-league-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}, 'laliga-23/24': {'past_week': 21, 'upcoming_week': 11, 'postpone_match': {}}, 'serie-a-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}, 'bundesliga-23/24': {'past_week': 19, 'upcoming_week': 9, 'postpone_match': {}}, 'ligue-1-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}}
+    # print(week)
 
     # UPDATE CURRENT ROUND
     # update_current_round(week)
@@ -835,7 +841,7 @@ if __name__ == "__main__":
     # process_upcoming_json(lst_folder, dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team)
 
     # CHECK PLAYER
-    check_player(week, week_match_postpone = None, match_postpone = None, is_postpone=False)
+    # check_player(week, week_match_postpone = None, match_postpone = None, is_postpone=False)
 
     # CHECK POSTPONE
     # week = check_postpone_dict(week)

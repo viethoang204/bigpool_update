@@ -1,5 +1,5 @@
-from main import check_player
-from main import get_week
+from utilities import check_player
+from utilities import get_week
 
 # GET WEEK
 week = get_week()
