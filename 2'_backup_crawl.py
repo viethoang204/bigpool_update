@@ -76,7 +76,7 @@ def fetch_content_from_txt_file(txt_filename, lst_folder):
 
                         except json.JSONDecodeError:
                             print(f"Nội dung từ URL {url} trong thẻ <pre> không phải là JSON hợp lệ.")
-                    time.sleep(random.randint(90, 150))
+                    # time.sleep(random.randint(1, 3))
 
                 except Exception as e:
                     print(f"Đã xảy ra lỗi với URL {url}: {e}")

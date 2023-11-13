@@ -47,16 +47,12 @@ def get_week():
             'upcoming_week': None,
             'postpone_match': {}
         }
-        file_path = f'{folder}/standing.json'
-        if os.path.exists(file_path):
-            with open(file_path, 'r', encoding='utf-8') as json_file:
-                data = json.load(json_file)
-                data = data['standings'][0]
-                round_num = []
-                for item in data['rows']:
-                    round_num.append(item['matches'])
-        else:
-            pass
+        with open(f'{folder}/standing.json', 'r', encoding='utf-8') as json_file:
+            data = json.load(json_file)
+            data = data['standings'][0]
+            round_num = []
+            for item in data['rows']:
+                round_num.append(item['matches'])
 
             counter = Counter(round_num)
             round = counter.most_common(1)[0][0]
@@ -65,6 +61,7 @@ def get_week():
             folder_data['upcoming_week'] = round + 1
             dict_week[dict_name] = folder_data
     return dict_week
+
 
 def delete_json_files():
     for folder in lst_folder:
@@ -348,7 +345,7 @@ def process_standing_json(dict_spt, dict_utrm, dict_trm, dict_category, dict_tea
 
 def process_past_json(dict_spt, dict_utrm, dict_trm, dict_category, week, dict_team):
     print("=========================================PAST=================================================")
-    collection_events = db['eventsTest']
+    collection_events = db['events']
     collection_rounds = db['rounds']
     for folder in lst_folder:
         file_path = os.path.join('.', folder, "past.json")
@@ -427,7 +424,8 @@ def process_past_json(dict_spt, dict_utrm, dict_trm, dict_category, week, dict_t
 
                         update_data = {
                             '$set': {
-                                'status': item['status'],
+                                'status.code': item['status.code'],
+                                'status.type': item['status.type'],
                                 'awayScore': item['awayScore'],
                                 'homeScore': item['homeScore'],
                                 'winnerCode': item.get('winnerCode', None),
@@ -550,11 +548,12 @@ def process_upcoming_json(dict_spt, dict_utrm, dict_trm, dict_category, week, di
 def check_postpone_dict(week):
     print("=====================================POSTPONE_WEEK===========================================")
     collection_round = db['rounds']
+    year_trm = config["year_trm"]
 
     for document in collection_round.find({'status.code': 60}):
         for event in document['events']:
             if event['status']['code'] == 60: # 60 này của dữ liệu crawl #
-                week[event['tournament']['uniqueTournament']['slug']]['postpone_match'][event['slug']] = event['round']
+                week[event['tournament']['uniqueTournament']['slug']+'-'+year_trm]['postpone_match'][event['slug']] = event['round']
     return week
 
 def check_player(week, week_match_postpone=None, match_postpone=None, is_postpone=False):
@@ -817,7 +816,7 @@ dict_image_team = get_dict_image("teams")
 dict_image_tournaments = get_dict_image("tournaments")
 dict_image_uniquetournaments = get_dict_image("uniquetournaments")
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 
     # DELETE ALL FILE JSON
     # delete_json_files()
@@ -828,9 +827,9 @@ dict_image_uniquetournaments = get_dict_image("uniquetournaments")
     # fetch_content_from_txt_file("upcoming.txt", lst_folder)
 
     # GET WEEK
-    # week = get_week()
+    week = get_week()
     # week = {'premier-league-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}, 'laliga-23/24': {'past_week': 21, 'upcoming_week': 11, 'postpone_match': {}}, 'serie-a-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}, 'bundesliga-23/24': {'past_week': 19, 'upcoming_week': 9, 'postpone_match': {}}, 'ligue-1-23/24': {'past_week': 20, 'upcoming_week': 10, 'postpone_match': {}}}
-    # print(week)
+    print(week)
 
     # UPDATE CURRENT ROUND
     # update_current_round(week)

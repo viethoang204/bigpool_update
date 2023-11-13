@@ -33,16 +33,16 @@
                         "flag": "italy",
                         "alpha2": "IT"
                     },
-                    "userCount": 714862,
+                    "userCount": 724663,
                     "hasPerformanceGraphFeature": true,
                     "id": 23,
                     "displayInverseHomeAwayTeams": false
                 },
-                "priority": 579,
+                "priority": 587,
                 "id": 33
             },
             "type": "total",
-            "name": "Serie A 23/24",
+            "name": "Serie A",
             "descriptions": [],
             "tieBreakingRule": {
                 "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie:  1. Head-to-head if all tied teams have internal matches 2. Goal difference 3. Goals scored",
@@ -60,7 +60,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 648001,
+                        "userCount": 661124,
                         "nameCode": "INT",
                         "disabled": false,
                         "national": false,
@@ -78,52 +78,14 @@
                         "id": 804
                     },
                     "position": 1,
-                    "matches": 9,
-                    "wins": 7,
-                    "scoresFor": 24,
-                    "scoresAgainst": 5,
+                    "matches": 11,
+                    "wins": 9,
+                    "scoresFor": 27,
+                    "scoresAgainst": 6,
                     "id": 875467,
                     "losses": 1,
                     "draws": 1,
-                    "points": 22
-                },
-                {
-                    "team": {
-                        "name": "Milan",
-                        "slug": "milan",
-                        "shortName": "Milan",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 697346,
-                        "nameCode": "ACM",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2692,
-                        "teamColors": {
-                            "primary": "#000000",
-                            "secondary": "#cc0000",
-                            "text": "#cc0000"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "Champions League",
-                        "id": 804
-                    },
-                    "position": 2,
-                    "matches": 9,
-                    "wins": 7,
-                    "scoresFor": 16,
-                    "scoresAgainst": 9,
-                    "id": 875456,
-                    "losses": 2,
-                    "draws": 0,
-                    "points": 21
+                    "points": 28
                 },
                 {
                     "team": {
@@ -136,7 +98,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 702276,
+                        "userCount": 709118,
                         "nameCode": "JUV",
                         "disabled": false,
                         "national": false,
@@ -153,15 +115,53 @@
                         "text": "Champions League",
                         "id": 804
                     },
-                    "position": 3,
-                    "matches": 9,
-                    "wins": 6,
-                    "scoresFor": 15,
+                    "position": 2,
+                    "matches": 11,
+                    "wins": 8,
+                    "scoresFor": 17,
                     "scoresAgainst": 6,
                     "id": 875468,
                     "losses": 1,
                     "draws": 2,
-                    "points": 20
+                    "points": 26
+                },
+                {
+                    "team": {
+                        "name": "Milan",
+                        "slug": "milan",
+                        "shortName": "Milan",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 710833,
+                        "nameCode": "ACM",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2692,
+                        "teamColors": {
+                            "primary": "#000000",
+                            "secondary": "#cc0000",
+                            "text": "#cc0000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Champions League",
+                        "id": 804
+                    },
+                    "position": 3,
+                    "matches": 11,
+                    "wins": 7,
+                    "scoresFor": 18,
+                    "scoresAgainst": 12,
+                    "id": 875456,
+                    "losses": 3,
+                    "draws": 1,
+                    "points": 22
                 },
                 {
                     "team": {
@@ -174,7 +174,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 528702,
+                        "userCount": 541734,
                         "nameCode": "NAP",
                         "disabled": false,
                         "national": false,
@@ -192,12 +192,122 @@
                         "id": 804
                     },
                     "position": 4,
-                    "matches": 9,
-                    "wins": 5,
-                    "scoresFor": 20,
-                    "scoresAgainst": 10,
+                    "matches": 11,
+                    "wins": 6,
+                    "scoresFor": 24,
+                    "scoresAgainst": 12,
                     "id": 875471,
                     "losses": 2,
+                    "draws": 3,
+                    "points": 21
+                },
+                {
+                    "team": {
+                        "name": "Atalanta",
+                        "slug": "atalanta",
+                        "shortName": "Atalanta",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 207239,
+                        "nameCode": "ATA",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2686,
+                        "teamColors": {
+                            "primary": "#0000cc",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "UEFA Europa League",
+                        "id": 808
+                    },
+                    "position": 5,
+                    "matches": 11,
+                    "wins": 6,
+                    "scoresFor": 19,
+                    "scoresAgainst": 10,
+                    "id": 875460,
+                    "losses": 4,
+                    "draws": 1,
+                    "points": 19
+                },
+                {
+                    "team": {
+                        "name": "Bologna",
+                        "slug": "bologna",
+                        "shortName": "Bologna",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 62854,
+                        "nameCode": "BFC",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2685,
+                        "teamColors": {
+                            "primary": "#003366",
+                            "secondary": "#cc0000",
+                            "text": "#cc0000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "UEFA Conference League Qualification",
+                        "id": 1349
+                    },
+                    "position": 6,
+                    "matches": 11,
+                    "wins": 4,
+                    "scoresFor": 12,
+                    "scoresAgainst": 8,
+                    "id": 875461,
+                    "losses": 1,
+                    "draws": 6,
+                    "points": 18
+                },
+                {
+                    "team": {
+                        "name": "Roma",
+                        "slug": "roma",
+                        "shortName": "Roma",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 420445,
+                        "nameCode": "ASR",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2702,
+                        "teamColors": {
+                            "primary": "#990000",
+                            "secondary": "#eaca15",
+                            "text": "#eaca15"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 7,
+                    "matches": 11,
+                    "wins": 5,
+                    "scoresFor": 22,
+                    "scoresAgainst": 14,
+                    "id": 875459,
+                    "losses": 4,
                     "draws": 2,
                     "points": 17
                 },
@@ -212,7 +322,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 132401,
+                        "userCount": 137439,
                         "nameCode": "ACF",
                         "disabled": false,
                         "national": false,
@@ -225,193 +335,15 @@
                         }
                     },
                     "descriptions": [],
-                    "promotion": {
-                        "text": "UEFA Europa League",
-                        "id": 808
-                    },
-                    "position": 5,
-                    "matches": 9,
+                    "position": 8,
+                    "matches": 11,
                     "wins": 5,
                     "scoresFor": 18,
-                    "scoresAgainst": 13,
+                    "scoresAgainst": 15,
                     "id": 875458,
-                    "losses": 2,
+                    "losses": 4,
                     "draws": 2,
                     "points": 17
-                },
-                {
-                    "team": {
-                        "name": "Atalanta",
-                        "slug": "atalanta",
-                        "shortName": "Atalanta",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 202422,
-                        "nameCode": "ATA",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2686,
-                        "teamColors": {
-                            "primary": "#0000cc",
-                            "secondary": "#000000",
-                            "text": "#000000"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "UEFA Conference League Qualification",
-                        "id": 1349
-                    },
-                    "position": 6,
-                    "matches": 9,
-                    "wins": 5,
-                    "scoresFor": 15,
-                    "scoresAgainst": 8,
-                    "id": 875460,
-                    "losses": 3,
-                    "draws": 1,
-                    "points": 16
-                },
-                {
-                    "team": {
-                        "name": "Roma",
-                        "slug": "roma",
-                        "shortName": "Roma",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 411842,
-                        "nameCode": "ROM",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2702,
-                        "teamColors": {
-                            "primary": "#990000",
-                            "secondary": "#eaca15",
-                            "text": "#eaca15"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 7,
-                    "matches": 9,
-                    "wins": 4,
-                    "scoresFor": 20,
-                    "scoresAgainst": 12,
-                    "id": 875459,
-                    "losses": 3,
-                    "draws": 2,
-                    "points": 14
-                },
-                {
-                    "team": {
-                        "name": "Bologna",
-                        "slug": "bologna",
-                        "shortName": "Bologna",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 59830,
-                        "nameCode": "BFC",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2685,
-                        "teamColors": {
-                            "primary": "#003366",
-                            "secondary": "#cc0000",
-                            "text": "#cc0000"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 8,
-                    "matches": 9,
-                    "wins": 3,
-                    "scoresFor": 10,
-                    "scoresAgainst": 7,
-                    "id": 875461,
-                    "losses": 1,
-                    "draws": 5,
-                    "points": 14
-                },
-                {
-                    "team": {
-                        "name": "Lazio",
-                        "slug": "lazio",
-                        "shortName": "Lazio",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 213218,
-                        "nameCode": "LAZ",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2699,
-                        "teamColors": {
-                            "primary": "#64b6e1",
-                            "secondary": "#ffffff",
-                            "text": "#ffffff"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 9,
-                    "matches": 9,
-                    "wins": 4,
-                    "scoresFor": 12,
-                    "scoresAgainst": 12,
-                    "id": 875469,
-                    "losses": 4,
-                    "draws": 1,
-                    "points": 13
-                },
-                {
-                    "team": {
-                        "name": "Lecce",
-                        "slug": "lecce",
-                        "shortName": "Lecce",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 53292,
-                        "nameCode": "LEC",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2689,
-                        "teamColors": {
-                            "primary": "#f6ea00",
-                            "secondary": "#db2d1f",
-                            "text": "#db2d1f"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 10,
-                    "matches": 9,
-                    "wins": 3,
-                    "scoresFor": 10,
-                    "scoresAgainst": 11,
-                    "id": 875474,
-                    "losses": 2,
-                    "draws": 4,
-                    "points": 13
                 },
                 {
                     "team": {
@@ -424,7 +356,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 47871,
+                        "userCount": 48508,
                         "nameCode": "MON",
                         "disabled": false,
                         "national": false,
@@ -437,15 +369,49 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 11,
-                    "matches": 9,
-                    "wins": 3,
-                    "scoresFor": 8,
-                    "scoresAgainst": 8,
+                    "position": 9,
+                    "matches": 11,
+                    "wins": 4,
+                    "scoresFor": 12,
+                    "scoresAgainst": 10,
                     "id": 875457,
                     "losses": 3,
-                    "draws": 3,
-                    "points": 12
+                    "draws": 4,
+                    "points": 16
+                },
+                {
+                    "team": {
+                        "name": "Lazio",
+                        "slug": "lazio",
+                        "shortName": "Lazio",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 226256,
+                        "nameCode": "LAZ",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2699,
+                        "teamColors": {
+                            "primary": "#64b6e1",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 10,
+                    "matches": 11,
+                    "wins": 5,
+                    "scoresFor": 13,
+                    "scoresAgainst": 13,
+                    "id": 875469,
+                    "losses": 5,
+                    "draws": 1,
+                    "points": 16
                 },
                 {
                     "team": {
@@ -458,7 +424,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 27466,
+                        "userCount": 31420,
                         "nameCode": "FRO",
                         "disabled": false,
                         "national": false,
@@ -471,49 +437,15 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 12,
-                    "matches": 9,
-                    "wins": 3,
-                    "scoresFor": 12,
-                    "scoresAgainst": 13,
+                    "position": 11,
+                    "matches": 11,
+                    "wins": 4,
+                    "scoresFor": 17,
+                    "scoresAgainst": 18,
                     "id": 875464,
-                    "losses": 3,
+                    "losses": 4,
                     "draws": 3,
-                    "points": 12
-                },
-                {
-                    "team": {
-                        "name": "Sassuolo",
-                        "slug": "sassuolo",
-                        "shortName": "Sassuolo",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 65230,
-                        "nameCode": "SAS",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2793,
-                        "teamColors": {
-                            "primary": "#006600",
-                            "secondary": "#000000",
-                            "text": "#000000"
-                        }
-                    },
-                    "descriptions": [],
-                    "position": 13,
-                    "matches": 9,
-                    "wins": 3,
-                    "scoresFor": 12,
-                    "scoresAgainst": 16,
-                    "id": 875470,
-                    "losses": 5,
-                    "draws": 1,
-                    "points": 10
+                    "points": 15
                 },
                 {
                     "team": {
@@ -526,7 +458,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 68651,
+                        "userCount": 71170,
                         "nameCode": "TOR",
                         "disabled": false,
                         "national": false,
@@ -539,15 +471,49 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 14,
-                    "matches": 9,
-                    "wins": 2,
-                    "scoresFor": 6,
-                    "scoresAgainst": 12,
+                    "position": 12,
+                    "matches": 11,
+                    "wins": 4,
+                    "scoresFor": 9,
+                    "scoresAgainst": 13,
                     "id": 875472,
                     "losses": 4,
                     "draws": 3,
-                    "points": 9
+                    "points": 15
+                },
+                {
+                    "team": {
+                        "name": "Lecce",
+                        "slug": "lecce",
+                        "shortName": "Lecce",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 55459,
+                        "nameCode": "LEC",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2689,
+                        "teamColors": {
+                            "primary": "#f6ea00",
+                            "secondary": "#db2d1f",
+                            "text": "#db2d1f"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 13,
+                    "matches": 11,
+                    "wins": 3,
+                    "scoresFor": 11,
+                    "scoresAgainst": 14,
+                    "id": 875474,
+                    "losses": 4,
+                    "draws": 4,
+                    "points": 13
                 },
                 {
                     "team": {
@@ -560,7 +526,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 43947,
+                        "userCount": 47264,
                         "nameCode": "GEN",
                         "disabled": false,
                         "national": false,
@@ -573,15 +539,117 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 15,
-                    "matches": 9,
-                    "wins": 2,
-                    "scoresFor": 10,
-                    "scoresAgainst": 14,
+                    "position": 14,
+                    "matches": 11,
+                    "wins": 3,
+                    "scoresFor": 12,
+                    "scoresAgainst": 16,
                     "id": 875465,
-                    "losses": 5,
+                    "losses": 6,
                     "draws": 2,
-                    "points": 8
+                    "points": 11
+                },
+                {
+                    "team": {
+                        "name": "Sassuolo",
+                        "slug": "sassuolo",
+                        "shortName": "Sassuolo",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 67934,
+                        "nameCode": "SAS",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2793,
+                        "teamColors": {
+                            "primary": "#006600",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 15,
+                    "matches": 11,
+                    "wins": 3,
+                    "scoresFor": 14,
+                    "scoresAgainst": 19,
+                    "id": 875470,
+                    "losses": 6,
+                    "draws": 2,
+                    "points": 11
+                },
+                {
+                    "team": {
+                        "name": "Udinese",
+                        "slug": "udinese",
+                        "shortName": "Udinese",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 59675,
+                        "nameCode": "UDI",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2695,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 16,
+                    "matches": 11,
+                    "wins": 1,
+                    "scoresFor": 7,
+                    "scoresAgainst": 14,
+                    "id": 875473,
+                    "losses": 3,
+                    "draws": 7,
+                    "points": 10
+                },
+                {
+                    "team": {
+                        "name": "Cagliari",
+                        "slug": "cagliari",
+                        "shortName": "Cagliari",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 39910,
+                        "nameCode": "CAG",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "id": 2719,
+                        "teamColors": {
+                            "primary": "#990000",
+                            "secondary": "#242766",
+                            "text": "#242766"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 17,
+                    "matches": 11,
+                    "wins": 2,
+                    "scoresFor": 11,
+                    "scoresAgainst": 22,
+                    "id": 875462,
+                    "losses": 6,
+                    "draws": 3,
+                    "points": 9
                 },
                 {
                     "team": {
@@ -594,7 +662,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 49602,
+                        "userCount": 53832,
                         "nameCode": "VER",
                         "disabled": false,
                         "national": false,
@@ -607,13 +675,17 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 16,
-                    "matches": 9,
+                    "promotion": {
+                        "text": "Relegation",
+                        "id": 3
+                    },
+                    "position": 18,
+                    "matches": 11,
                     "wins": 2,
-                    "scoresFor": 6,
-                    "scoresAgainst": 11,
+                    "scoresFor": 7,
+                    "scoresAgainst": 15,
                     "id": 875466,
-                    "losses": 5,
+                    "losses": 7,
                     "draws": 2,
                     "points": 8
                 },
@@ -628,7 +700,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 53007,
+                        "userCount": 54944,
                         "nameCode": "EMP",
                         "disabled": false,
                         "national": false,
@@ -641,53 +713,19 @@
                         }
                     },
                     "descriptions": [],
-                    "position": 17,
-                    "matches": 9,
-                    "wins": 2,
-                    "scoresFor": 3,
-                    "scoresAgainst": 16,
-                    "id": 875463,
-                    "losses": 6,
-                    "draws": 1,
-                    "points": 7
-                },
-                {
-                    "team": {
-                        "name": "Udinese",
-                        "slug": "udinese",
-                        "shortName": "Udinese",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 56601,
-                        "nameCode": "UDI",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2695,
-                        "teamColors": {
-                            "primary": "#ffffff",
-                            "secondary": "#000000",
-                            "text": "#000000"
-                        }
-                    },
-                    "descriptions": [],
                     "promotion": {
                         "text": "Relegation",
                         "id": 3
                     },
-                    "position": 18,
-                    "matches": 9,
-                    "wins": 0,
-                    "scoresFor": 5,
-                    "scoresAgainst": 13,
-                    "id": 875473,
-                    "losses": 3,
-                    "draws": 6,
-                    "points": 6
+                    "position": 19,
+                    "matches": 11,
+                    "wins": 2,
+                    "scoresFor": 4,
+                    "scoresAgainst": 21,
+                    "id": 875463,
+                    "losses": 8,
+                    "draws": 1,
+                    "points": 7
                 },
                 {
                     "team": {
@@ -700,7 +738,7 @@
                             "slug": "football",
                             "id": 1
                         },
-                        "userCount": 45616,
+                        "userCount": 48742,
                         "nameCode": "SAL",
                         "disabled": false,
                         "national": false,
@@ -717,57 +755,19 @@
                         "text": "Relegation",
                         "id": 3
                     },
-                    "position": 19,
-                    "matches": 9,
+                    "position": 20,
+                    "matches": 11,
                     "wins": 0,
                     "scoresFor": 6,
-                    "scoresAgainst": 19,
+                    "scoresAgainst": 22,
                     "id": 875475,
-                    "losses": 5,
+                    "losses": 7,
                     "draws": 4,
                     "points": 4
-                },
-                {
-                    "team": {
-                        "name": "Cagliari",
-                        "slug": "cagliari",
-                        "shortName": "Cagliari",
-                        "gender": "M",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "userCount": 38099,
-                        "nameCode": "CAG",
-                        "disabled": false,
-                        "national": false,
-                        "type": 0,
-                        "id": 2719,
-                        "teamColors": {
-                            "primary": "#990000",
-                            "secondary": "#242766",
-                            "text": "#242766"
-                        }
-                    },
-                    "descriptions": [],
-                    "promotion": {
-                        "text": "Relegation",
-                        "id": 3
-                    },
-                    "position": 20,
-                    "matches": 9,
-                    "wins": 0,
-                    "scoresFor": 5,
-                    "scoresAgainst": 18,
-                    "id": 875462,
-                    "losses": 6,
-                    "draws": 3,
-                    "points": 3
                 }
             ],
             "id": 105930,
-            "updatedAtTimestamp": 1688578594
+            "updatedAtTimestamp": 1698693718
         }
     ]
 }

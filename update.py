@@ -6,22 +6,14 @@ client = MongoClient('mongodb://10.254.59.57:27017/')
 # Chọn database
 db = client['pool_football']
 
-# Chọn collection
-collection = db['teams']
+lst_collection = ['teams', 'tournaments', 'uniquetournaments']
 
+for i in lst_collection:
+    # Chọn collection
+    collection = db[f'{i}']
 
-def remove_space(txt):
-    return txt.replace(" ", "")
+    # Loop through each document in the collection
+    for document in collection.find():
+        a = document['image'].replace('http://10.254.59.57/api/bigpool/images/', '/bpimages/')
 
-
-# Loop through each document in the collection
-for document in collection.find():
-    # Extract and modify the shortName
-    modified_short_name = remove_space(document['shortName'])
-
-    # Construct new image URL
-    new_image_url = f'http://10.254.59.57:3000/images/{modified_short_name}.png'
-
-
-    # Update the 'image' field in the database
-    collection.update_one({'_id': document['_id']}, {'$set': {'image': new_image_url}})
+        collection.update_one({'_id': document['_id']}, {'$set': {'image': a}})

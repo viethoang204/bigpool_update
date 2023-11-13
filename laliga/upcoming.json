@@ -33,2427 +33,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "wgbsoKj",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Girona",
-                "slug": "girona",
-                "shortName": "Girona",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 76193,
-                "nameCode": "GIR",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 24264,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "awayTeam": {
-                "name": "Celta Vigo",
-                "slug": "celta-vigo",
-                "shortName": "Celta",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 74771,
-                "nameCode": "RCC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2821,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#6cace4",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369374,
-            "startTimestamp": 1698433200,
-            "slug": "girona-celta-vigo",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "ihbsCGc",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Almería",
-                "slug": "almeria",
-                "shortName": "Almería",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 50443,
-                "nameCode": "ALM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2858,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Las Palmas",
-                "slug": "las-palmas",
-                "shortName": "Las Palmas",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 38878,
-                "nameCode": "LPA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 6577,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#e8f541",
-                    "secondary": "#f3f845",
-                    "text": "#f3f845"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369367,
-            "startTimestamp": 1698494400,
-            "slug": "las-palmas-almeria",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "rgbsEgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Barcelona",
-                "slug": "barcelona",
-                "shortName": "Barcelona",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1517681,
-                "nameCode": "FCB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2817,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#154284",
-                    "secondary": "#9d1009",
-                    "text": "#9d1009"
-                }
-            },
-            "awayTeam": {
-                "name": "Real Madrid",
-                "slug": "real-madrid",
-                "shortName": "Real Madrid",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1632559,
-                "nameCode": "RMA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2829,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#004996",
-                    "text": "#004996"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369369,
-            "startTimestamp": 1698502500,
-            "slug": "real-madrid-barcelona",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "Bgbsjhb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Mallorca",
-                "slug": "mallorca",
-                "shortName": "Mallorca",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 56140,
-                "nameCode": "MLL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2826,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Getafe",
-                "slug": "getafe",
-                "shortName": "Getafe",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 68285,
-                "nameCode": "GET",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2859,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#00369e",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369375,
-            "startTimestamp": 1698510600,
-            "slug": "getafe-mallorca",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "IgbsNOb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Cádiz",
-                "slug": "cadiz",
-                "shortName": "Cádiz",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 54164,
-                "nameCode": "CAD",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 4488,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#001d43",
-                    "text": "#001d43"
-                }
-            },
-            "awayTeam": {
-                "name": "Sevilla",
-                "slug": "sevilla",
-                "shortName": "Sevilla",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 290735,
-                "nameCode": "SEV",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2833,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#cc1020",
-                    "text": "#cc1020"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369371,
-            "startTimestamp": 1698519600,
-            "slug": "cadiz-sevilla",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "qgbsvgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Real Betis",
-                "slug": "real-betis",
-                "shortName": "Betis",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 135596,
-                "nameCode": "RBB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2816,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#006633",
-                    "text": "#006633"
-                }
-            },
-            "awayTeam": {
-                "name": "Osasuna",
-                "slug": "osasuna",
-                "shortName": "Osasuna",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 73593,
-                "nameCode": "OSA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2820,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#14213d",
-                    "text": "#14213d"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369370,
-            "startTimestamp": 1698584400,
-            "slug": "osasuna-real-betis",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "tgbszgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Rayo Vallecano",
-                "slug": "rayo-vallecano",
-                "shortName": "Rayo Vallecano",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 58607,
-                "nameCode": "RVC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2818,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Real Sociedad",
-                "slug": "real-sociedad",
-                "shortName": "Real Sociedad",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 159403,
-                "nameCode": "RSO",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2824,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#0077c7",
-                    "text": "#0077c7"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369372,
-            "startTimestamp": 1698592500,
-            "slug": "real-sociedad-rayo-vallecano",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "AgbsDgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Athletic Club",
-                "slug": "athletic-club",
-                "shortName": "Athletic Club",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 118795,
-                "nameCode": "ATH",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2825,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#aa0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Valencia",
-                "slug": "valencia",
-                "shortName": "Valencia",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 120683,
-                "nameCode": "VCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2828,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369368,
-            "startTimestamp": 1698600600,
-            "slug": "valencia-athletic-club",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "LgbsKhb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Atlético Madrid",
-                "slug": "atletico-madrid",
-                "shortName": "Atl. Madrid",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 533143,
-                "nameCode": "ATM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2836,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#c40000",
-                    "text": "#c40000"
-                }
-            },
-            "awayTeam": {
-                "name": "Deportivo Alavés",
-                "slug": "deportivo-alaves",
-                "shortName": "Alavés",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 37935,
-                "nameCode": "ALA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2885,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0232a0",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369376,
-            "startTimestamp": 1698609600,
-            "slug": "deportivo-alaves-atletico-madrid",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 11
-            },
-            "customId": "ugbsEAn",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Granada",
-                "slug": "granada",
-                "shortName": "Granada",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45462,
-                "nameCode": "GCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 33779,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Villarreal",
-                "slug": "villarreal",
-                "shortName": "Villarreal",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 179819,
-                "nameCode": "VIL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2819,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#013765",
-                    "text": "#013765"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369373,
-            "startTimestamp": 1698696000,
-            "slug": "granada-villarreal",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "LgbsCGc",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Las Palmas",
-                "slug": "las-palmas",
-                "shortName": "Las Palmas",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 38878,
-                "nameCode": "LPA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 6577,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#e8f541",
-                    "secondary": "#f3f845",
-                    "text": "#f3f845"
-                }
-            },
-            "awayTeam": {
-                "name": "Atlético Madrid",
-                "slug": "atletico-madrid",
-                "shortName": "Atl. Madrid",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 533143,
-                "nameCode": "ATM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2836,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#c40000",
-                    "text": "#c40000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369381,
-            "startTimestamp": 1699041600,
-            "slug": "las-palmas-atletico-madrid",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "vgbsoKj",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Osasuna",
-                "slug": "osasuna",
-                "shortName": "Osasuna",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 73593,
-                "nameCode": "OSA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2820,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#14213d",
-                    "text": "#14213d"
-                }
-            },
-            "awayTeam": {
-                "name": "Girona",
-                "slug": "girona",
-                "shortName": "Girona",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 76193,
-                "nameCode": "GIR",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 24264,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ff0000",
-                    "text": "#ff0000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369384,
-            "startTimestamp": 1699102800,
-            "slug": "girona-osasuna",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "qgbsBgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Real Betis",
-                "slug": "real-betis",
-                "shortName": "Betis",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 135596,
-                "nameCode": "RBB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2816,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#006633",
-                    "text": "#006633"
-                }
-            },
-            "awayTeam": {
-                "name": "Mallorca",
-                "slug": "mallorca",
-                "shortName": "Mallorca",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 56140,
-                "nameCode": "MLL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2826,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369377,
-            "startTimestamp": 1699110900,
-            "slug": "mallorca-real-betis",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "wgbsIgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Celta Vigo",
-                "slug": "celta-vigo",
-                "shortName": "Celta",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 74771,
-                "nameCode": "RCC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2821,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#6cace4",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Sevilla",
-                "slug": "sevilla",
-                "shortName": "Sevilla",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 290735,
-                "nameCode": "SEV",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2833,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#cc1020",
-                    "text": "#cc1020"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369378,
-            "startTimestamp": 1699119000,
-            "slug": "sevilla-celta-vigo",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "rgbszgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Real Sociedad",
-                "slug": "real-sociedad",
-                "shortName": "Real Sociedad",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 159403,
-                "nameCode": "RSO",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2824,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#0077c7",
-                    "text": "#0077c7"
-                }
-            },
-            "awayTeam": {
-                "name": "Barcelona",
-                "slug": "barcelona",
-                "shortName": "Barcelona",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1517681,
-                "nameCode": "FCB",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2817,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#154284",
-                    "secondary": "#9d1009",
-                    "text": "#9d1009"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369382,
-            "startTimestamp": 1699128000,
-            "slug": "real-sociedad-barcelona",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "ihbsKhb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Deportivo Alavés",
-                "slug": "deportivo-alaves",
-                "shortName": "Alavés",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 37935,
-                "nameCode": "ALA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2885,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#0232a0",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Almería",
-                "slug": "almeria",
-                "shortName": "Almería",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 50443,
-                "nameCode": "ALM",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2858,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ff0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369379,
-            "startTimestamp": 1699189200,
-            "slug": "deportivo-alaves-almeria",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "DgbsEAn",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Valencia",
-                "slug": "valencia",
-                "shortName": "Valencia",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 120683,
-                "nameCode": "VCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2828,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#000000",
-                    "text": "#000000"
-                }
-            },
-            "awayTeam": {
-                "name": "Granada",
-                "slug": "granada",
-                "shortName": "Granada",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 45462,
-                "nameCode": "GCF",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 33779,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#cc0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369386,
-            "startTimestamp": 1699197300,
-            "slug": "granada-valencia",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "ugbsAgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Villarreal",
-                "slug": "villarreal",
-                "shortName": "Villarreal",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 179819,
-                "nameCode": "VIL",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2819,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#013765",
-                    "text": "#013765"
-                }
-            },
-            "awayTeam": {
-                "name": "Athletic Club",
-                "slug": "athletic-club",
-                "shortName": "Athletic Club",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 118795,
-                "nameCode": "ATH",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2825,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#aa0000",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369380,
-            "startTimestamp": 1699205400,
-            "slug": "athletic-club-villarreal",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "tgbsEgb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Real Madrid",
-                "slug": "real-madrid",
-                "shortName": "Real Madrid",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 1632559,
-                "nameCode": "RMA",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2829,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#004996",
-                    "text": "#004996"
-                }
-            },
-            "awayTeam": {
-                "name": "Rayo Vallecano",
-                "slug": "rayo-vallecano",
-                "shortName": "Rayo Vallecano",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 58607,
-                "nameCode": "RVC",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2818,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffffff",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369385,
-            "startTimestamp": 1699214400,
-            "slug": "real-madrid-rayo-vallecano",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
-                    "crowdsourcingEnabled": false,
-                    "hasPerformanceGraphFeature": true,
-                    "id": 8,
-                    "country": {},
-                    "hasEventPlayerStatistics": true,
-                    "displayInverseHomeAwayTeams": false
-                },
-                "priority": 588,
-                "id": 36
-            },
-            "roundInfo": {
-                "round": 12
-            },
-            "customId": "jhbsNOb",
-            "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
-            },
-            "homeTeam": {
-                "name": "Getafe",
-                "slug": "getafe",
-                "shortName": "Getafe",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 68285,
-                "nameCode": "GET",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 2859,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#00369e",
-                    "secondary": "#ffffff",
-                    "text": "#ffffff"
-                }
-            },
-            "awayTeam": {
-                "name": "Cádiz",
-                "slug": "cadiz",
-                "shortName": "Cádiz",
-                "gender": "M",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "userCount": 54164,
-                "nameCode": "CAD",
-                "disabled": false,
-                "national": false,
-                "type": 0,
-                "id": 4488,
-                "country": {
-                    "alpha2": "ES",
-                    "name": "Spain"
-                },
-                "subTeams": [],
-                "teamColors": {
-                    "primary": "#ffff00",
-                    "secondary": "#001d43",
-                    "text": "#001d43"
-                }
-            },
-            "homeScore": {},
-            "awayScore": {},
-            "time": {},
-            "changes": {
-                "changeTimestamp": 0
-            },
-            "hasGlobalHighlights": false,
-            "detailId": 1,
-            "crowdsourcingDataDisplayEnabled": false,
-            "id": 11369383,
-            "startTimestamp": 1699300800,
-            "slug": "cadiz-getafe",
-            "finalResultOnly": false
-        },
-        {
-            "tournament": {
-                "name": "LaLiga",
-                "slug": "laliga",
-                "category": {
-                    "name": "Spain",
-                    "slug": "spain",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 32,
-                    "flag": "spain",
-                    "alpha2": "ES"
-                },
-                "uniqueTournament": {
-                    "name": "LaLiga",
-                    "slug": "laliga",
-                    "primaryColorHex": "#2f4a89",
-                    "secondaryColorHex": "#f4a32e",
-                    "category": {
-                        "name": "Spain",
-                        "slug": "spain",
-                        "sport": {
-                            "name": "Football",
-                            "slug": "football",
-                            "id": 1
-                        },
-                        "id": 32,
-                        "flag": "spain",
-                        "alpha2": "ES"
-                    },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -2483,7 +63,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 118795,
+                "userCount": 120565,
                 "nameCode": "ATH",
                 "disabled": false,
                 "national": false,
@@ -2510,7 +90,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 74771,
+                "userCount": 77907,
                 "nameCode": "RCC",
                 "disabled": false,
                 "national": false,
@@ -2537,6 +117,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369388,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699646400,
             "slug": "athletic-club-celta-vigo",
             "finalResultOnly": false
@@ -2574,7 +155,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -2604,8 +185,8 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 58607,
-                "nameCode": "RVC",
+                "userCount": 67104,
+                "nameCode": "RVM",
                 "disabled": false,
                 "national": false,
                 "type": 0,
@@ -2631,7 +212,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 76193,
+                "userCount": 92961,
                 "nameCode": "GIR",
                 "disabled": false,
                 "national": false,
@@ -2658,6 +239,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369394,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699707600,
             "slug": "girona-rayo-vallecano",
             "finalResultOnly": false
@@ -2695,7 +277,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -2725,7 +307,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 50443,
+                "userCount": 51792,
                 "nameCode": "ALM",
                 "disabled": false,
                 "national": false,
@@ -2752,7 +334,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 159403,
+                "userCount": 170438,
                 "nameCode": "RSO",
                 "disabled": false,
                 "national": false,
@@ -2779,6 +361,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369387,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699715700,
             "slug": "almeria-real-sociedad",
             "finalResultOnly": false
@@ -2816,7 +399,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -2846,7 +429,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 73593,
+                "userCount": 74479,
                 "nameCode": "OSA",
                 "disabled": false,
                 "national": false,
@@ -2873,7 +456,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 38878,
+                "userCount": 43486,
                 "nameCode": "LPA",
                 "disabled": false,
                 "national": false,
@@ -2900,6 +483,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369395,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699723800,
             "slug": "las-palmas-osasuna",
             "finalResultOnly": false
@@ -2937,7 +521,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -2967,7 +551,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 45462,
+                "userCount": 48416,
                 "nameCode": "GCF",
                 "disabled": false,
                 "national": false,
@@ -2994,7 +578,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 68285,
+                "userCount": 71656,
                 "nameCode": "GET",
                 "disabled": false,
                 "national": false,
@@ -3021,6 +605,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369393,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699723800,
             "slug": "granada-getafe",
             "finalResultOnly": false
@@ -3058,7 +643,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -3088,7 +673,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1632559,
+                "userCount": 1678465,
                 "nameCode": "RMA",
                 "disabled": false,
                 "national": false,
@@ -3115,7 +700,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 120683,
+                "userCount": 122074,
                 "nameCode": "VCF",
                 "disabled": false,
                 "national": false,
@@ -3142,6 +727,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369390,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699732800,
             "slug": "real-madrid-valencia",
             "finalResultOnly": false
@@ -3179,7 +765,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -3195,9 +781,9 @@
             },
             "customId": "BgbsNOb",
             "status": {
-                "code": 0,
-                "description": "Not started",
-                "type": "notstarted"
+                "code": 60,
+                "description": "Postponed",
+                "type": "postponed"
             },
             "homeTeam": {
                 "name": "Mallorca",
@@ -3209,7 +795,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 56140,
+                "userCount": 56627,
                 "nameCode": "MLL",
                 "disabled": false,
                 "national": false,
@@ -3236,7 +822,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 54164,
+                "userCount": 57071,
                 "nameCode": "CAD",
                 "disabled": false,
                 "national": false,
@@ -3257,12 +843,18 @@
             "awayScore": {},
             "time": {},
             "changes": {
-                "changeTimestamp": 0
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type"
+                ],
+                "changeTimestamp": 1699315016
             },
             "hasGlobalHighlights": false,
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369392,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699794000,
             "slug": "cadiz-mallorca",
             "finalResultOnly": false
@@ -3300,7 +892,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -3330,7 +922,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 1517681,
+                "userCount": 1552132,
                 "nameCode": "FCB",
                 "disabled": false,
                 "national": false,
@@ -3357,7 +949,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 37935,
+                "userCount": 41209,
                 "nameCode": "ALA",
                 "disabled": false,
                 "national": false,
@@ -3384,6 +976,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369396,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699802100,
             "slug": "deportivo-alaves-barcelona",
             "finalResultOnly": false
@@ -3421,7 +1014,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -3451,7 +1044,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 290735,
+                "userCount": 295923,
                 "nameCode": "SEV",
                 "disabled": false,
                 "national": false,
@@ -3478,7 +1071,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 135596,
+                "userCount": 137513,
                 "nameCode": "RBB",
                 "disabled": false,
                 "national": false,
@@ -3505,6 +1098,7 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369391,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699810200,
             "slug": "sevilla-real-betis",
             "finalResultOnly": false
@@ -3542,7 +1136,7 @@
                         "flag": "spain",
                         "alpha2": "ES"
                     },
-                    "userCount": 862312,
+                    "userCount": 877504,
                     "crowdsourcingEnabled": false,
                     "hasPerformanceGraphFeature": true,
                     "id": 8,
@@ -3572,7 +1166,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 533143,
+                "userCount": 553043,
                 "nameCode": "ATM",
                 "disabled": false,
                 "national": false,
@@ -3599,7 +1193,7 @@
                     "slug": "football",
                     "id": 1
                 },
-                "userCount": 179819,
+                "userCount": 180132,
                 "nameCode": "VIL",
                 "disabled": false,
                 "national": false,
@@ -3626,8 +1220,2439 @@
             "detailId": 1,
             "crowdsourcingDataDisplayEnabled": false,
             "id": 11369389,
+            "crowdsourcingEnabled": false,
             "startTimestamp": 1699819200,
             "slug": "atletico-madrid-villarreal",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "KhbsEAn",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Deportivo Alavés",
+                "slug": "deportivo-alaves",
+                "shortName": "Alavés",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 41209,
+                "nameCode": "ALA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2885,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0232a0",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Granada",
+                "slug": "granada",
+                "shortName": "Granada",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 48416,
+                "nameCode": "GCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 33779,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369401,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1700856000,
+            "slug": "granada-deportivo-alaves",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "rgbstgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Rayo Vallecano",
+                "slug": "rayo-vallecano",
+                "shortName": "Rayo Vallecano",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 67104,
+                "nameCode": "RVM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2818,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Barcelona",
+                "slug": "barcelona",
+                "shortName": "Barcelona",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1552132,
+                "nameCode": "FCB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2817,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#154284",
+                    "secondary": "#9d1009",
+                    "text": "#9d1009"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369404,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1700917200,
+            "slug": "rayo-vallecano-barcelona",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "wgbsDgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Valencia",
+                "slug": "valencia",
+                "shortName": "Valencia",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 122074,
+                "nameCode": "VCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2828,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Celta Vigo",
+                "slug": "celta-vigo",
+                "shortName": "Celta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 77907,
+                "nameCode": "RCC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2821,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#6cace4",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369405,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1700925300,
+            "slug": "valencia-celta-vigo",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "ihbsjhb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Getafe",
+                "slug": "getafe",
+                "shortName": "Getafe",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 71656,
+                "nameCode": "GET",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2859,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#00369e",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Almería",
+                "slug": "almeria",
+                "shortName": "Almería",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 51792,
+                "nameCode": "ALM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2858,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369402,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1700933400,
+            "slug": "getafe-almeria",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "BgbsLgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Atlético Madrid",
+                "slug": "atletico-madrid",
+                "shortName": "Atl. Madrid",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 553043,
+                "nameCode": "ATM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2836,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#c40000",
+                    "text": "#c40000"
+                }
+            },
+            "awayTeam": {
+                "name": "Mallorca",
+                "slug": "mallorca",
+                "shortName": "Mallorca",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 56627,
+                "nameCode": "MLL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2826,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369397,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1700942400,
+            "slug": "atletico-madrid-mallorca",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "ugbsvgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Villarreal",
+                "slug": "villarreal",
+                "shortName": "Villarreal",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 180132,
+                "nameCode": "VIL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2819,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#013765",
+                    "text": "#013765"
+                }
+            },
+            "awayTeam": {
+                "name": "Osasuna",
+                "slug": "osasuna",
+                "shortName": "Osasuna",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 74479,
+                "nameCode": "OSA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2820,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#14213d",
+                    "text": "#14213d"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369406,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701003600,
+            "slug": "osasuna-villarreal",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "zgbsIgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Real Sociedad",
+                "slug": "real-sociedad",
+                "shortName": "Real Sociedad",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 170438,
+                "nameCode": "RSO",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2824,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#0077c7",
+                    "text": "#0077c7"
+                }
+            },
+            "awayTeam": {
+                "name": "Sevilla",
+                "slug": "sevilla",
+                "shortName": "Sevilla",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 295923,
+                "nameCode": "SEV",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2833,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#cc1020",
+                    "text": "#cc1020"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369400,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701011700,
+            "slug": "sevilla-real-sociedad",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "EgbsNOb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Cádiz",
+                "slug": "cadiz",
+                "shortName": "Cádiz",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 57071,
+                "nameCode": "CAD",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 4488,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#001d43",
+                    "text": "#001d43"
+                }
+            },
+            "awayTeam": {
+                "name": "Real Madrid",
+                "slug": "real-madrid",
+                "shortName": "Real Madrid",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1678465,
+                "nameCode": "RMA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2829,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#004996",
+                    "text": "#004996"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369399,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701019800,
+            "slug": "cadiz-real-madrid",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "qgbsCGc",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Real Betis",
+                "slug": "real-betis",
+                "shortName": "Betis",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 137513,
+                "nameCode": "RBB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2816,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#006633",
+                    "text": "#006633"
+                }
+            },
+            "awayTeam": {
+                "name": "Las Palmas",
+                "slug": "las-palmas",
+                "shortName": "Las Palmas",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 43486,
+                "nameCode": "LPA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 6577,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#e8f541",
+                    "secondary": "#f3f845",
+                    "text": "#f3f845"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369398,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701028800,
+            "slug": "las-palmas-real-betis",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 14
+            },
+            "customId": "AgbsoKj",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Girona",
+                "slug": "girona",
+                "shortName": "Girona",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 92961,
+                "nameCode": "GIR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 24264,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Athletic Club",
+                "slug": "athletic-club",
+                "shortName": "Athletic Club",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 120565,
+                "nameCode": "ATH",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2825,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#aa0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369403,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701115200,
+            "slug": "girona-athletic-club",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "EgbsEAn",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Real Madrid",
+                "slug": "real-madrid",
+                "shortName": "Real Madrid",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1678465,
+                "nameCode": "RMA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2829,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#004996",
+                    "text": "#004996"
+                }
+            },
+            "awayTeam": {
+                "name": "Granada",
+                "slug": "granada",
+                "shortName": "Granada",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 48416,
+                "nameCode": "GCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 33779,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369415,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "granada-real-madrid",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "rgbsLgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Barcelona",
+                "slug": "barcelona",
+                "shortName": "Barcelona",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1552132,
+                "nameCode": "FCB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2817,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#154284",
+                    "secondary": "#9d1009",
+                    "text": "#9d1009"
+                }
+            },
+            "awayTeam": {
+                "name": "Atlético Madrid",
+                "slug": "atletico-madrid",
+                "shortName": "Atl. Madrid",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 553043,
+                "nameCode": "ATM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2836,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#c40000",
+                    "text": "#c40000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369412,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "atletico-madrid-barcelona",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "ugbsIgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Sevilla",
+                "slug": "sevilla",
+                "shortName": "Sevilla",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 295923,
+                "nameCode": "SEV",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2833,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#cc1020",
+                    "text": "#cc1020"
+                }
+            },
+            "awayTeam": {
+                "name": "Villarreal",
+                "slug": "villarreal",
+                "shortName": "Villarreal",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 180132,
+                "nameCode": "VIL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2819,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#013765",
+                    "text": "#013765"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369411,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "sevilla-villarreal",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "vgbszgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Osasuna",
+                "slug": "osasuna",
+                "shortName": "Osasuna",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 74479,
+                "nameCode": "OSA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2820,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#14213d",
+                    "text": "#14213d"
+                }
+            },
+            "awayTeam": {
+                "name": "Real Sociedad",
+                "slug": "real-sociedad",
+                "shortName": "Real Sociedad",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 170438,
+                "nameCode": "RSO",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2824,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#0077c7",
+                    "text": "#0077c7"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369410,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "real-sociedad-osasuna",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "DgbsoKj",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Girona",
+                "slug": "girona",
+                "shortName": "Girona",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 92961,
+                "nameCode": "GIR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 24264,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Valencia",
+                "slug": "valencia",
+                "shortName": "Valencia",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 122074,
+                "nameCode": "VCF",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2828,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369409,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "girona-valencia",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "qgbsihb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Almería",
+                "slug": "almeria",
+                "shortName": "Almería",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 51792,
+                "nameCode": "ALM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2858,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Real Betis",
+                "slug": "real-betis",
+                "shortName": "Betis",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 137513,
+                "nameCode": "RBB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2816,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#006633",
+                    "text": "#006633"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369407,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "almeria-real-betis",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "tgbsAgb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Athletic Club",
+                "slug": "athletic-club",
+                "shortName": "Athletic Club",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 120565,
+                "nameCode": "ATH",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2825,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#aa0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Rayo Vallecano",
+                "slug": "rayo-vallecano",
+                "shortName": "Rayo Vallecano",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 67104,
+                "nameCode": "RVM",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2818,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369408,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "athletic-club-rayo-vallecano",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "wgbsNOb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Celta Vigo",
+                "slug": "celta-vigo",
+                "shortName": "Celta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 77907,
+                "nameCode": "RCC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2821,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#6cace4",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Cádiz",
+                "slug": "cadiz",
+                "shortName": "Cádiz",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 57071,
+                "nameCode": "CAD",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 4488,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#001d43",
+                    "text": "#001d43"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369413,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "cadiz-celta-vigo",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "jhbsCGc",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Las Palmas",
+                "slug": "las-palmas",
+                "shortName": "Las Palmas",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 43486,
+                "nameCode": "LPA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 6577,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#e8f541",
+                    "secondary": "#f3f845",
+                    "text": "#f3f845"
+                }
+            },
+            "awayTeam": {
+                "name": "Getafe",
+                "slug": "getafe",
+                "shortName": "Getafe",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 71656,
+                "nameCode": "GET",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2859,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#00369e",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369414,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "las-palmas-getafe",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "uniqueTournament": {
+                    "name": "LaLiga",
+                    "slug": "laliga",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#f4a32e",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "userCount": 877504,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 8,
+                    "country": {},
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 588,
+                "id": 36
+            },
+            "roundInfo": {
+                "round": 15
+            },
+            "customId": "BgbsKhb",
+            "status": {
+                "code": 0,
+                "description": "Not started",
+                "type": "notstarted"
+            },
+            "homeTeam": {
+                "name": "Mallorca",
+                "slug": "mallorca",
+                "shortName": "Mallorca",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 56627,
+                "nameCode": "MLL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2826,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Deportivo Alavés",
+                "slug": "deportivo-alaves",
+                "shortName": "Alavés",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 41209,
+                "nameCode": "ALA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2885,
+                "country": {
+                    "alpha2": "ES",
+                    "name": "Spain"
+                },
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0232a0",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changeTimestamp": 0
+            },
+            "hasGlobalHighlights": false,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11369416,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1701630000,
+            "slug": "deportivo-alaves-mallorca",
             "finalResultOnly": false
         }
     ],
